@@ -1,1 +1,1 @@
-Welcome to the SurvivalManual wiki!
+[01 Introduction](01)
