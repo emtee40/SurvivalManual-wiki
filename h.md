@@ -2,15 +2,7 @@
 > 
 > By being familiar with the different cloud formation and what weather they portend, you can take appropriate action for your protection.
 
-<center>
-
-<table border="0" width="550">
-
-<tbody>
-
-<tr>
-
-<td>![](h1.jpg)
+![](h1.jpg)
 
 **Cirrus clouds**  
 
