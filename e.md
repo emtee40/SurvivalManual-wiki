@@ -9,7 +9,7 @@
 > > *   Precautions to take to prevent snakebite.
 > >     
 > >     
-> > *   What actions to take in case of snakebite ([Chapter 3](survival://03.htm)).
+> > *   What actions to take in case of snakebite ([Chapter 3](03)).
 > >     
 > >     
 > > 

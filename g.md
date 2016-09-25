@@ -104,7 +104,7 @@ G-2\. The basic knots and methods of tying them that you should know for your su
 
 ### VARIOUS CONSTRUCTION LASHINGS
 
-G-3\. There are numerous items that require lashings for construction. [Figures G-14 through G-16](#figg-14) show types of lashings that you can use when constructing tripods, shelters, and racks. Refer to [paragraphs 12-25 and 12-26](survival://12.htm#para12-25) if using field-expedient rope.
+G-3\. There are numerous items that require lashings for construction. [Figures G-14 through G-16](#figg-14) show types of lashings that you can use when constructing tripods, shelters, and racks. Refer to [paragraphs 12-25 and 12-26](12#para12-25) if using field-expedient rope.
 
 <a name="figg-14"></a>![Figure G-14\. Shears Lashing](image268.jpg)
 
