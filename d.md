@@ -19,16 +19,6 @@ _Scorpionidae_ order
 
 * * *
 
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
-
 ![](image233.jpg)
 
 **Brown house spider or brown recluse spider**  
@@ -40,27 +30,8 @@ _Laxosceles reclusa_
 
 **Distribution:** North America.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image234.jpg)
 
@@ -73,27 +44,7 @@ _Atrax_ species (_A. robustus, A. formidablis_)
 
 **Distribution:** Australia. (Other nonvenomous species worldwide.)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image235.jpg)
 
@@ -106,27 +57,8 @@ _Theraphosidae_ and _Lycosa_ species
 
 **Distribution:** Americas, southern Europe.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image236.jpg)
 
@@ -141,27 +73,7 @@ _Latrodectus_ species
 
 **NOTE:** Females are the poisonous gender. Red widow in the Middle East is the only spider known to be deadly to man.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image237.jpg)
 
@@ -173,27 +85,7 @@ _Latrodectus_ species
 
 **Distribution:** Worldwide.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image238.jpg)
 
@@ -207,27 +99,10 @@ _Latrodectus_ species
 
 **NOTE:** Bees have barbed stingers and die after stinging because their venom sac and internal organs are pulled out during the attack.
 
-</td>
 
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
 
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image239.jpg)
 
@@ -241,27 +116,7 @@ _Latrodectus_ species
 
 **NOTE:** An exception to general appearance is the velvet ant of the southern United States. It is a flightless wasp with red and black alternating velvety bands.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image240.jpg)
 
@@ -272,13 +127,3 @@ _Latrodectus_ species
 **Habitat:** Mainly in forests and grasslands. Also in urban areas and farmlands.
 
 **Distribution:** Worldwide.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
