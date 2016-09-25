@@ -2,16 +2,6 @@
 
 * * *
 
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
-
 ![](image232.jpg)
 
 **Scorpion**  
@@ -23,35 +13,9 @@ _Scorpionidae_ order
 
 **Distribution:** Worldwide in temperate, arid, and tropical regions.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Scorpions sting with their tails, causing local pain, swelling, possible incapacitation, and death.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+>Scorpions sting with their tails, causing local pain, swelling, possible incapacitation, and death.
 
 * * *
 
