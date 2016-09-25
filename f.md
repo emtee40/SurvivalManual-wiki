@@ -36,16 +36,6 @@ F-7\. In fresh water, piranha are the only significantly dangerous fish. They ar
 
 F-8\. There are several species of venomous fish and invertebrates, all of which live in saltwater. All of these are capable of injecting poisonous venom through spines located in their fins, tentacles, or bites. Their venoms cause intense pain and are potentially fatal. If injured by one of the following fish or invertebrates, treat the injury as for snakebite.
 
-<center>
-
-<table cellspacing="0" cellpadding="5" width="500">
-
-<tbody>
-
-<tr>
-
-<td>
-
 ![](image243.jpg)
 
 **Stingray**  
@@ -150,17 +140,6 @@ These cone-shaped shells have smooth, colorful mottling and long, narrow opening
 _Terebridae_ species  
 
 These shells are found in both temperate and tropical waters. They are similar to cone shells but much thinner and longer. They poison in the same way as cone shells, but their venom is not as poisonous.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 ### FISH WITH TOXIC FLESH
 
 F-9\. There are no simple rules to tell edible fish from those with poisonous flesh. [Figure 8-2](survival://08.htm#fig8-2) shows the most common toxic fish. All of these fish contain various types of poisonous substances or toxins in their flesh and are dangerous to eat. They have the following common characteristics:
