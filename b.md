@@ -2,16 +2,6 @@
 
 * * *
 
-<center>
-
-<table cellspacing="0" border="1">
-
-<tbody>
-
-<tr>
-
-<td width="589">
-
 ![](image163.jpg)
 
 **Abal**  
@@ -23,27 +13,7 @@ _Calligonum comosum_
 
 **Edible Parts:** This plant's general appearance would not indicate its usefulness to you, but while this plant is flowering in the spring, its fresh flowers can be eaten. It is common in the areas where it is found. An analysis of the abal's food value has shown it to be high in sugar and nitrogenous components.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image164.jpg)
 
@@ -60,27 +30,7 @@ _Acacia farnesiana_
 
 ![](image165.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image166.jpg)
 
@@ -93,49 +43,13 @@ _Agave_ species
 
 **Edible Parts:** Its flowers and flower buds are edible. Boil them before eating.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-The juice of some species causes dermatitis in some individuals.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> The juice of some species causes dermatitis in some individuals.
 
 **Other Uses:** Cut the huge flower stalk and collect the juice for drinking. Some species have very fibrous leaves. Pound the leaves and remove the fibers for weaving and making ropes. Most species have thick, sharp needles at the tips of the leaves. Use them for sewing or making hacks. The sap of some species contains a chemical that makes the sap suitable for use as a soap.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image1.jpg)
 
@@ -148,31 +62,11 @@ _Prunus amygdalus_
 
 **Edible Parts:** The mature almond fruit splits open lengthwise down the side, exposing the ripe almond nut. You can easily get the dry kernel by simply cracking open the stone. Almond meats are rich in food value, like all nuts. Gather them in large quantities and shell them for further use as survival food. You could live solely on almonds for rather long periods. When you boil them, the kernel's outer covering comes off and only the white meat remains.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image2.jpg)
 
-**Amaranth**  
+**Amaranth**
 _Amaranthus_ species  
 
 **Description:** These plants, which grow 90 to 150 centimeters (35 to 60 inches) tall, are abundant weeds in many parts of the world. All amaranth have alternate simple leaves. They may have some red color present on the stems. They bear minute, greenish flowers in dense clusters at the top of the plants. Their seeds may be brown or black in weedy species and light-colored in domestic species.
@@ -181,27 +75,7 @@ _Amaranthus_ species
 
 **Edible Parts:** All parts are edible, but some may have sharp spines you should remove before eating. The young plants or the growing tips of older plants are an excellent vegetable. Simply boil the young plants or eat them raw. Their seeds are very nutritious. Shake the tops of older plants to get the seeds. Eat the seeds raw, boiled, ground into flour, or popped like popcorn.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image167.jpg)
 
@@ -214,27 +88,7 @@ _Salix arctica_
 
 **Edible Parts:** You can collect the succulent, tender young shoots of the arctic willow in early spring. Strip off the outer bark of the new shoots and eat the inner portion raw. You can also peel and eat raw the young underground shoots of any of the various kinds of arctic willow. Young willow leaves are one of the richest sources of vitamin C, containing 7 to 10 times more than an orange.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image3.jpg)
 
@@ -249,27 +103,7 @@ Maranta and Sagittaria_ species
 
 ![](image168.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image4.jpg)
 
@@ -282,47 +116,11 @@ _Asparagus officinalis_
 
 **Edible Parts:** Eat the young stems before leaves form. Steam or boil them for 10 to 15 minutes before eating. Raw asparagus may cause nausea or diarrhea. The fleshy roots are a good source of starch.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**WARNING**
-
-Do not eat the fruits of any since some are toxic.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **WARNING**
+>
+> Do not eat the fruits of any since some are toxic.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image169.jpg)
 
@@ -337,27 +135,7 @@ _Aegle marmelos_
 
 ![](image170.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image5.jpg)
 
@@ -372,47 +150,11 @@ Various species including _Bambusa, Dendrocalamus, Phyllostachys_
 
 **Other Uses:** Use the mature bamboo to build structures or to make containers, ladles, spoons, and various other cooking utensils. Also, use bamboo to make tools and weapons. You can make a strong bow by splitting the bamboo and putting several pieces together.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Green bamboo may explode in a fire. Green bamboo has an internal membrane you must remove before using it as a food or water container.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> Green bamboo may explode in a fire. Green bamboo has an internal membrane you must remove before using it as a food or water container.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image6.jpg)
 
@@ -429,27 +171,7 @@ _Musa_ species
 
 ![](image171.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image7.jpg)
 
@@ -464,27 +186,7 @@ _Adansonia digitata_
 
 **Other Uses:** Drinking a mixture of pulp and water will help cure diarrhea. Often the hollow trunks are good sources of fresh water. The bark can be cut into strips and pounded to obtain a strong fiber for making rope.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image8.jpg)
 
@@ -498,28 +200,7 @@ _Flacourtia inermis_
 **Edible Parts:** Eat the fruit raw or cooked.
 
 ![](image172.jpg)
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image173.jpg)
 
@@ -532,27 +213,7 @@ _Arctostaphylos uvaursi_
 
 **Edible Parts:** Its berries are edible raw or cooked. You can make a refreshing tea from its young leaves.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image9.jpg)
 
@@ -565,27 +226,7 @@ _Fagus_ species
 
 **Edible Parts:** The mature beechnuts readily fall out of the husklike seedpods. You can eat these dark-brown, triangular nuts by breaking the thin shell with your fingernail and removing the white, sweet kernel inside. Beechnuts are one of the most delicious of all wild nuts. They are a most useful survival food because of the kernel's high oil content. You can also use the beechnuts as a coffee substitute. Roast them so that the kernel becomes golden brown and quite hard. Then pulverize the kernel and, after boiling or steeping in hot water, you have a passable coffee substitute.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image10.jpg)
 
@@ -598,47 +239,11 @@ _Antidesma bunius_
 
 **Edible Parts:** The fruit is edible raw. Do not eat any other parts of the tree. In Africa, the roots are toxic. Other parts of the plant may be poisonous.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Eaten in large quantities, the fruit may have a laxative effect.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> Eaten in large quantities, the fruit may have a laxative effect.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image11.jpg)
 
@@ -653,27 +258,7 @@ _Rubus_ species
 
 **Other Uses:** Use the leaves to make tea. To treat diarrhea, drink a tea made by brewing the dried root bark of the blackberry bush.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image12.jpg)
 
@@ -686,27 +271,7 @@ _Vaccinium_ and _Gaylussacia_ species
 
 **Edible Parts:** Their fruits are edible raw.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image13.jpg)
 
@@ -721,27 +286,7 @@ _Artocarpus incisa_
 
 **Other Uses:** The thick sap can serve as glue and caulking material. You can also use it as birdlime (to entrap small birds by smearing the sap on twigs where they usually perch).
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image14.jpg)
 
@@ -754,49 +299,13 @@ _Arctium lappa_
 
 **Edible Parts:** Peel the tender leaf stalks and eat them raw or cook them like greens. The roots are also edible boiled or baked.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Do not confuse burdock with rhubarb that has poisonous leaves.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> Do not confuse burdock with rhubarb that has poisonous leaves.
 
 **Other Uses:** A liquid made from the roots will help to produce sweating and increase urination. Dry the root, simmer it in water, strain the liquid, and then drink the strained liquid. Use the fiber from the dried stalk to weave cordage.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image15.jpg)
 
@@ -809,49 +318,13 @@ _Corypha elata_
 
 **Edible Parts:** The trunk contains starch that is edible raw. The very tip of the trunk is also edible raw or cooked. You can get large quantities of liquid by bruising the flowering stalk. The kernels of the nuts are edible.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-The seed covering may cause dermatitis in some individuals.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> The seed covering may cause dermatitis in some individuals.
 
 **Other Uses:** You can use the leaves as weaving material.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image16.jpg)
 
@@ -864,27 +337,7 @@ _Canna indica_
 
 **Edible Parts:** The large and much-branched rootstocks are full of edible starch. The younger parts may be finely chopped and then boiled or pulverized into a meal. Mix in the young shoots of palm cabbage for flavoring.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image17.jpg)
 
@@ -899,27 +352,7 @@ _Ceratonia siliqua_
 
 ![](image174.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image18.jpg)
 
@@ -932,47 +365,11 @@ _Anacardium occidentale_
 
 **Edible Parts:** The nut encloses one seed. The seed is edible when roasted. The pear-shaped fruit is juicy, sweet acid, and astringent. It is quite safe and considered delicious by most people who eat it.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-The green hull surrounding the nut contains a resinous irritant poison that will blister the lips and tongue like poison ivy. Heat destroys this poison when the nuts are roasted.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> The green hull surrounding the nut contains a resinous irritant poison that will blister the lips and tongue like poison ivy. Heat destroys this poison when the nuts are roasted.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image19.jpg)
 
@@ -987,27 +384,7 @@ _Typha latifolia_
 
 **Other Uses:** The dried leaves are an excellent source of weaving material you can use to make floats and rafts. The cottony seeds make good pillow stuffing and insulation. The fluff makes excellent tinder. Dried cattails are effective insect repellents when burned.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image20.jpg)
 
@@ -1022,27 +399,7 @@ _Cereus_ species
 
 **Other Uses:** The pulp of the cactus is a good source of water. Break open the stem and scoop out the pulp.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image21.jpg)
 
@@ -1055,27 +412,8 @@ _Castanea sativa_
 
 **Edible Parts:** Chestnuts are highly useful as survival food. Ripe nuts are usually picked in autumn, although unripe nuts picked while green may also be used for food. Perhaps the easiest way to prepare them is to roast the ripe nuts in embers. Cooked this way, they are quite tasty, and you can eat large quantities. Another way is to boil the kernels after removing the outer shell. After boiling the nuts until fairly soft, you can mash them like potatoes.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image22.jpg)
 
@@ -1088,27 +426,7 @@ _Cichorium intybus_
 
 **Edible Parts:** All parts are edible. Eat the young leaves as a salad or boil to eat as a vegetable. Cook the roots as a vegetable. For use as a coffee substitute, roast the roots until they are dark brown and then pulverize them.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image23.jpg)
 
@@ -1121,27 +439,7 @@ _Cyperus esculentus_
 
 **Edible Parts:** The tubers are edible raw, boiled, or baked. You can also grind them and use them as a coffee substitute.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image24.jpg)
 
@@ -1156,27 +454,7 @@ _Cocos nucifera_
 
 **Other Uses:** Use coconut oil to cook and to protect metal objects from corrosion. Also, use the oil to treat saltwater sores, sunburn, and dry skin. Use the oil in improvised torches. Use the tree trunk as building material and the leaves as thatch. Hollow out the large stump for use as a food container. The coconut husks are good flotation devices and the husk's fibers are used to weave ropes and other items. Use the gauzelike fibers at the leaf bases as strainers or use them to weave a bug net or to make a pad to use on wounds. The husk makes a good abrasive. Dried husk fiber is an excellent tinder. A smoldering husk helps to repel mosquitoes. Smoke caused by dripping coconut oil in a fire also repels mosquitoes. To render coconut oil, put the coconut meat in the sun, heat it over a slow fire, or boil it in a pot of water. Coconuts washed out to sea are a good source of fresh liquid for the sea survivor.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image175.jpg)
 
@@ -1191,27 +469,7 @@ _Ziziphus jujuba_
 
 ![](image176.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image25.jpg)
 
@@ -1226,27 +484,7 @@ _Vaccinium macrocarpon_
 
 **Other Uses:** Cranberries may act as a diuretic. They are useful for treating urinary tract infections.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image177.jpg)
 
@@ -1259,27 +497,7 @@ _Empetrum nigrum_
 
 **Edible Parts:** The fruits are edible fresh or can be dried for later use.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image178.jpg)
 
@@ -1294,27 +512,7 @@ _Cavanillesia platanifolia_
 
 **Other Uses:** Use young saplings and the branches' inner bark to make rope.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image179.jpg)
 
@@ -1329,27 +527,7 @@ _Taraxacum officinale_
 
 **Other Uses:** Use the white juice in the flower stems as glue.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image26.jpg)
 
@@ -1364,27 +542,7 @@ _Phoenix dactylifera_
 
 **Other Uses:** The trunks provide valuable building material in desert regions where few other treelike plants are found. The leaves are durable, and you can use them for thatching and as weaving material. The base of the leaves resembles coarse cloth that you can use for scrubbing and cleaning.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image27.jpg)
 
@@ -1397,47 +555,11 @@ _Hemerocallis fulva_
 
 **Edible Parts:** The young green leaves are edible raw or cooked. Tubers are also edible raw or cooked. You can eat its flowers raw, but they taste better cooked. You can also fry the flowers for storage.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Eating excessive amounts of raw flowers may cause diarrhea.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> Eating excessive amounts of raw flowers may cause diarrhea.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image28.jpg)
 
@@ -1450,27 +572,7 @@ _Duchesnea indica_
 
 **Edible Parts:** Its fruit is edible. Eat it fresh.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image29.jpg)
 
@@ -1483,47 +585,11 @@ _Sambucus canadensis_
 
 **Edible Parts:** The flowers and fruits are edible. You can make a drink by soaking the flower heads for 8 hours, discarding the flowers, and drinking the liquid.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-All other parts of the plant are poisonous and dangerous if eaten.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> All other parts of the plant are poisonous and dangerous if eaten.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image180.jpg)
 
@@ -1536,27 +602,7 @@ _Epilobium angustifolium_
 
 **Edible Parts:** The leaves, stems, and flowers are edible in the spring but become tough in summer. You can split open the stems of old plants and eat the pith raw.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image30.jpg)
 
@@ -1569,27 +615,7 @@ _Caryota urens_
 
 **Edible Parts:** The chief food in this palm is the starch stored in large quantities in its trunk. The juice from the fishtail palm is very nourishing and you have to drink it shortly after getting it from the palm flower shoot. Boil the juice down to get a rich sugar syrup. Use the same method as for the sugar palm to get the juice. The palm cabbage may be eaten raw or cooked.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image31.jpg)
 
@@ -1602,27 +628,7 @@ _Setaria_ species
 
 **Edible Parts:** The grains are edible raw but are very hard and sometimes bitter. Boiling removes some of the bitterness and makes them easier to eat.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image32.jpg)
 
@@ -1635,27 +641,7 @@ _Psophocarpus tetragonolobus_
 
 **Edible Parts:** You can eat the young pods like string beans. The mature seeds are a valuable source of protein after parching or roasting them over hot coals. You can germinate the seeds (as you can many kinds of beans) in damp moss and eat the resultant sprouts. The thickened roots are edible raw. They are slightly sweet, with the firmness of an apple. You can also eat the young leaves as a vegetable, raw or steamed.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image181.jpg)
 
@@ -1668,27 +654,7 @@ _Celtis_ species
 
 **Edible Parts:** Its berries are edible when they are ripe and fall from the tree.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image182.jpg)
 
@@ -1703,27 +669,7 @@ _Corylus_ species
 
 ![](image183.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image33.jpg)
 
@@ -1738,27 +684,7 @@ _Moringa pterygosperma_
 
 ![](image184.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image185.jpg)
 
@@ -1771,27 +697,7 @@ _Cetraria islandica_
 
 **Edible Parts:** All parts of the Iceland moss are edible. During the winter or dry season, it is dry and crunchy but softens when soaked. Boil the moss to remove the bitterness. After boiling, eat by itself or add to milk or grains as a thickening agent. Dried plants store well.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image186.jpg)
 
@@ -1804,27 +710,7 @@ _Claytonia_ species
 
 **Edible Parts:** The tubers are edible but you should boil them before eating.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image187.jpg)
 
@@ -1837,47 +723,11 @@ _Juniperus_ species
 
 **Edible Parts:** The berries and twigs are edible. Eat the berries raw or roast the seeds to use as a coffee substitute. Use dried and crushed berries as a seasoning for meat. Gather young twigs to make a tea.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Many plants may be called cedars but are not related to junipers and may be harmful. Always look for the berrylike structures, needle leaves, and resinous, fragrant sap to be sure the plant you have is a juniper.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> Many plants may be called cedars but are not related to junipers and may be harmful. Always look for the berrylike structures, needle leaves, and resinous, fragrant sap to be sure the plant you have is a juniper.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image34.jpg)
 
@@ -1890,27 +740,7 @@ _Nelumbo_ species
 
 **Edible Parts:** All parts of the plant are edible raw or cooked. The underwater parts contain large quantities of starch. Dig the fleshy portions from the mud and bake or boil them. Boil the young leaves and eat them as a vegetable. The seeds have a pleasant flavor and are nutritious. Eat them raw, or parch and grind them into flour.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image188.jpg)
 
@@ -1923,47 +753,11 @@ _Xanthosoma caracu_
 
 **Edible Parts:** The tubers are rich in starch. Cook them before eating to destroy a poison contained in all parts of the plant.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**WARNING**
-
-Always cook before eating.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **WARNING**
+>
+> Always cook before eating.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image189.jpg)
 
@@ -1976,49 +770,13 @@ _Mangifera indica_
 
 **Edible Parts:** The fruits are a nutritious food source. The unripe fruit can be peeled and its flesh eaten by shredding it and eating it like a salad. The ripe fruit can be peeled and eaten raw. Roasted seed kernels are edible.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-If you are sensitive to poison ivy, avoid eating mangoes, as they cause a severe reaction in sensitive individuals.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> If you are sensitive to poison ivy, avoid eating mangoes, as they cause a severe reaction in sensitive individuals.
 
 ![](image190.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image191.jpg)
 
@@ -2031,49 +789,13 @@ _Manihot utillissima_
 
 **Edible Parts:** The rootstocks are full of starch and high in food value. Two kinds of manioc are known: bitter and sweet. Both are edible. The bitter type contains poisonous hydrocyanic acid. To prepare manioc, first grind the fresh manioc root into a pulp, then cook it for at least 1 hour to remove the bitter poison from the roots. Then flatten the pulp into cakes and bake as bread. Manioc cakes or flour will keep almost indefinitely if protected against insects and dampness. Wrap manioc in banana leaves for protection.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-For safety, always cook the roots of either type.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> For safety, always cook the roots of either type.
 
 ![](image192.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image35.jpg)
 
@@ -2086,47 +808,11 @@ _Caltha palustris_
 
 **Edible Parts:** All parts are edible if boiled.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-As with all water plants, do not eat this plant raw. Raw water plants may carry dangerous organisms that are removed only by cooking.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> As with all water plants, do not eat this plant raw. Raw water plants may carry dangerous organisms that are removed only by cooking.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image36.jpg)
 
@@ -2143,27 +829,7 @@ _Morus_ species
 
 ![](image193.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image37.jpg)
 
@@ -2178,27 +844,7 @@ _Urtica_ and _Laportea_ species
 
 **Other Uses:** Mature stems have a fibrous layer that you can divide into individual fibers and use to weave string or twine.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image38.jpg)
 
@@ -2215,27 +861,7 @@ Nipa fruticans
 
 ![](image194.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image39.jpg)
 
@@ -2248,51 +874,15 @@ _Quercus_ species
 
 **Edible Parts:** All parts are edible, but often contain large quantities of bitter substances. White oak acorns usually have a better flavor than red oak acorns. Gather and shell the acorns. Soak red oak acorns in water for 1 to 2 days to remove the bitter substance. You can speed up this process by putting wood ashes in the water in which you soak the acorns. Boil the acorns or grind them into flour and use the flour for baking. You can use acorns that you baked until very dark as a coffee substitute.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Tannic acid gives the acorns their bitter taste. Eating an excessive amount of acorns high in tannic acid can lead to kidney failure. Before eating acorns, leach out this chemical.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> Tannic acid gives the acorns their bitter taste. Eating an excessive amount of acorns high in tannic acid can lead to kidney failure. Before eating acorns, leach out this chemical.
 
 **Oak (Continued)**
 
 **Other Uses:** Oak wood is excellent for building or burning. Small oaks can be split and cut into long thin strips (3 to 6 millimeters [1/8 to 1/4 inch] thick and 1.2 centimeters [1/3 inch] wide) used to weave mats, baskets, or frameworks for packs, sleds, furniture, etc. Oak bark soaked in water produces a tanning solution used to preserve leather.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image40.jpg)
 
@@ -2305,27 +895,7 @@ _Atriplex_ species
 
 **Edible Parts:** The entire plant is edible raw or boiled.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image41.jpg)
 
@@ -2338,27 +908,7 @@ _Sabal palmetto_
 
 **Edible Parts:** The fruits are edible raw. The hard seeds may be ground into flour. The heart of the palm is a nutritious food source at any time. Cut off the top of the tree to obtain the palm heart.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image195.jpg)
 
@@ -2373,47 +923,11 @@ _Carica papaya_
 
 **Other Uses:** Use the milky juice of the unripe fruit to tenderize tough meat. Rub the juice on the meat.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Be careful not to get the milky sap from the unripe fruit into your eyes. It will cause intense pain and temporarysometimes even permanentblindness.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> Be careful not to get the milky sap from the unripe fruit into your eyes. It will cause intense pain and temporarysometimes even permanentblindness.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image42.jpg)
 
@@ -2426,47 +940,11 @@ _Diospyros virginiana_ and other species
 
 **Edible Parts:** The leaves are a good source of vitamin C. The fruits are edible raw or baked. To make tea, dry the leaves and soak them in hot water. You can eat the roasted seeds.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Some persons are unable to digest persimmon pulp. Unripe persimmons are highly astringent and inedible.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> Some persons are unable to digest persimmon pulp. Unripe persimmons are highly astringent and inedible.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="598">
-
-<tbody>
-
-<tr>
-
-<td width="586">
 
 ![](image196.jpg)
 
@@ -2479,27 +957,7 @@ _Mammilaria_ species
 
 **Edible Parts:** They are a good source of water in the desert.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image43.jpg)
 
@@ -2514,29 +972,7 @@ _Pinus_ species
 
 **Other Uses:** Use the resin to waterproof articles. Also, use it as glue. Collect the resin from the tree. If there is not enough resin on the tree, cut a notch in the bark so more sap will seep out. Put the resin in a container and heat it. The hot resin is your glue. Use it as is or add a small amount of ash dust to strengthen it. Use it immediately. You can use hardened pine resin as an emergency dental filling.
 
-![](image197.jpg)
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image44.jpg)
 
@@ -2551,27 +987,7 @@ _Plantago_ species
 
 **Other Uses:** To relieve pain from wounds and sores, wash and soak the entire plant for a short time and apply it to the injured area. To treat diarrhea, drink tea made from 28 grams (1 ounce) of the plant leaves boiled in 0.5 liter of water. The seeds and seed husks act as laxatives.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image45.jpg)
 
@@ -2584,49 +1000,13 @@ _Phytolacca americana_
 
 **Edible Parts:** The young leaves and stems are edible cooked. Boil them twice, discarding the water from the first boiling. The berries are considered poisonous, even if cooked.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-All parts of this plant are poisonous if eaten raw. Never eat the underground portions of the plant as these contain the highest concentrations of the poisons. Do not eat any plant over 25 centimeters (10 inches) tall or when red is showing in the plant.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> All parts of this plant are poisonous if eaten raw. Never eat the underground portions of the plant as these contain the highest concentrations of the poisons. Do not eat any plant over 25 centimeters (10 inches) tall or when red is showing in the plant.
 
 **Other Uses:** Use the juice of fresh berries as a dye.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image46.jpg)
 
@@ -2639,49 +1019,13 @@ _Opuntia_ species
 
 **Edible Parts:** All parts of the plant are edible. Peel the fruits and eat them fresh or crush them to prepare a refreshing drink. Avoid the tiny, pointed hairs. Roast the seeds and grind them to a flour.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Avoid any plant that resembles the prickly pear cactus and has milky sap.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> Avoid any plant that resembles the prickly pear cactus and has milky sap.
 
 **Other Uses:** The pad is a good source of water. Peel it carefully to remove all sharp hairs before putting it in your mouth. You can also use the pads to promote healing. Split them and apply the pulp to wounds.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image47.jpg)
 
@@ -2694,27 +1038,7 @@ _Portulaca oleracea_
 
 **Edible Parts:** All parts are edible. Wash and boil the plants for a tasty vegetable or eat them raw. Use the seeds as a flour substitute or eat them raw.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="601">
-
-<tbody>
-
-<tr>
-
-<td width="589">
 
 ![](image198.jpg)
 
@@ -2731,27 +1055,7 @@ _Calamus_ species
 
 ![](image199.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image48.jpg)
 
@@ -2764,27 +1068,7 @@ _Phragmites australis_
 
 **Edible Parts:** All parts of the plant are edible raw or cooked in any season. Harvest the stems as they emerge from the soil and boil them. You can also harvest them just before they produce flowers, then dry and beat them into flour. You can also dig up and boil the underground stems, but they are often tough. Seeds are edible raw or boiled, but they are rarely found.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image200.jpg)
 
@@ -2799,27 +1083,8 @@ _Cladonia rangiferina_
 
 ![](image201.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image49.jpg)
 
@@ -2832,47 +1097,11 @@ _Umbilicaria_ species
 
 **Edible Parts:** The entire plant is edible. Scrape it off the rock and wash it to remove grit. The plant may be dry and crunchy; soak it in water until it becomes soft. Rock tripes may contain large quantities of bitter substances; soaking or boiling the plant in several changes of water will remove the bitterness.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-There are some reports of poisoning from rock tripe, so apply the Universal Edibility Test.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> There are some reports of poisoning from rock tripe, so apply the Universal Edibility Test.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image202.jpg)
 
@@ -2887,27 +1116,7 @@ _Eugenia jambos_
 
 ![](image203.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image204.jpg)
 
@@ -2920,27 +1129,7 @@ _Metroxylon sagu_
 
 **Edible Parts:** These palms, when available, are of great use to the survivor. One trunk, cut just before it flowers, will yield enough sago to feed a person for 1 year. Obtain sago starch from nonflowering palms. To extract the edible sage, cut away the bark lengthwise from one half of the trunk and pound the soft, whitish inner part (pith) as fine as possible. Knead the pith in water and strain it through a coarse cloth into a container. The fine, white sago will settle in the container. Once the sago settles, it is ready for use. Squeeze off the excess water and let it dry. Cook it as pancakes or oatmeal. Two kilograms of sago is the nutritional equivalent of 1.5 kilograms of rice. The upper part of the trunk's core does not yield sago, but you can roast it in lumps over a fire. You can also eat the young sago nuts and the growing shoots or palm cabbage.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image50.jpg)
 
@@ -2955,27 +1144,7 @@ _Sassafras albidum_
 
 **Other Uses:** Shred the tender twigs for use as a toothbrush.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image205.jpg)
 
@@ -2988,27 +1157,7 @@ _Haloxylon ammondendron_
 
 **Edible Parts:** The thick bark acts as a water storage organ. You can get drinking water by pressing quantities of the bark. This plant is an important source of water in the arid regions in which it grows.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image51.jpg)
 
@@ -3021,27 +1170,7 @@ _Pandanus_ species
 
 **Edible Parts:** Knock the ripe fruit to the ground to separate the fruit segments from the hard outer covering. Chew the inner fleshy part. Cook in an earth oven fruit that is not fully ripe. Before cooking, wrap the whole fruit in banana leaves, breadfruit leaves, or any other suitable thick, leathery leaves. After cooking for about 2 hours, you can chew fruit segments like ripe fruit. Green fruit is inedible.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image206.jpg)
 
@@ -3054,27 +1183,7 @@ _Atriplex halimus_
 
 **Edible Parts:** Its leaves are edible. In the areas where it grows, it has the healthy reputation of being one of the few native plants that can sustain man in times of want.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image52.jpg)
 
@@ -3087,47 +1196,11 @@ _Rumex acerosella_
 
 **Edible Parts:** The plants are edible raw or cooked.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-These plants contain oxalic acid that can be damaging if too many plants are eaten raw. Cooking seems to destroy the chemical.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> These plants contain oxalic acid that can be damaging if too many plants are eaten raw. Cooking seems to destroy the chemical.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image207.jpg)
 
@@ -3142,27 +1215,7 @@ _Sorghum_ species
 
 **Other Uses:** Use the stems of tall sorghum as building materials.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image53.jpg)
 
@@ -3175,27 +1228,7 @@ _Nuphar_ species
 
 **Edible Parts:** All parts of the plant are edible. The fruits contain several dark brown seeds you can parch or roast and then grind into flour. The large rootstock contains starch. Dig it out of the mud, peel off the outside, and boil the flesh. Sometimes the rootstock contains large quantities of a very bitter compound. Boiling the plant in several changes of water may remove the bitterness.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="598">
-
-<tbody>
-
-<tr>
-
-<td width="586">
 
 ![](image54.jpg)
 
@@ -3208,49 +1241,13 @@ _Sterculia foetida_
 
 **Edible Parts:** The large, red pods produce a number of edible seeds. The seeds of all sterculias are edible and have a pleasant taste similar to cocoa. You can eat them like nuts, either raw or roasted.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Avoid eating large quantities. The seeds may have a laxative effect.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> Avoid eating large quantities. The seeds may have a laxative effect.
 
 ![](image208.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image55.jpg)
 
@@ -3263,47 +1260,11 @@ _Fragaria_ species
 
 **Edible Parts:** The fruit is edible fresh, cooked, or dried. Strawberries are a good source of vitamin C. You can also eat the plant's leaves or dry them to make a tea. Care should be taken with strawberries and other farm foods that have similar, pitted skins. In areas where human fertilizer is used, even bleach will not be able to effectively remove all bacteria.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**WARNING**
-
-Eat only white-flowering true strawberries. Other similar plants without white flowers can be poisonous.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **WARNING**
+>
+> Eat only white-flowering true strawberries. Other similar plants without white flowers can be poisonous.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image56.jpg)
 
@@ -3316,27 +1277,7 @@ _Saccharum officinarum_
 
 **Edible Parts:** The stem is an excellent source of sugar and is very nutritious. Peel the outer portion off with your teeth and eat the sugarcane raw. You can also squeeze juice out of the sugarcane.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image57.jpg)
 
@@ -3351,47 +1292,11 @@ _Arenga pinnata_
 
 **Other Uses:** The shaggy material at the base of the leaves makes an excellent rope, as it is strong and resists decay.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-The flesh covering the seeds may cause dermatitis.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> The flesh covering the seeds may cause dermatitis.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image209.jpg)
 
@@ -3406,47 +1311,11 @@ _Annona squamosa_
 
 **Other Uses:** You can use the finely ground seeds as an insecticide.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-The ground seeds are extremely dangerous to the eyes.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> The ground seeds are extremely dangerous to the eyes.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image58.jpg)
 
@@ -3459,27 +1328,7 @@ _Tamarindus indica_
 
 **Edible Parts:** The pulp surrounding the seeds is rich in vitamin C and is an important survival food. You can make a pleasantly acid drink by mixing the pulp with water and sugar or honey and letting the mixture mature for several days. Suck the pulp to relieve thirst. Cook the young, unripe fruits or seedpods with meat. Use the young leaves in soup. You must cook the seeds. Roast them above a fire or in ashes. Another way is to remove the seed coat and soak the seeds in salted water and grated coconut for 24 hours, then cook them. You can peel the tamarind bark and chew it.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image210.jpg)
 
@@ -3492,47 +1341,11 @@ _Colocasia_ and _Alocasia_ species
 
 **Edible Parts:** All parts of the plant are edible when boiled or roasted. When boiling, change the water once to get rid of any poison.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-If eaten raw, these plants will cause a serious inflammation of the mouth and throat.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> If eaten raw, these plants will cause a serious inflammation of the mouth and throat.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image59.jpg)
 
@@ -3545,49 +1358,13 @@ _Cirsium_ species
 
 **Edible Parts:** Peel the stalks, cut them into short sections, and boil them before eating. The roots are edible raw or cooked.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Some thistle species are poisonous.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+> **CAUTION**
+>
+> Some thistle species are poisonous.
 
 **Other Uses:** Twist the tough fibers of the stems to make a strong twine.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image60.jpg)
 
@@ -3602,27 +1379,7 @@ _Cordyline terminalis_
 
 **Other Uses:** Use the leaves to cover shelters or to make a rain cloak. Cut the leaves into liners for shoes; this works especially well if you have a blister. Fashion temporary sandals from the leaves. The terminal leaf, if not completely unfurled, can be used as a sterile bandage. Cut the leaves into strips, then braid the strips into rope.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image211.jpg)
 
@@ -3635,27 +1392,7 @@ Various genera
 
 **Edible Parts:** The young leaves and the soft inner portion of the trunk are edible. Boil the young leaves and eat as greens. Eat the inner portion of the trunk raw or bake it.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image61.jpg)
 
@@ -3668,27 +1405,7 @@ _Terminalia catappa_
 
 **Edible Parts:** The seed is a good source of food. Remove the fleshy, green covering and eat the seed raw or cooked.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image1.jpg)
 
@@ -3703,27 +1420,7 @@ _Juglans_ species
 
 **Other Uses:** You can boil walnuts and use the juice as an antifungal agent. The husks of "green" walnuts produce a dark brown dye for clothing or camouflage. Crush the husks of "green" black walnuts and sprinkle them into sluggish water or ponds for use as fish poison.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image212.jpg)
 
@@ -3736,27 +1433,7 @@ _Trapa natans_
 
 **Edible Parts:** The fruits are edible raw and cooked. The seeds are also a source of food.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image213.jpg)
 
@@ -3769,47 +1446,11 @@ _Ceratopteris_ species
 
 **Edible Parts:** Eat the fresh leaves like lettuce. Be careful not to dip the leaves in the contaminated water in which they are growing. Eat only the leaves that are well out of the water.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-This plant has carcinogenic properties and should only be used as a last resort.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> This plant has carcinogenic properties and should only be used as a last resort.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image214.jpg)
 
@@ -3824,27 +1465,7 @@ _Nymphaea odorata_
 
 **Other Uses:** Use the liquid resulting from boiling the thickened root in water as a medicine for diarrhea and as a gargle for sore throats.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image215.jpg)
 
@@ -3857,47 +1478,11 @@ _Alisma plantago-aquatica_
 
 **Edible Parts:** The rootstocks are a good source of starch. Boil or soak them in water to remove the bitter taste.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-To avoid parasites, always cook aquatic plants.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> To avoid parasites, always cook aquatic plants.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image216.jpg)
 
@@ -3910,27 +1495,7 @@ _Capparis aphylla_
 
 **Edible Parts:** The fruit and the buds of young shoots are edible raw.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image217.jpg)
 
@@ -3943,47 +1508,11 @@ _Malus_ species
 
 **Edible Parts:** Prepare wild apples for eating in the same manner as cultivated kinds. Eat them fresh, when ripe, or cooked. Should you need to store food, cut the apples into thin slices and dry them. They are a good source of vitamins.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Apple seeds contain cyanide compounds. Do not eat.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+>Apple seeds contain cyanide compounds. Do not eat.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image2.jpg)
 
@@ -3996,27 +1525,7 @@ _Citrullus colocynthis_
 
 **Edible Parts:** The seeds inside the ripe gourd are edible after they are completely separated from the very bitter pulp. Roast or boil the seedstheir kernels are rich in oil. The flowers are edible. The succulent stem tips can be chewed to obtain water.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image3.jpg)
 
@@ -4029,27 +1538,8 @@ _Rumex crispus_ and _Rumex acetosella_
 
 **Edible Parts:** Because of the tender nature of their foliage, sorrel and dock are useful plants, especially in desert areas. You can eat their succulent leaves fresh or slightly cooked. To take away the strong taste, change the water once or twice during cookinga useful hint in preparing many kinds of wild greens.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image4.jpg)
 
@@ -4064,27 +1554,7 @@ _Ficus_ species
 
 ![](image218.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image5.jpg)
 
@@ -4097,27 +1567,8 @@ _Luffa cylindrica_
 
 **Edible Parts:** You can boil the young green (half-ripe) fruit and eat them as a vegetable. Adding coconut milk will improve the flavor. After ripening, the luffa sponge develops an inedible spongelike texture in the interior of the fruit. You can also eat the tender shoots, flowers, and young leaves after cooking them. Roast the mature seeds a little and eat them like peanuts.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image6.jpg)
 
@@ -4132,47 +1583,11 @@ _Vitis_ species
 
 **Other Uses:** You can obtain water from severed grapevine stems. Cut off the vine at the bottom and place the cut end in a container. Make a slant-wise cut into the vine about 1.8 meters (6 feet) up on the hanging part. This cut will allow water to flow from the bottom end. As water diminishes in volume, make additional cuts farther down the vine.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-To avoid poisoning, do not eat grapelike fruits with only a single seed (moonseed).
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> To avoid poisoning, do not eat grapelike fruits with only a single seed (moonseed).
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image7.jpg)
 
@@ -4185,49 +1600,14 @@ _Allium_ species
 
 **Edible Parts:** The bulbs and young leaves are edible raw or cooked. Use in soup or to flavor meat.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
+> **CAUTION**
+>
+> There are several plants with onionlike bulbs that are extremely poisonous. Be certain that the plant you are using is a true onion or garlic. Do not eat bulbs with no onion smell.
 
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-There are several plants with onionlike bulbs that are extremely poisonous. Be certain that the plant you are using is a true onion or garlic. Do not eat bulbs with no onion smell.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 **Other Uses:** Eating large quantities of onions will give your body an odor that will help to repel insects. Garlic juice works as an antibiotic on wounds.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="599">
-
-<tbody>
-
-<tr>
-
-<td width="587">
 
 ![](image8.jpg)
 
@@ -4240,27 +1620,7 @@ _Pistacia_ species
 
 **Edible Parts:** You can eat the oil nut kernels after parching them over coals.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image9.jpg)
 
@@ -4273,27 +1633,7 @@ _Zizania aquatica_
 
 **Edible Parts:** During the spring and summer, the central portion of the lower stems and root shoots are edible. Remove the tough covering before eating. During the late summer and fall, collect the straw-covered husks. Dry and parch the husks, break them, and remove the rice. Boil or roast the rice and then beat it into flour.
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image219.jpg)
 
@@ -4306,47 +1646,13 @@ _Rosa_ species
 
 **Edible Parts:** The flowers and buds are edible raw or boiled. In an emergency, you can peel and eat the young shoots. You can boil fresh, young leaves in water to make a tea. After the flower petals fall, eat the rose hips; the pulp is highly nutritious and an excellent source of vitamin C. Crush or grind dried rose hips to make flour.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
+> **CAUTION**
+>
+> Eat only the outer portion of the fruit as the seeds of some species are quite prickly and can cause internal distress.
 
-<tbody>
 
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Eat only the outer portion of the fruit as the seeds of some species are quite prickly and can cause internal distress.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image10.jpg)
 
@@ -4359,47 +1665,11 @@ _Oxalis_ species
 
 **Edible Parts:** Cook the entire plant.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-Eat only small amounts of this plant as it contains a fairly high concentration of oxalic acid that can be harmful.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> Eat only small amounts of this plant as it contains a fairly high concentration of oxalic acid that can be harmful.
 
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image11.jpg)
 
@@ -4414,27 +1684,7 @@ _Dioscorea_ species
 
 ![](image220.jpg)
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
-
 * * *
-
-<center>
-
-<table cellspacing="0" cellpadding="5" border="1" width="600">
-
-<tbody>
-
-<tr>
-
-<td>
 
 ![](image221.jpg)
 
@@ -4447,32 +1697,6 @@ _Pachyrhizus erosus_
 
 **Edible Parts:** The tubers are about the size of a turnip and they are crisp, sweet, and juicy with a nutty flavor. They are nourishing and thirst quenching. Eat them raw or boiled. To make flour, slice the raw tubers, let them dry in the sun, and grind into a flour that is high in starch and may be used to thicken soup.
 
-<table cellspacing="0" cellpadding="7" border="1" width="400">
-
-<tbody>
-
-<tr>
-
-<td valign="top">
-
-**CAUTION**
-
-The raw seeds are poisonous.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</center>
+> **CAUTION**
+>
+> The raw seeds are poisonous.
