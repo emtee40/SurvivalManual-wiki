@@ -6,35 +6,35 @@
 
 ### FISH THAT ATTACK MAN
 
-F-1\. The shark is usually the first fish that comes to mind when considering fish that attack man. Other fish also fall in this category, such as the barracuda, the moray eel, and the piranha.
+The shark is usually the first fish that comes to mind when considering fish that attack man. Other fish also fall in this category, such as the barracuda, the moray eel, and the piranha.
 
 **SHARKS**
 
-F-2\. Sharks are potentially the most dangerous fish that attack people. The obvious danger of sharks is that they are capable of seriously maiming or killing you with their bite. Of the many shark species, only a relative few are dangerous. Most cases of shark attacks on humans are by the white, tiger, hammerhead, and blue sharks. There are also records of attacks by ground, gray nurse, and mako sharks. [Figure F-1](#figf-1), shows various sharks and their sizes.
+Sharks are potentially the most dangerous fish that attack people. The obvious danger of sharks is that they are capable of seriously maiming or killing you with their bite. Of the many shark species, only a relative few are dangerous. Most cases of shark attacks on humans are by the white, tiger, hammerhead, and blue sharks. There are also records of attacks by ground, gray nurse, and mako sharks. [Figure F-1](#figf-1), shows various sharks and their sizes.
 
 <a name="figf-1"></a>![Figure F-1\. Sharks](image241.jpg)
 
 **Figure F-1\. Sharks**
 
-F-3\. Avoid sharks if at all possible. Follow the procedures discussed in [Chapter 16](16) to defend yourself against a shark attack.
+Avoid sharks if at all possible. Follow the procedures discussed in [Chapter 16](16) to defend yourself against a shark attack.
 
-F-4\. Sharks vary in size, but there is no relationship between the size of the shark and likelihood of attack. Even the smaller sharks can be dangerous, especially when they are traveling in schools.
+Sharks vary in size, but there is no relationship between the size of the shark and likelihood of attack. Even the smaller sharks can be dangerous, especially when they are traveling in schools.
 
-F-5\. If bitten by a shark, the most important measure for you to take is to stop the bleeding quickly. Blood in the water will attract more sharks. Get yourself or the victim into a raft or to shore as soon as possible. If in the water, form a circle around the victim (if not alone), and stop the bleeding with a tourniquet.
+If bitten by a shark, the most important measure for you to take is to stop the bleeding quickly. Blood in the water will attract more sharks. Get yourself or the victim into a raft or to shore as soon as possible. If in the water, form a circle around the victim (if not alone), and stop the bleeding with a tourniquet.
 
 **OTHER FEROCIOUS FISH**
 
-F-6\. In saltwater, other ferocious fish include the barracuda, sea bass, and moray eel ([Figure F-2](#figf-2)). The sea bass is usually an open water fish. It is dangerous due to its large size. It can remove large pieces of flesh from a human. Barracudas and moray eels have been known to attack man and inflict vicious bites. Be careful of these two species when near reefs and in shallow water. Moray eels are very aggressive when disturbed.
+In saltwater, other ferocious fish include the barracuda, sea bass, and moray eel ([Figure F-2](#figf-2)). The sea bass is usually an open water fish. It is dangerous due to its large size. It can remove large pieces of flesh from a human. Barracudas and moray eels have been known to attack man and inflict vicious bites. Be careful of these two species when near reefs and in shallow water. Moray eels are very aggressive when disturbed.
 
 <a name="figf-2"></a>![Figure F-2\. Ferocious Fish](image242.jpg)
 
 **Figure F-2\. Ferocious Fish**
 
-F-7\. In fresh water, piranha are the only significantly dangerous fish. They are inhabitants of the tropics and are restricted to northern South America. These fish are fairly small, about 25 to 60 centimeters (10 to 24 inches), but they have very large teeth and travel in large schools. They can devour a full-grown hog in minutes.
+In fresh water, piranha are the only significantly dangerous fish. They are inhabitants of the tropics and are restricted to northern South America. These fish are fairly small, about 25 to 60 centimeters (10 to 24 inches), but they have very large teeth and travel in large schools. They can devour a full-grown hog in minutes.
 
 ### VENOMOUS FISH AND INVERTEBRATES
 
-F-8\. There are several species of venomous fish and invertebrates, all of which live in saltwater. All of these are capable of injecting poisonous venom through spines located in their fins, tentacles, or bites. Their venoms cause intense pain and are potentially fatal. If injured by one of the following fish or invertebrates, treat the injury as for snakebite.
+There are several species of venomous fish and invertebrates, all of which live in saltwater. All of these are capable of injecting poisonous venom through spines located in their fins, tentacles, or bites. Their venoms cause intense pain and are potentially fatal. If injured by one of the following fish or invertebrates, treat the injury as for snakebite.
 
 ![](image243.jpg)
 
@@ -142,15 +142,15 @@ _Terebridae_ species
 These shells are found in both temperate and tropical waters. They are similar to cone shells but much thinner and longer. They poison in the same way as cone shells, but their venom is not as poisonous.
 ### FISH WITH TOXIC FLESH
 
-F-9\. There are no simple rules to tell edible fish from those with poisonous flesh. [Figure 8-2](08#fig8-2) shows the most common toxic fish. All of these fish contain various types of poisonous substances or toxins in their flesh and are dangerous to eat. They have the following common characteristics:
+There are no simple rules to tell edible fish from those with poisonous flesh. [Figure 8-2](08#fig8-2) shows the most common toxic fish. All of these fish contain various types of poisonous substances or toxins in their flesh and are dangerous to eat. They have the following common characteristics:
 
 *   Most live in shallow water around reefs or lagoons.
 
 *   Many have boxy or round bodies with hard shell-like skins covered with bony plates or spines. They have small parrotlike mouths, small gills, and small or absent belly fins. Their names suggest their shape.
 
-F-10\. In addition to the above fish and their characteristics, barracuda and red snapper fish may carry ciguatera, a toxin that accumulates in the systems of fish that feed on tropical marine reefs.
+In addition to the above fish and their characteristics, barracuda and red snapper fish may carry ciguatera, a toxin that accumulates in the systems of fish that feed on tropical marine reefs.
 
-F-11\. Without specific local information, take the following precautions:
+Without specific local information, take the following precautions:
 
 *   Be very careful with fish taken from normally shallow lagoons with sandy or broken coral bottoms. Reef-feeding species predominate and some may be poisonous.
 

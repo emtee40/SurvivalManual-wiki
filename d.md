@@ -15,7 +15,7 @@ _Scorpionidae_ order
 
 > **CAUTION**
 >
->Scorpions sting with their tails, causing local pain, swelling, possible incapacitation, and death.
+> Scorpions sting with their tails, causing local pain, swelling, possible incapacitation, and death.
 
 * * *
 
