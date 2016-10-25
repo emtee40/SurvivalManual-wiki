@@ -64,7 +64,9 @@ _Prunus amygdalus_
 
 * * *
 
-![](image2.jpg)
+![](images/plants/amarantus_caudatus.jpg)
+Image by [Kurt Stüber](http://www.kurtstueber.de)
+[http://caliban.mpiz-koeln.mpg.de/mavica/index.html](http://caliban.mpiz-koeln.mpg.de/mavica/index.html) - part of [www.biolib.de](http://www.biolib.de) - [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) - link [on wikimedia](https://commons.wikimedia.org/w/index.php?curid=3143)
 
 **Amaranth**
 _Amaranthus_ species
