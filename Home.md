@@ -50,7 +50,7 @@
 
 ### [c Poisonous Plants](c)
 
-### [d Dangerous Insects and Arachnids](d)
+### [d Dangerous Insects and other Arthropods](d)
 
 ### [e Venomous Snakes and Mollusks](e)
 
