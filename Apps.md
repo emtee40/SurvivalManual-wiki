@@ -1,14 +1,16 @@
-### maps 
+> A phone can be a versatile tool when you install and use the right apps. 
+
+### Maps / Navigation
 
 Have a solution that can work offline like [osmand](http://osmand.net). Download the data for your area and other areas that might be needed. Also try it out offline - e.g. in flight mode. 
 
-### fdroid
+### Appstore / Fdroid
 
-Google play might not work - in [fdroid](http://fdroid.org) you can point to alternative repositories. When using the default repository you can also be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) - as are all apps mentioned here.  Also learn how to install apps without an appstore.
+Google-Play might not work - in [fdroid](http://fdroid.org) you can point to alternative repositories. When using the default repository you can also be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) - as are all apps mentioned here.  Also learn how to install apps without an appstore.
 
 ### Light 
 
-The light app might be one of the most used apps on phones ;-)
+So the phone can replace a torch but IMHO you should still have a real emergency LED-torch
 
 ### Compass
 
