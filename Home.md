@@ -45,8 +45,6 @@
 Appendix
 ========
 
-### [Survival Kits](a)
-
 ### [Edible and Medicinal Plants](b)
 
 ### [Poisonous Plants](c)
