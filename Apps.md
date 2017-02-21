@@ -36,4 +36,8 @@ Have a Music app that is not a streaming solution and some uplifting music ( I s
 
 ### Reader
 
- Install some PDF reader - and perhaps download some books or manuals.
+Install some PDF reader - and perhaps download some books or manuals.
+
+### Offline dictionary
+
+Install a offline working dictionary and install the languages that you are most likely to face. 
