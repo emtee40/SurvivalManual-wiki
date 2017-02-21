@@ -42,6 +42,9 @@
 
 ### [Survival in Man-Made Hazards](23)
 
+Appendix
+========
+
 ### [Survival Kits](a)
 
 ### [Edible and Medicinal Plants](b)
