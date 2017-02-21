@@ -1,6 +1,6 @@
 ### [Psychology](02)
 
-### [Planning and Kits](03)
+### [Planning and Kits](Kits)
 
 ### [Basic Medicine](04)
 
