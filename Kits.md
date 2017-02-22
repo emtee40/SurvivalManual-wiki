@@ -24,8 +24,7 @@ Your survival kit need not be elaborate. You need only functional items that wil
 * Durable
 
 Your survival kit should be broken down into the following categories:
-
-* Water
+*Water
 * Fire
 * Shelter
 * Food.
@@ -34,8 +33,7 @@ Your survival kit should be broken down into the following categories:
 * Miscellaneous.
 
 Each category should contain items that allow you to sustain your basic needs. For example, water: you should have items that allow you to scoop up, draw up, soak up, or suck up water; something to gather rainwater, condensation, or perspiration; something to transport water; and something to purify or filter water. Some examples of each category are as follows:
-
-* Water: purification tablets, non-lubricated condoms for carrying water, bleach, povidone-iodine drops, cravats, sponges, small plastic or rubber tubing, collapsible canteens or water bags.
+*Water: purification tablets, non-lubricated condoms for carrying water, bleach, povidone-iodine drops, cravats, sponges, small plastic or rubber tubing, collapsible canteens or water bags.
 * Fire: lighter, metal match, waterproof matches, magnesium bar, candle, magnifying lens.
 * Shelter: 550, parachute cord, large knife, machete or hatchet, poncho, space blanket, hammock, mosquito net, wire saw.
 * Food: knife, snare wire, fishhooks, fish and snare line, bouillon cubes or soup packets, high-energy food bars, granola bars, gill or yeti net, aluminum foil, freezer bags.
