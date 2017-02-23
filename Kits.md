@@ -30,7 +30,7 @@ Each category should contain items that allow you to sustain your basic needs. F
 * Shelter: 550, parachute cord, large knife, machete or hatchet, poncho, space blanket, hammock, mosquito net, wire saw.
 * Food: knife, snare wire, fishhooks, fish and snare line, bouillon cubes or soup packets, high-energy food bars, granola bars, gill or yeti net, aluminum foil, freezer bags.
 * Medical: oxytetracycline tablets (to treat diarrhea or infection), surgical blades or surgical preparation knife, butterfly sutures, lip balm, safety pins, sutures, antidiarrheal medication (imodium), antimalarial medication (doxycycline), broad-spectrum antibiotics (rocephin and zithromax) and broad spectrum topical ophthalmic (eye) antibiotic, antifungal, anti-inflammatory (ibuprofen), petrolatum gauze, and soap. Medical items may make up approximately 50 percent of your survival kit.
-* Signal: signaling mirror, strobe, pen flares, whistle, U.S. flag, pilot scarf or other bright orange silk scarf, glint tape, flashlight, laser pointer, solar blanket.
+* Signal: signaling mirror, strobe, pen flares, whistle, white flag, pilot scarf or other bright orange silk scarf, glint tape, flashlight, laser pointer, solar blanket.
 * Miscellaneous: wrist compass, needle and thread, money, extra eyeglasses, knife sharpener, cork
 
 Read and practice the survival techniques in this manual and apply these basic concepts to those you read about in other publications. Then prepare your survival kit with items that are durable, multipurpose, and lightweight. Imagination may be the largest part of your kit. It can replace many of the items in a kit. Combined with the will to live, it can mean the difference life and death.
