@@ -17,7 +17,9 @@ If you use a Multi-Tool in every-day life, then you know how to use it in a surv
 
 ### Which MultiTool
 
-There are a lot of options out there. I really like my [Leatherman OHT][OHTMultiTool]. I am carrying it most of the time when going out. Basically just leave it at home when I want to go dance and jump around or have to go to a place with security which might take the tool as it has a knife.
+There are a lot of options out there. I really like my [Leatherman OHT](OHTMultiTool).
+I am carrying it most of the time when going out.
+Basically just leave it at home when I want to go dance and jump around or have to go to a place with security which might have a problem with the tool as it contains a sharp knife.
 
 ### Maintenance
 
