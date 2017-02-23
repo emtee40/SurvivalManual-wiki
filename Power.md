@@ -30,6 +30,10 @@ You can also generate power by heat-difference. E.g. with a fire. There are now 
 
 Using the muscles of your arm is another option. There are small USB cranks to operate by hand some even [with a light][3]. But be aware that this really binds you to the task as you cannot really do much while turning the crank. Also I personally find it a really exhausting and boring task - I prefer to use the bicycle. But it is always good to have a lot of options and I own a small crank for emergencies.
 
+### Car
+
+You can also use a car to generate power. A car always comes with a generator - if you drive around the ( typically 12V ) battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger][4]. But be aware that you hurt the environment when doing so. This should be the last resort or used when you drive around in a car anyway to get from point A to point B.
+
 ## Tips & Tricks
 
 ### Power-Bank
@@ -47,3 +51,4 @@ The power you save you do not have to generate. A big help in saving power is me
 [1]: https://www.amazon.com/gp/product/B012YUJJM8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012YUJJM8&linkCode=as2&tag=ligi-20&linkId=02d3fbda3eaadbd10744c42805e0e791
 [2]: https://www.amazon.com/gp/product/B00BQHET9O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BQHET9O&linkCode=as2&tag=ligi-20&linkId=d949a1aca04d67b5e61d3bf77ce89d22
 [3]: https://www.amazon.com/gp/product/B01AD7IN4O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AD7IN4O&linkCode=as2&tag=ligi-20&linkId=9a9c9d7ff318d594d077fa917f8c3739
+[4]: https://www.amazon.com/gp/product/B00VH84L5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VH84L5E&linkCode=as2&tag=ligi-20&linkId=41a56b9c800ed019a0af367a49050502
