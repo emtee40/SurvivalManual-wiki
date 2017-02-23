@@ -1,6 +1,10 @@
 ### [Psychology](02)
 
+### [Power](Power)
+
 ### [Planning and Kits](Kits)
+
+### [Apps](Apps)
 
 ### [Basic Medicine](04)
 
