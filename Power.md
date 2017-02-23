@@ -8,7 +8,12 @@
  
 ### Solar
 
-There are [Solar USB chargers][1]. The sun is a great and very clean way to generate power. The only real drawbacks for this kind of power is that it is not available at night and the output depends on the weather. Other than this it is really nice way to generate power - and very effortless. While the sun is working for you - you can do other things like getting some food or build a shelter.
+There are [Solar USB chargers][1]. Harvesting the power of the sun is a great and very clean way to generate power. There are only 2 real drawbacks for this kind of power:
+
+* it is not available at night 
+* the output depends on the weather
+
+But if it is available you can use it very effortless. While the sun is working for you - you can do other useful things like getting some food or building a shelter.
 
 ### Bicycle
 
@@ -42,7 +47,7 @@ Get a good power-bank. Often you do not want to directly use the energy when gen
 
 ### Stay DC
 
-If possible stay DC ( Direct Curent ) - if you need to make a DC/AC ( Alternating Current ) AC/DC roundtrip ( e.g. with some inverter ) you loose a lot of power ( in fact you never loose power - but here you convert it in the form of heat which is often not the form you need ). Also DC is most of the time less deadly in handling - so it helps you to survive the process of surviving ;-)
+If possible stay DC ( Direct Current ) - if you need to make a DC/AC ( Alternating Current ) AC/DC roundtrip ( e.g. with some inverter ) you loose a lot of power ( in fact you never loose power - but here you convert it in the form of heat which is often not the form you need ). Also DC is most of the time less deadly in handling - so it helps you to survive the process of surviving ;-)
 
 ### Save Power
 
