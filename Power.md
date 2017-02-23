@@ -1,4 +1,4 @@
-> To use the [Apps](Apps) on your phone ( e.g. to read this manual ) you need power. Power can also provide you with light and empower you in many other ways. But the power-grid and outlets might not be available. In the early days of this app 
+> To use the [Apps](Apps) on your phone you need power. Power can also provide you with light and empower you in many other ways. But the power-grid and outlets might not be available. In the early days of this app 
 >
 > "you will not be able to read it as you have no power" ( anonymous commentator )
 >
@@ -8,7 +8,7 @@
  
 ### Solar
 
-There are [Solar USB chargers][1]. Harvesting the power of the sun is a great and very clean way to generate power. There are only 2 real drawbacks for this kind of power:
+There are [Solar USB chargers](SolarUSBCharger). Harvesting the power of the sun is a great and very clean way to generate power. There are only 2 real drawbacks for this kind of power:
 
 * it is not available at night 
 * the output depends on the weather
@@ -29,15 +29,15 @@ You can also use water to generate power. Either the flow of a river passing by.
 
 ### Heat-Difference
 
-You can also generate power by heat-difference. E.g. with a fire. There are now turnkey ready solutions like the [BioLite Wood Burning Campstove with USB][2] or there are also some pots out there with a power USB outlet. Science and Engineering brought us some really cool and mobile new options here just recently. You could also harvest the power of a fire via steam as is often done in a large scale today. But for small scale this is really effortful to use and implement.
+You can also generate power by heat-difference. E.g. with a fire. There are now turnkey ready solutions like the [BioLite Wood Burning Campstove with USB](CampStoveUSB) or there are also some pots out there with a power USB outlet. Science and Engineering brought us some really cool and mobile new options here just recently. You could also harvest the power of a fire via steam as is often done in a large scale today. But for small scale this is really effortful to use and implement.
 
 ### Hand Crank
 
-Using the muscles of your arm is another option. There are small USB cranks to operate by hand some even [with a light][3]. But be aware that this really binds you to the task as you cannot really do much while turning the crank. Also I personally find it a really exhausting and boring task - I prefer to use the bicycle. But it is always good to have a lot of options and I own a small crank for emergencies.
+Using the muscles of your arm is another option. There are small USB cranks to operate by hand some even [with a light](HandCrankUSB). But be aware that this really binds you to the task as you cannot really do much while turning the crank. Also I personally find it a really exhausting and boring task - I prefer to use the bicycle. But it is always good to have a lot of options and I own a small crank for emergencies.
 
 ### Car
 
-You can also use a car to generate power. A car always comes with a generator - if you drive around the ( typically 12V ) battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger][4]. But be aware that you hurt the environment when doing so. This should be the last resort or used when you drive around in a car anyway to get from point A to point B.
+You can also use a car to generate power. A car always comes with a generator - if you drive around the ( typically 12V ) battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger](CarUSBCharger). But be aware that you hurt the environment when doing so. This should be the last resort or used when you drive around in a car anyway to get from point A to point B.
 
 ## Tips & Tricks
 
@@ -52,8 +52,3 @@ If possible stay DC ( Direct Current ) - if you need to make a DC/AC ( Alternati
 ### Save Power
 
 The power you save you do not have to generate. A big help in saving power is measuring what device consumes how much energy in which state.
-
-[1]: https://www.amazon.com/gp/product/B012YUJJM8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012YUJJM8&linkCode=as2&tag=ligi-20&linkId=02d3fbda3eaadbd10744c42805e0e791
-[2]: https://www.amazon.com/gp/product/B00BQHET9O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BQHET9O&linkCode=as2&tag=ligi-20&linkId=d949a1aca04d67b5e61d3bf77ce89d22
-[3]: https://www.amazon.com/gp/product/B01AD7IN4O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AD7IN4O&linkCode=as2&tag=ligi-20&linkId=9a9c9d7ff318d594d077fa917f8c3739
-[4]: https://www.amazon.com/gp/product/B00VH84L5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VH84L5E&linkCode=as2&tag=ligi-20&linkId=41a56b9c800ed019a0af367a49050502
