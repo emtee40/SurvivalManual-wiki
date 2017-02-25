@@ -4,7 +4,9 @@
 
 ### [Power](Power)
 
-### [Planning and Kits](Kits)
+### [Planning](Planning)
+
+### [Kits](Kits)
 
 ### [Apps](Apps)
 
@@ -50,6 +52,8 @@
 
 Appendix
 ========
+
+### [MultiTool](MultiTool)
 
 ### [Edible and Medicinal Plants](b)
 
