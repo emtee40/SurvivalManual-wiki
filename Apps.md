@@ -30,7 +30,7 @@ I recommend the [Material Tea timer](https://github.com/ligi/MaterialTeaTimer). 
 
 ### Music
 
-Have a Music app that is not a streaming solution and some uplifting music ( I suggest DUB or reggae - but download whatever works best for you )
+Have a Music app that is not a streaming solution and some uplifting music ( I suggest DUB or reggae - like [PANDA DUB / LION'S DEN](PandaDubLionsDen) - but download whatever works best for you )
 
 ### Cryptocurrency 
 
