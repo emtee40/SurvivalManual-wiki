@@ -14,7 +14,7 @@
 
 ### [Shelter](05)
 
-### [Water Procurement](06)
+### [Water Procurement](Water)
 
 ### [Firecraft](07)
 
