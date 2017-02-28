@@ -47,7 +47,7 @@ Get a good power-bank. Often you do not want to directly use the energy when gen
 
 ### Stay DC
 
-If possible stay DC ( Direct Current ) - if you need to make a DC/AC ( Alternating Current ) AC/DC roundtrip ( e.g. with some inverter ) you loose a lot of power ( in fact you never loose power - but here you convert it in the form of heat which is often not the form you need ). Also DC is most of the time less deadly in handling - so it helps you to survive the process of surviving ;-)
+If possible stay DC ( Direct Current ) - if you need to make a DC/AC ( Alternating Current ) AC/DC roundtrip ( e.g. with some inverter ) you lose a lot of power ( in fact you never lose power - but here you convert it in the form of heat which is often not the form you need ). Also DC is most of the time less deadly in handling - so it helps you to survive the process of surviving ;-)
 
 ### Save Power
 
