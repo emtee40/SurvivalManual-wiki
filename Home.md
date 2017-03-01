@@ -1,6 +1,6 @@
 ### [Introduction](Introduction)
 
-### [Psychology](02)
+### [Psychology](Psychology)
 
 ### [Power](Power)
 
@@ -10,9 +10,9 @@
 
 ### [Apps](Apps)
 
-### [Basic Medicine](04)
+### [Basic Medicine](Medicine)
 
-### [Shelter](05)
+### [Shelter](Shelter)
 
 ### [Water Procurement](Water)
 
@@ -26,7 +26,7 @@
 
 ### [Dangerous Animals](11)
 
-### [Field-Expedient Weapons, Tools, and Equipment](12)
+### [Tools and Equipment](Tools)
 
 ### [Desert](13)
 
