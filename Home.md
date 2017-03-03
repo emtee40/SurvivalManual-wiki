@@ -24,7 +24,7 @@
 
 ### [Poisonous Plants](10)
 
-### [Dangerous Animals](11)
+### [Dangerous Animals](Animals)
 
 ### [Tools and Equipment](Tools)
 
