@@ -172,7 +172,7 @@ The individual placed in the sleeping bag with the victim could also become a hy
 
 **INSECT BITES**
 
-15-41\. Insect bites can become infected through constant scratching. Flies can carry various disease-producing germs. To prevent insect bites, use insect repellent and netting and wear proper clothing. See [Chapter 11](11) for information on insect bites and [Chapter 4](04) for treatment.
+15-41\. Insect bites can become infected through constant scratching. Flies can carry various disease-producing germs. To prevent insect bites, use insect repellent and netting and wear proper clothing. See [Chapter 11](11) for information on insect bites and [Medicine](Medicine) for treatment.
 
 ### SHELTERS
 

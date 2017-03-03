@@ -14,6 +14,7 @@ The common available tools in a typical MultiTool are:
 * ...
 
 But there are also special tools like: bit-drivers, whistle, scissors, Ferrocerium Rod to spark a fire, Sharpener, ..
+
 If you use a Multi-Tool in every-day life, then you know how to use it in a survival situation. The seconds you are faster and the confidence you have in your tool can decide between life and death.
 
 ### Which MultiTool
