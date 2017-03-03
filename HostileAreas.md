@@ -21,8 +21,8 @@ Once you have moved into the area in which you want to hide (hide area), select 
 * *B*lends in with the surroundings.
 * *L*ow in silhouette.
 * *I*rregular in shape.
-* *S*Small in size.
-* S*Secluded.
+* *S*mall in size.
+* S*ecluded.
 
 Avoid the use of existing buildings or shelters. Usually, your best option will be to crawl into the thickest vegetation you can find. Construct any type of shelter within the hide area only in cold weather and desert environments. If you build a shelter, follow the BLISS formula.
 
