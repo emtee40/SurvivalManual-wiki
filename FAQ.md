@@ -13,3 +13,7 @@ A: No - I am not keeping my mouth shut for you - if you cannot take other opinio
 *Q: I found a typo - do I have to live with it?*
 
 A: No - you are very invited to fix the typo or contribute other enhancements to the content via the wiki.
+
+*Q: Can we please have translations?*
+
+A: Yes - but it's complicated. You can read about this [here](TranslatorNotes). That said I will start with partial translation support ( some sections and in app translations ) soon and there are already a lot of translators standing by already ( thanks a lot for this ). But first the current content has to be improved more. It would be great help if people could break up the images with lists into markdown which is easier to translate and needs less space.
