@@ -68,3 +68,9 @@ Appendix
 ### [Ropes and Knots](g)
 
 ### [Clouds Foretellers of Weather](h)
+
+### [FAQ](faq)
+
+### [Credits](credits)
+
+
