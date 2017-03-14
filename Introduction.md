@@ -7,14 +7,6 @@ The app is based on the FM 3-05.70 Field Manual - but now [it is a wiki](https:/
 Also if you are able to illustrate: I am currently adding new sections and am not able to illustrate. E.g. the new section on [Power](Power) could use some images of e.g. wind and water generators. It is important to keep the images small - Ideally they are vector images - but black&white images as the other ones in this app also work. The file-sizes must be small so people do not uninstall their Survival-App to make space ( also temporary and then forget about it ). This app should always be one-digit MegaBytes in size so people can just keep it on their phones without really worrying about it.
 
 There will be updates to content and the app - please [join the BetaTesters](https://play.google.com/apps/testing/org.ligi.survivalmanual) to give feedback and get the newest stuff first.
-This app uses:
-
-* the android-support-libraries for compatibility and design
-* [Kotlin](http://kotlinlang.org) as language ( Big up to JetBrains - love this language <3 - so much fun )
-* [KotPref](https://github.com/chibatching/Kotpref) for storing preferences
-* [TxtMark](https://github.com/rjeschke/txtmark) for markdown
-* [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) for making images touchable/zoomable
-* [SnackEngage](https://github.com/ligi/SnackEngage) for giving you some snacks
 
 This app is free and libre software under GPLv3. You can find the source-code [on github](https://github.com/ligi/SurvivalManual) - Pull-Requests are very welcome! Just before doing big changes please contact me so that there is no work in vain.
 
