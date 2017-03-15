@@ -18,6 +18,15 @@ First I want to thank some names that did not directly contribute to this app - 
 * chaos communication events - for being an inspirational time
 * This list is not meant to be complete - just don't want to have it too long so nobody reads it anymore ;-)
 
+# Graphics 
+
+* I am proud to announce [cookicons](https://cookicons.co) promised to create an icon for this app
+* The chapter mono-colored icons are the [material icons from google](https://github.com/google/material-design-icons)
+* Most graphics embedded in the texts are from the field manual - but I already got contacted by illustrators - we might see more soon here ;-)
+
+
+# Proof readers
+ 
 # Libraries / Code
 
 * [Kotlin](http://kotlinlang.org) as language ( Big up to JetBrains - love this language <3 - so much fun )
@@ -29,12 +38,10 @@ First I want to thank some names that did not directly contribute to this app - 
 
 # Translators
 
-There are a lot of translators knocking on the door - unfortunately I am not yet ready to take translations
+There are a lot of translators knocking on the door - unfortunately I am not yet ready to take translations. This app has some special challenges regarding translations - you can read more about this [in the translator notes](TranslatorNotes)
 
 ## Spanish
 ## German
-
-# Proof readers
 
 # Illustrators
 
