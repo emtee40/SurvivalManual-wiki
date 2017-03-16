@@ -4,7 +4,7 @@ A: It does not seem to be possible. As far as I was able to find out - apps have
 
 *Q: It says offline - why does it still need internet permission?*
 
-A: The premise of "offline" here is that the app will work without internet - but might still use the internet if it is available. If you do not want this you can still put your phone e.g. in airplane mode.
+A: The premise of "offline" here is that the app will work without internet in survival situations - but might still use the internet if it is available. If you do not want this you can still put your phone e.g. in airplane mode.
 
 *Q: Can you please not express any political opinions in this app?*
 
@@ -12,7 +12,7 @@ A: No - I am not keeping my mouth shut for you - if you cannot take other opinio
 
 *Q: I found a typo - do I have to live with it?*
 
-A: No - you are very invited to fix the typo or contribute other enhancements to the content via the wiki.
+A: No - you are very invited to fix the typo or contribute other enhancements to the content via [the wiki](https://github.com/ligi/SurvivalManual/wiki.)
 
 *Q: Can we please have translations?*
 
