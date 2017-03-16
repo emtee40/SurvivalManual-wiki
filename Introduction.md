@@ -14,7 +14,7 @@ If you have a question - check out [the FAQ](faq) - perhaps your question is ans
 
 Thanks to all people that made this app possible! You can find some of them [in the credits](credits).
 
-Also on a personal note: Please also lets work towards a future where such manual is not needed that much. Let's protect the environment and stop all wars so humans are not forced to go through bad times and need to fight for survival. Let's just live in peace in a beautiful intact world!-)
+Also on a personal note: Please lets work towards a future where such manual is not needed that much. Let's protect the environment and stop all wars so humans are not forced to go through bad times and need to fight for survival. Let's just live in peace in a beautiful intact world!-)
 
 That said happy surviving - live long and prosper! With the hope that you never get in such trouble that you really need this guide but had fun preparing for potential situations and learned something.
 
