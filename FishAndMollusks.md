@@ -16,7 +16,7 @@ Sharks are potentially the most dangerous fish that attack people. The obvious d
 
 **Figure F-1\. Sharks**
 
-Avoid sharks if at all possible. Follow the procedures discussed in [Chapter 16](16) to defend yourself against a shark attack.
+Avoid sharks if at all possible. Follow the procedures discussed in [Chapter Sea](Sea) to defend yourself against a shark attack.
 
 Sharks vary in size, but there is no relationship between the size of the shark and likelihood of attack. Even the smaller sharks can be dangerous, especially when they are traveling in schools.
 
@@ -125,13 +125,13 @@ These cone-shaped shells have smooth, colorful mottling and long, narrow opening
 
 ![](image254.jpg)
 
-**Terebra shells**  
+**Terebra shells**
 _Terebridae_ species  
 
 These shells are found in both temperate and tropical waters. They are similar to cone shells but much thinner and longer. They poison in the same way as cone shells, but their venom is not as poisonous.
 ### FISH WITH TOXIC FLESH
 
-There are no simple rules to tell edible fish from those with poisonous flesh. [Figure 8-2](08#fig8-2) shows the most common toxic fish. All of these fish contain various types of poisonous substances or toxins in their flesh and are dangerous to eat. They have the following common characteristics:
+There are no simple rules to tell edible fish from those with poisonous flesh. [Figure 8-2](Food) shows the most common toxic fish. All of these fish contain various types of poisonous substances or toxins in their flesh and are dangerous to eat. They have the following common characteristics:
 *  Most live in shallow water around reefs or lagoons.
 *  Many have boxy or round bodies with hard shell-like skins covered with bony plates or spines. They have small parrotlike mouths, small gills, and small or absent belly fins. Their names suggest their shape.
 

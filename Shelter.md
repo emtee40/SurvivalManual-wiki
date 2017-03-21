@@ -310,7 +310,7 @@ To make this shelter, you should:
 * Pack the snow around the top and the inside of the hole to provide support.
 * Find and cut other evergreen boughs. Place them over the top of the pit to give you additional overhead cover. Place evergreen boughs in the bottom of the pit for insulation.
 
-See [Chapter 15](15) for other arctic or cold weather shelters.
+See [Cold](Cold) for other arctic or cold weather shelters.
 
 **BEACH SHADE SHELTER**
 

@@ -24,7 +24,7 @@
 
 8-8\. You can find saltwater lobsters, crabs, and shrimp from the surf's edge out to water 10 meters (33 feet) deep. Shrimp may come to a light at night where you can scoop them up with a net. You can catch lobsters and crabs with a baited trap or a baited hook. Crabs will come to bait placed at the edge of the surf, where you can trap or net them. Lobsters and crabs are nocturnal and caught best at night.
 
-**NOTE:** You must cook all freshwater crustaceans, mollusks, and fish. Fresh water tends to harbor many dangerous organisms (see [Chapter 6](06)), animal and human contaminants, and possibly agricultural and industrial pollutants.
+**NOTE:** You must cook all freshwater crustaceans, mollusks, and fish. Fresh water tends to harbor many dangerous organisms , animal and human contaminants, and possibly agricultural and industrial pollutants.
 
 **MOLLUSKS**
 

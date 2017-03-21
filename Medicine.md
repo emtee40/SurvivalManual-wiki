@@ -58,7 +58,7 @@ You can also use the pulse and breathing rate to estimate fluid loss. Use the fo
 * With a 0.75- to 1.5-liter loss the pulse rate will be 100 to 120 beats per minute and 20 to 30 breaths per minute.
 * With a 1.5- to 2-liter loss the pulse rate will be 120 to 140 beats per minute and 30 to 40 breaths per minute. Vital signs above these rates require more advanced care.
 
-Make sure the water you drink water does not contain harmful contaminants. Ideally carry [a LifeStraw](LifeStraw) as part of [your kit](kits) to filter the water. Read more about it in the [water chapter](Water)
+Make sure the water you drink water does not contain harmful contaminants. Ideally carry [a LifeStraw](LifeStraw) as part of [your kit](Kits) to filter the water. Read more about it in the [water chapter](Water)
 
 **FOOD**
 
@@ -596,4 +596,4 @@ Our modern wonder drugs, laboratories, and equipment have obscured more primitiv
 
 > **WARNING**
 > 
-> Use herbal medicines with extreme care, and only when you lack or have limited medical supplies. Some herbal medicines are dangerous and may cause further damage or even death. [Chapter 9](09) explains some basic herbal medicine treatments.
+> Use herbal medicines with extreme care, and only when you lack or have limited medical supplies. Some herbal medicines are dangerous and may cause further damage or even death. [This chapter](MedicinalPlants) explains some basic herbal medicine treatments.

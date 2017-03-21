@@ -185,7 +185,7 @@ Snow taken from 15 centimeters (6 inches) or more below the surface during the f
 
 **Streams and Rivers**
 
-Water from streams and rivers will be relatively free from fallout within several days after the last nuclear explosion because of dilution. If possible, filter such water before drinking to get rid of radioactive particles. The best filtration method is to dig sediment holes or seepage basins along the side of a water source. The water will seep laterally into the hole through the intervening soil that acts as a filtering agent and removes the contaminated fallout particles that settled on the original body of water. This method can remove up to 99 percent of the radioactivity in water. You must cover the hole in some way to prevent further contamination. See [Figure 6-9](06) for an example of a water filter.
+Water from streams and rivers will be relatively free from fallout within several days after the last nuclear explosion because of dilution. If possible, filter such water before drinking to get rid of radioactive particles. The best filtration method is to dig sediment holes or seepage basins along the side of a water source. The water will seep laterally into the hole through the intervening soil that acts as a filtering agent and removes the contaminated fallout particles that settled on the original body of water. This method can remove up to 99 percent of the radioactivity in water. You must cover the hole in some way to prevent further contamination. See [Figure 6-9](Water) for an example of a water filter.
 
 **Standing Water**
 
@@ -249,22 +249,22 @@ Some germs can form protective shells, or spores, to allow survival outside the 
 
 Toxins are substances that plants, animals, or germs produce naturally. These toxins are what actually harm man, not bacteria. An example is botulin, which produces botulism. Modern science has allowed large-scale production of these toxins without the use of the germ that produces the toxin. Toxins may produce effects similar to those of chemical agents. However, toxic victims may not respond to first aid measures used against chemical agents. Toxins enter the body in the same manner as germs. However, some toxins, unlike germs, can penetrate unbroken skin. Symptoms appear almost immediately, since there is no incubation period. Many toxins are extremely lethal, even in very small doses. Symptoms may include any of the following:
 
-*  Dizziness.
-*  Mental confusion.
-*  Blurred or double vision.
-*  Numbness or tingling of skin.
-*  Paralysis.
-*  Convulsions.
-*  Rashes or blisters.
-*  Coughing.
-*  Fever.
-*  Aching muscles.
-*  Tiredness.
-*  Nausea, vomiting, or diarrhea.
-*  Bleeding from body openings.
-*  Blood in urine, stool, or saliva.
-*  Shock.
-*  Death.
+* Dizziness
+* Mental confusion
+* Blurred or double vision
+* Numbness or tingling of skin
+* Paralysis
+* Convulsions
+* Rashes or blisters
+* Coughing
+* Fever
+* Aching muscles
+* Tiredness
+* Nausea, vomiting, or diarrhea
+* Bleeding from body openings
+* Blood in urine, stool, or saliva
+* Shock
+* Death
 
 **DETECTION OF BIOLOGICAL AGENTS**
 
@@ -298,7 +298,7 @@ Bathe with soap and water whenever possible. Use germicidal soap, if available. 
 
 **SHELTER**
 
-You can build expedient shelters under biological contamination conditions using the same techniques described in [Chapter 5](05). However, you must make slight changes to reduce the chance of biological contamination. Do not build your shelter in depressions in the ground. Aerosol sprays tend to concentrate in these depressions. Avoid building your shelter in areas of vegetation, as vegetation provides shade and some degree of protection to biological agents. Avoid using vegetation in constructing your shelter. Place your shelter's entrance at a 90-degree angle to the prevailing winds. Such placement will limit the entry of airborne agents and prevent air stagnation in your shelter. Always keep your shelter clean.
+You can build expedient shelters under biological contamination conditions using the same techniques described in [Chapter Shelter](Shelter). However, you must make slight changes to reduce the chance of biological contamination. Do not build your shelter in depressions in the ground. Aerosol sprays tend to concentrate in these depressions. Avoid building your shelter in areas of vegetation, as vegetation provides shade and some degree of protection to biological agents. Avoid using vegetation in constructing your shelter. Place your shelter's entrance at a 90-degree angle to the prevailing winds. Such placement will limit the entry of airborne agents and prevent air stagnation in your shelter. Always keep your shelter clean.
 
 **WATER PROCUREMENT**
 

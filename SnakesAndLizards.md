@@ -1,16 +1,27 @@
-> If you fear snakes, it is probably because you are unfamiliar with them or you have wrong information about them. There is no need for you to fear snakes if you know—
-> 
-> * Their habits.
->
-> * How to identify the dangerous kinds.
->
-> * Precautions to take to prevent snakebite.
->
-> * What actions to take in case of snakebite ([Chapter 3](03)).
-> 
-> For a man wearing shoes and trousers and living in a camp, the danger of being bitten by a venomous snake is small compared to the hazards of malaria, cholera, dysentery, or other diseases.
-> 
-> Nearly all snakes avoid man if possible. A few—the king cobra of Southeast Asia, the bushmaster and tropical rattlesnake of South America, and the mamba of Africa—may aggressively attack man, but even these snakes do so only occasionally. Most snakes get out of the way and are seldom seen.
+> If you fear snakes, it is probably because you are unfamiliar with them or you have wrong information about them. 
+
+
+### HAVE NO FEAR
+
+There is no need for you to fear snakes if you know:
+ 
+* Their habits
+
+* How to identify the dangerous kinds
+
+* Precautions to take to prevent snakebite.
+
+* What actions to take in case of snakebite ([Chapter Medicine](Medicine)).
+
+For a man wearing shoes and trousers and living in a camp, the danger of being bitten by a venomous snake is small compared to the hazards of malaria, cholera, dysentery, or other diseases.
+
+Nearly all snakes avoid man if possible. A few:
+
+* the king cobra of Southeast Asia
+* the bushmaster and tropical rattlesnake of South America
+* and the mamba of Africa
+
+may aggressively attack man, but even these snakes do so only occasionally. Most snakes get out of the way and are seldom seen.
 
 ### WAYS TO AVOID SNAKEBITE
 
@@ -19,12 +30,13 @@ Snakes are widely distributed. They are found in all tropical, subtropical, and 
 Although venomous snakes use their venom to secure food, they also use it for self-defense. Human accidents occur when you don't see or hear the snake, when you step on them, or when you walk too close to them.
 
 Follow these simple rules to reduce the chance of accidental snakebite:
-*  Don't sleep next to brush, tall grass, large boulders, or trees. They provide hiding places for snakes. Place your sleeping bag in a clearing. Use mosquito netting tucked well under the bag. This netting should provide a good barrier.
-*  Don't put your hands into dark places, such as rock crevices, heavy brush, or hollow logs, without first investigating.
-*  Don't step over a fallen tree. Step on the log and look to see if there is a snake resting on the other side.
-*  Don't walk through heavy brush or tall grass without looking down. Look where you are walking.
-*  Don't pick up any snake unless you are absolutely positive it is not venomous.
-*  Don't pick up freshly killed snakes without first severing the head. The nervous system may still be active and a dead snake can deliver a bite.
+
+* Don't sleep next to brush, tall grass, large boulders, or trees. They provide hiding places for snakes. Place your sleeping bag in a clearing. Use mosquito netting tucked well under the bag. This netting should provide a good barrier.
+* Don't put your hands into dark places, such as rock crevices, heavy brush, or hollow logs, without first investigating.
+* Don't step over a fallen tree. Step on the log and look to see if there is a snake resting on the other side.
+* Don't walk through heavy brush or tall grass without looking down. Look where you are walking.
+* Don't pick up any snake unless you are absolutely positive it is not venomous.
+* Don't pick up freshly killed snakes without first severing the head. The nervous system may still be active and a dead snake can deliver a bite.
 
 ### SNAKE GROUPS
 
@@ -1067,10 +1079,10 @@ _Heloderma suspectum_
 **Figure E-50\. Gila Monster Habitat**
 ** *
 
-![](image373.jpg)  
+![](image373.jpg)
 <font size="2">JOHN H. TASHJIAN/FORT WORTH ZOO</font>
 
-**Mexican beaded lizard**  
+**Mexican beaded lizard**
 _Heloderma horridum_  
 
 **Description:** Less colorful than its cousin, the gila monster. It has black or pale yellow bands or is entirely black.

@@ -118,7 +118,7 @@ To avoid potentially poisonous plants, stay away from any wild or unknown plants
 
 Using the above criteria as eliminators when choosing plants for the Universal Edibility Test will cause you to avoid some edible plants. More important, these criteria will often help you avoid plants that are potentially toxic to eat or touch.
 
-An entire encyclopedia of edible wild plants could be written, but space limits the number of plants presented here. Learn as much as possible about the plant life of the areas where you train regularly and where you expect to be traveling or working. [Figure 9-6](#fig9-6) list some of the most common edible and medicinal plants. Detailed descriptions and photographs of these and other common plants are in [Appendix B](b).
+An entire encyclopedia of edible wild plants could be written, but space limits the number of plants presented here. Learn as much as possible about the plant life of the areas where you train regularly and where you expect to be traveling or working. [Figure 9-6](#fig9-6) list some of the most common edible and medicinal plants.
 
 ## Temperate Zone
 

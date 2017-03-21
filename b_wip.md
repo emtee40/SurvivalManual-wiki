@@ -156,7 +156,7 @@ _Musa_ species
 
 **Edible Parts:** Their fruits are edible raw or cooked. They may be boiled or baked. You can boil their flowers and eat them like a vegetable. You can cook and eat the rootstocks and leaf sheaths of many species. The center or "heart" of the plant is edible year-round, cooked or raw.
 
-**Other Uses:** You can use the layers of the lower third of the plants to cover coals to roast food. You can also use their stumps to get water (see [Chapter 6](06)). You can use their leaves to wrap other foods for cooking or storage.
+**Other Uses:** You can use the layers of the lower third of the plants to cover coals to roast food. You can also use their stumps to get water (see [Chapter Water](Water)). You can use their leaves to wrap other foods for cooking or storage.
 
 ![](image171.jpg)
 ** *
@@ -983,7 +983,7 @@ _Calamus_ species
 
 **Edible Parts:** Rattan palms hold a considerable amount of starch in their young stem tips. You can eat them roasted or raw. In other kinds, a gelatinous pulp, either sweet or sour, surrounds the seeds. You can suck out this pulp. The palm heart is also edible raw or cooked.
 
-**Other Uses:** You can obtain large amounts of potable water by cutting the ends of the long stems (see [Chapter 6](06)). The stems can be used to make baskets and fish traps.
+**Other Uses:** You can obtain large amounts of potable water by cutting the ends of the long stems (see [Chapter Water]()Water). The stems can be used to make baskets and fish traps.
 
 ![](image199.jpg)
 ** *

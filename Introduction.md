@@ -10,9 +10,9 @@ There will be updates to content and the app - please [join the BetaTesters](htt
 
 This app is free and libre software under GPLv3. You can find the source-code [on github](https://github.com/ligi/SurvivalManual) - Pull-Requests are very welcome! Just before doing big changes please contact me so that there is no work in vain.
 
-If you have a question - check out [the FAQ](faq) - perhaps your question is answered there.
+If you have a question - check out [the FAQ](FAQ) - perhaps your question is answered there.
 
-Thanks to all people that made this app possible! You can find some of them [in the credits](credits).
+Thanks to all people that made this app possible! You can find some of them [in the credits](Credits).
 
 Also on a personal note: Please lets work towards a future where such manual is not needed that much. Let's protect the environment and stop all wars so humans are not forced to go through bad times and need to fight for survival. Let's just live in peace in a beautiful intact world!-)
 

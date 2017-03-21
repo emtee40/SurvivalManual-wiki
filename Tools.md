@@ -1,6 +1,6 @@
 > A tool is most useful when it is in good shape. This is especially true of your knife. You must always keep it sharp and ready to use. A knife is your most valuable tool in a survival situation. Imagine being in a survival situation without any weapons, tools, or equipment except your knife. It could happen! You might even be without a knife. You would probably feel helpless, but with the proper knowledge and skills, you can easily improvise needed items.
 > 
-> In survival situations, you may have to fashion any number and type of field-expedient tools and equipment to survive. The need for an item must outweigh the work involved in making it. You should ask, "Is it necessary or just nice to have?" Remember that undue haste makes waste. Examples of tools and equipment that could make your life much easier are ropes ([Appendix G](RopesAndKnots)), rucksacks, clothes, and nets.
+> In survival situations, you may have to fashion any number and type of field-expedient tools and equipment to survive. The need for an item must outweigh the work involved in making it. You should ask, "Is it necessary or just nice to have?" Remember that undue haste makes waste. Examples of tools and equipment that could make your life much easier are ropes ([Appendix](RopesAndKnots)), rucksacks, clothes, and nets.
 
 ### STAFFS
 
@@ -107,7 +107,7 @@ The throwing stick, commonly known as the rabbit stick, is very effective agains
 
 **ARCHERY EQUIPMENT**
 
-You can make a bow and arrow ([Figure 12-6](#fig12-6)) from materials available in your survival area. To make a bow, use the procedure described in [paragraphs 8-53 through 8-56](08) in Chapter 8.
+You can make a bow and arrow ([Figure 12-6](#fig12-6)) from materials available in your survival area. To make a bow, use the procedure described in [Chapter Food](Food).
 
 <a name="fig12-6"></a>![Figure 12-6\. Archery Equipment](fig12-06.png)
 
