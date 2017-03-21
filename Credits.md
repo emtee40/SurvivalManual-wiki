@@ -1,22 +1,20 @@
-contributors are coming on board - preparing a credits section!-)
-
-> Collaboration is a wonderful thing. Together we can achieve greater things than alone.
+> Collaboration is wonderful. Together we can achieve great things!
 
 # Indirect contributors
 
 First I want to thank some names that did not directly contribute to this app - but still where really important for it as the project might not have started without them:
 
 * My parents - I would not be alive and the same human without you
-* Josha Bach for a wonderful school of thought
-* Sadhguru - for opening the gates to inner engineering / joga
-* Jah Shaka - for opening gates to spirituality and musical healing
-* Vitalik Buterin and Vlad Zamfir for a potentially awesome future fabric and hope
-* Linus Torwalds - not sure if more for git or linux
-* Edward Snowden - for shining light into darkness 
-* Jacque Fresco for wonderful visions of the future
-* c-base spacestation - for being an inspirational space
-* chaos communication events - for being an inspirational time
-* This list is not meant to be complete - just don't want to have it too long so nobody reads it anymore ;-)
+* [Josha Bach](http://bach.ai) for a wonderful school of thought
+* [Sadhguru](https://en.wikipedia.org/wiki/Jaggi_Vasudev) - for opening the gates to inner engineering / joga
+* [Jah Shaka](https://en.wikipedia.org/wiki/Jah_Shaka) - for opening gates to spirituality and musical healing
+* [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin) and [Vlad Zamfir](https://twitter.com/vladzamfir) for a potentially awesome future fabric and hope
+* [Linus Torwalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - not sure if more for git or linux
+* [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) - for shining light into darkness 
+* [Jacque Fresco](https://en.wikipedia.org/wiki/Jacque_Fresco) for wonderful visions of the future
+* [c-base spacestation](https://en.wikipedia.org/wiki/C-base) - for being an inspirational space
+* [chaos communication events](https://en.wikipedia.org/wiki/Chaos_Communication_Congress) - for being an inspirational time
+* This list is not meant to be complete! I don't want to have it too long so nobody reads it anymore ;-)
 
 # Graphics 
 
@@ -26,7 +24,9 @@ First I want to thank some names that did not directly contribute to this app - 
 
 
 # Proof readers
- 
+
+> coming soon
+
 # Libraries / Code
 
 * [Kotlin](http://kotlinlang.org) as language ( Big up to JetBrains - love this language <3 - so much fun )
@@ -45,4 +45,4 @@ There are a lot of translators knocking on the door - unfortunately I am not yet
 
 # Illustrators
 
-> placeholder
+> coming soon
