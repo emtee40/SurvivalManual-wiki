@@ -6,8 +6,8 @@ First I want to thank some names that did not directly contribute to this app - 
 
 * My parents - I would not be alive and the same human without you
 * [Josha Bach](http://bach.ai) for a wonderful school of thought
-* [Sadhguru](https://en.wikipedia.org/wiki/Jaggi_Vasudev) - for opening the gates to inner engineering / joga
-* [Jah Shaka](https://en.wikipedia.org/wiki/Jah_Shaka) - for opening gates to spirituality and musical healing
+* [Sadhguru](https://en.wikipedia.org/wiki/Jaggi_Vasudev) - for teaching inner engineering / joga and a lot of wise words
+* [Jah Shaka](https://en.wikipedia.org/wiki/Jah_Shaka) - for opening the gates to spirituality and musical healing
 * [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin) and [Vlad Zamfir](https://twitter.com/vladzamfir) for a potentially awesome future fabric and hope
 * [Linus Torwalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - not sure if more for git or linux
 * [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) - for shining light into darkness 
