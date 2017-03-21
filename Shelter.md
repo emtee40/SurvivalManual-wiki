@@ -9,7 +9,7 @@
 Your primary shelter in a survival situation will be what you wear.
 This point is true regardless of whether you are in a hot, cold, tropical, desert, or arctic situation.
 For your clothes to protect you, they must be in a good condition and be worn properly.
-I highly recommend getting your clothes fom a local work-wear shop.
+I highly recommend getting your clothes from a local work-wear shop.
 Since discovering this - the frequency I have to buy clothes dropped drastically.
 Now I am getting most of my clothes in a work-wear shop.
 If you are ever in Berlin - I highly recommend working dress at warschauer-strasse - a really friendly and fun man humbly selling high quality clothes and also alters/repairs them.
