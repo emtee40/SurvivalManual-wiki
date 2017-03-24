@@ -1,8 +1,4 @@
-> To use the [Apps](Apps) on your phone you need power. Power can also provide you with light and empower you in many other ways. But the power-grid and outlets might not be available. In the early days of this app 
->
-> "you will not be able to read it as you have no power" ( anonymous commentator )
->
-> was the most common critic on this app. Hence I created this section to address this problem.
+> To use the [Apps](Apps) on your phone you need power. Power can also provide you with light and empower you in many other ways. But the grid and outlets might not be available. In the early days of this app there where a lot of comments that this app is useless as you will not have power. I disagree here and hence created this section to address this problem.
 
 ## Methods to generate power
  
@@ -37,7 +33,7 @@ Using the muscles of your arm is another option. There are small USB cranks to o
 
 ### Car
 
-You can also use a car to generate power. A car always comes with a generator - if you drive around the ( typically 12V ) battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger](CarUSBCharger). But be aware that you hurt the environment when doing so. This should be the last resort or used when you drive around in a car anyway to get from point A to point B.
+You can also use a car to generate power. A car always comes with a generator - if you drive around the (typically 12V) battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger](CarUSBCharger). But be aware that you hurt the environment when doing so. This should be the last resort or used when you drive around in a car anyway to get from point A to point B.
 
 ## Tips & Tricks
 
@@ -47,8 +43,8 @@ Get a good power-bank. Often you do not want to directly use the energy when gen
 
 ### Stay DC
 
-If possible stay DC ( Direct Current ) - if you need to make a DC/AC ( Alternating Current ) AC/DC roundtrip ( e.g. with a power inverter ) you loose a lot of power ( in fact you never lose power - but here you convert it in the form of heat which is often not the form you need ). Also DC is most of the time less deadly in handling - so it helps you to survive the process of surviving ;-)
+If possible stay DC (Direct Current) - if you need to make a DC/AC (Alternating Current) AC/DC roundtrip (e.g. with a power inverter) you loose a lot of power (in fact you never lose power - but here you convert it in the form of heat which is often not the form you need). Also DC is most of the time less deadly in handling - so it helps you to survive the process of surviving ;-)
 
 ### Save Power
 
-You do not have to generate the power you save. A big help in saving power is measuring what device consumes how much energy in which state. For example your phone consumes a lot more energy when the radios ( wifi, cellular, .. ) are switched on. Also the brightness of the display plays a big role.
+You do not have to generate the power you save. A big help in saving power is measuring what device consumes how much energy in which state. For example your phone consumes a lot more energy when the radios (wifi, cellular, ..) are switched on. Also the brightness of the display plays a big role.
