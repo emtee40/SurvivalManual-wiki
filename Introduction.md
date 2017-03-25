@@ -12,7 +12,13 @@ This app is free and libre software under GPLv3. You can find the source-code [o
 
 If you have a question - check out [the FAQ](FAQ) - perhaps your question is answered there.
 
+If you have feedback or a question please join the [google+ community](https://plus.google.com/b/103953721589307612391/communities/112461702014401198208)
+I would also love it if people could share their adventures in pictures and or text there!
+
 Thanks to all people that made this app possible! You can find some of them [in the credits](Credits).
+
+If you want to support this app: please rate it and maybe have a look at the support options on [my homepage](http://ligi.de) or get some of the survival equipment you still need via my amazon affiliate links (like the [Solar USB Charger](SolarUSBCharger), [Lifestraw water filter](LifeStraw), [Leatherman OHT MultiTool](OHTMultiTool))
+If you already have everything and no money you could get the [free audible trial](Audible) and e.g. listen to the great audio book "the Martian". This is a beautiful survival story from another planet!
 
 Also on a personal note: Please lets work towards a future where such manual is not needed that much. Let's protect the environment and stop all wars so humans are not forced to go through bad times and need to fight for survival. Let's just live in peace in a beautiful intact world!-)
 
