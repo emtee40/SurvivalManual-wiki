@@ -18,14 +18,14 @@ First I want to thank some names that did not directly contribute to this app - 
 
 # Graphics 
 
-* I am proud to announce [cookicons](https://cookicons.co) promised to create an icon for this app
+* I am proud to announce [cookicons](https://cookicons.co) promised to create an icon for this app & even with the new Android O icon features - can't wait to see them!
 * The chapter mono-colored icons are the [material icons from google](https://github.com/google/material-design-icons)
 * Most graphics embedded in the texts are from the field manual - but I already got contacted by illustrators - we might see more soon here ;-)
 
 
 # Proof readers
 
-> coming soon
+* [Michael Peng](https://github.com/michaelpeng) has started to correct some of the wording mistakes and bad grammer - thanks a lot!
 
 # Libraries / Code
 
