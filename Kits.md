@@ -6,7 +6,7 @@ The environment is the key to the types of items you will need in your survival 
 
 In preparing your survival kit, select items that are multipurpose, compact, lightweight, durable, and most importantly, functional. An item is not good if it looks great but doesn't do what it was designed for. Items should complement each other from layer to layer. A signal mirror in your pocket can be backed up by pen flares in your LBE and a signal panel in your rucksack. A lighter in your pocket can be augmented by a magnesium bar in your LBE and additional dry tinder in your rucksack.
 
-Your survival kit need not be elaborate. You need only functional items that will meet your needs and a case to hold the items. For the case, you might want to use a bandage box, soap dish, tobacco tin, first-aid case,  or another suitable case. This case should be
+Your survival kit need not be elaborate. You need only functional items that will meet your needs and a case to hold the items. For example, you might want to use a bandage box, soap dish, tobacco tin, first-aid case, or another suitable container. This container should be:
 
 * Water-repellent or waterproof
 * Easy to carry or attach to your body
@@ -18,10 +18,10 @@ Your survival kit should be broken down into the following categories:
 * Water
 * Fire
 * Shelter
-* Food.
-* Medical.
-* Signal.
-* Miscellaneous.
+* Food
+* Medical
+* Signal
+* Miscellaneous
 
 Each category should contain items that allow you to sustain your basic needs. For example, water: you should have items that allow you to scoop up, draw up, soak up, or suck up water; something to gather rainwater, condensation, or perspiration; something to transport water; and something to purify or filter water. Some examples of each category are as follows:
 
@@ -43,7 +43,7 @@ Each category should contain items that allow you to sustain your basic needs. F
 * cravats
 * sponges
 * small plastic or rubber tubing
-* collapsible canteens or water bags.
+* collapsible canteens or water bags
 
 ## Shelter
 
@@ -82,7 +82,7 @@ Each category should contain items that allow you to sustain your basic needs. F
 * antifungal
 * anti-inflammatory (ibuprofen)
 * petrolatum gauze
-* soap. 
+* soap
 
 > Note
 >
@@ -96,7 +96,7 @@ Each category should contain items that allow you to sustain your basic needs. F
 * whistle
 * white flag
 * pilot scarf or other bright orange silk scarf
-* glint tape, flashlight, laser pointer, solar blanket.
+* glint tape, flashlight, laser pointer, solar blanket
 
 ## Miscellaneous
 
@@ -108,4 +108,4 @@ Each category should contain items that allow you to sustain your basic needs. F
 * knife sharpener
 * cork
 
-Read and practice the survival techniques in this manual and apply these basic concepts to those you read about in other publications. Then prepare your survival kit with items that are durable, multipurpose, and lightweight. Imagination may be the largest part of your kit. It can replace many of the items in a kit. Combined with the will to live, it can mean the difference life and death.
+Read and practice the survival techniques in this manual and apply these basic concepts to those you read about in other publications. Then prepare your survival kit with items that are durable, multipurpose, and lightweight. Imagination may be the largest part of your kit. It can replace many of the items in a kit. Combined with the will to live, it can mean the difference between life and death.
