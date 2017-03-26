@@ -6,27 +6,27 @@ Have a solution that can work offline like [osmand](http://osmand.net). Download
 
 ### Appstore / Fdroid
 
-Google-Play might not work - in [fdroid](http://fdroid.org) you can point to alternative repositories. When using the default repository you can also be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) - as are all apps mentioned here.  Also learn how to install apps without an appstore.
+Google-Play might not work - in [fdroid](http://fdroid.org) you can point to alternative repositories. When using the default repository you can also be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) - as are all apps mentioned here.  Also, learn how to "sideload", or install apps without going through an appstore directly.
 
 ### Light 
 
-So the phone can replace a torch but IMHO you should still have a real emergency LED-torch
+A phone's flashlight may work instead of a true torch, but a real emergency LED-torch is often functionally superior.
 
 ### Compass
 
-Direction can be useful - also learn how to read it.
+Directions can be useful - learn how to read and navigate using a compass.
 
 ### Games
 
-Have a game app to fight boredom and keep the mind stimulated - I recommend [gobandroid](https://github.com/ligi/gobandroid) to play the ancient game of go which has simple rules but is still immensely deep.
+Have a game app to fight boredom and keep the mind stimulated - I recommend [gobandroid](https://github.com/ligi/gobandroid) to play the ancient game of Go, which has simple rules but is still immensely deep.
 
 ### Pass app
 
-I recommend [PassAndroid](https://github.com/ligi/PassAndroid) - just imagine how sad it would be if you get the ticket to the rescue ship in [esPass](http://espass.it) format and have no way to display ..-)
+I recommend [PassAndroid](https://github.com/ligi/PassAndroid) - imagine how frustrating it would be if you get the ticket to the rescue ship in [esPass](http://espass.it) format and are unable to display it.
 
 ### Tea app
 
-I recommend the [Material Tea timer](https://github.com/ligi/MaterialTeaTimer). Tea or infusions in general will be a thing in these situations.
+I recommend the [Material Tea timer](https://github.com/ligi/MaterialTeaTimer). Tea or infusions in general will be useful in these situations.
 
 ### Music
 
@@ -38,7 +38,7 @@ Have a Music app that is not a streaming solution and some uplifting music ( I s
 
 ### Reader
 
-Install some PDF reader - and perhaps download some books or manuals.
+Install a PDF reader - and download some books or manuals.
 
 ### Offline dictionary
 
