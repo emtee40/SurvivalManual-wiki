@@ -4,139 +4,70 @@
 
 ### WATER SOURCES
 
-Almost any environment has water present to some degree. [Figure 6-1](#fig6-1) lists possible sources of water in various environments. It also provides information on how to make the water potable.
+Almost any environment has water present to some degree. Possible sources of water in various environments are listed below. Information on how to make the water potable is provided as well.
 
 **NOTE:** If you do not have a canteen, cup, can, or other type of container, improvise one from plastic or water-resistant cloth. Shape the plastic or cloth into a bowl by pleating it. Use pins or other suitable items—even your hands—to hold the pleats.
 
-<a name="fig6-1"></a><table>
-  <tr>
-    <th>Environment</th>
-    <th>Sources of water</th>
-    <th>Means of obtaining and/or making potable</th>
-    <th>Remarks</th>
-  </tr>
-  <tr>
-    <td>Frigid areas</td>
-    <td>Snow and ice</td>
-    <td>Melt and purify.</td>
-    <td>Do not eat without melting! Eating snow or ice can reduce body temperature and lead to more dehydration.<br>Snow or ice are no purer than the water from which they come.<br>Sea ice that is gray in color or opaque is salty. Do not use it without desalting it. Sea ice that is crystalline with a bluish cast has littler salt in it.</td>
-  </tr>
-  <tr>
-    <td rowspan="3">At sea</td>
-    <td>Sea</td>
-    <td>Use desalinator.</td>
-    <td>Do not drink seawater without desalting!</td>
-  </tr>
-  <tr>
-    <td>Rain</td>
-    <td>Catch rain in tarps or in other water-holding containers.</td>
-    <td>If tarp or water-holding material is coated with salt, wash it in the sea before using (very littler slat will remain on it).</td>
-  </tr>
-  <tr>
-    <td>Sea ice</td>
-    <td></td>
-    <td>See previous remarks for frigid areas.</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Beach</td>
-    <td>Ground</td>
-    <td>Dig hole deep enough to allow water to seep in; obtain rocks, build fire, and heat rocks; drop hot rocks in water; hold cloth over hole to absorb steam; wring water from cloth.</td>
-    <td>Alternate method if a container or bark pot is available: Fill container or pot with seawater; build fire and boil water to produce steam; hold cloth over container to absorb steam; wring water from cloth.</td>
-  </tr>
-  <tr>
-    <td>Fresh</td>
-    <td>Dig behind first group of sand dunes. This will allow the collection of fresh water.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Desert</td>
-    <td width="30%">
-      <ul>
-        <li>In valleys and low areas</li>
-        <li>At foot of concave banks of dry rivers</li>
-        <li>At foot of cliffs or rock outcrops</li>
-        <li>At first depression behind first sand dune of dry lakes</li>
-        <li>Wherever you find damp sand surface sand</li>
-        <li>Wherever you find green vegetation</li>
-      </ul>
-    </td>
-    <td>Dig holes deep enough to allow water to seep in.</td>
-    <td>In a sand dune belt, any available water will be found beneath the original valley floow at the edge of dunes.</td>
-  </tr>
-</table>
-
-**Figure 6-1\. Water Sources in Different Environments**
-
-<a name="fig6-1b"></a><table>
-  <tr>
-    <th>Environment</th>
-    <th>Sources of water</th>
-    <th>Means of obtaining and/or making potable</th>
-    <th>Remarks</th>
-  </tr>
-  <tr>
-    <td rowspan="5">Desert (cont)</td>
-    <td>Cacti</td>
-    <td>Cut off the top of a barrel cactus and mash or squeeze the pulp.<br>**CAUTION: Do not eat pulp. Place pulp in mouth, suck out juice, and discard pulp.**</td>
-    <td>Without a machete, cutting into a cactus is difficult and takes time since you must get past the long, strong spines and cut through the tough rind.</td>
-  </tr>
-  <tr>
-    <td>Depressions or holes in rocks</td>
-    <td></td>
-    <td>Periodic rainfall may collect in pools, seep into fissures, or collect in holes in rocks.</td>
-  </tr>
-  <tr>
-    <td>Fissures in rock</td>
-    <td>Insert flexible tubing and siphon water. If fissure is large enough, you can lower a container into it.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Porous rock</td>
-    <td>Insert flexible tubing and siphon water.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Condensation on metal</td>
-    <td>Use cloth to absorb water, then wring water from cloth.</td>
-    <td>Extreme temperature variations between night and day may cause condensation on metal surfaces.<br>Following are signs to watch for in the desert to help you find water:<br>
-      <ul>
-        <li>All trails lead to water. You should follow in the direction in which the trails converge. Signs of camps, campfire ashes, animal droppings, and trampled terrain may mark trails.</li>
-        <li>Flocks of birds will circle over water holes. Some birds fly to water holes at dawn and sunset. Their flight at these times is usually fast and close to the ground. Bird tracks or chirping sounds in the evening or early morning sometimes indicate that water is nearby.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-**Figure 6-1\. Water Sources in Different Environments (Continued)**
+* **Frigid areas**
+  * **Snow and ice**
+    * **Means of obtaining and/or making potable:** Melt and purify.
+    * **Remarks:** Do not eat without melting! Eating snow or ice can reduce body temperature and lead to more dehydration.
+Snow or ice are no purer than the water from which they come.
+Sea ice that is gray in color or opaque is salty. Do not use it without desalting it. Sea ice that is crystalline with a bluish cast has littler salt in it.
+* **At sea**
+  * **Sea**
+    * **Means of obtaining and/or making potable:** Use desalinator.
+    * **Remarks:** Do not drink seawater without desalting!
+  * **Rain**
+    * **Means of obtaining and/or making potable:** Catch rain in tarps or in other water-holding containers.
+    * **Remarks:** If tarp or water-holding material is coated with salt, wash it in the sea before using (very littler slat will remain on it).
+  * **Sea ice**
+    * **Remarks:** See previous remarks for frigid areas.
+* **Beach**
+  * **Ground**
+    * **Means of obtaining and/or making potable:** Dig hole deep enough to allow water to seep in; obtain rocks, build fire, and heat rocks; drop hot rocks in water; hold cloth over hole to absorb steam; wring water from cloth.
+    * **Remarks:** Alternate method if a container or bark pot is available: Fill container or pot with seawater; build fire and boil water to produce steam; hold cloth over container to absorb steam; wring water from cloth.
+  * **Fresh**
+    * **Means of obtaining and/or making potable:** Dig behind first group of sand dunes. This will allow the collection of fresh water.
+* **Desert**
+  * **Sources of water:**
+    * In valleys and low areas
+    * At foot of concave banks of dry rivers
+    * At foot of cliffs or rock outcrops
+    * At first depression behind first sand dune of dry lakes
+    * Wherever you find damp sand surface sand
+    * Wherever you find green vegetation
+  * **Means of obtaining and/or making potable:** Dig holes deep enough to allow water to seep in.
+  * **Remarks:** In a sand dune belt, any available water will be found beneath the original valley floow at the edge of dunes.
+* **Desert (extended)**
+  * **Cacti**
+    * **Means of obtaining and/or making potable:** Cut off the top of a barrel cactus and mash or squeeze the pulp.
+**CAUTION: Do not eat pulp. Place pulp in mouth, suck out juice, and discard pulp.**
+    * **Remarks:** Without a machete, cutting into a cactus is difficult and takes time since you must get past the long, strong spines and cut through the tough rind.
+  * **Depressions or holes in rocks**
+    * **Remarks:** Periodic rainfall may collect in pools, seep into fissures, or collect in holes in rocks.
+  * **Fissures in rock**
+    * **Means of obtaining and/or making potable:** Insert flexible tubing and siphon water. If fissure is large enough, you can lower a container into it.
+  * **Porous rock**
+    * **Means of obtaining and/or making potable:** Insert flexible tubing and siphon water.
+  * **Condensation on metal**
+    * **Means of obtaining and/or making potable:** Use cloth to absorb water, then wring water from cloth.
+    * **Remarks:** Extreme temperature variations between night and day may cause condensation on metal surfaces. Following are signs to watch for in the desert to help you find water:
+      * All trails lead to water. You should follow in the direction in which the trails converge. Signs of camps, campfire ashes, animal droppings, and trampled terrain may mark trails.
+      * Flocks of birds will circle over water holes. Some birds fly to water holes at dawn and sunset. Their flight at these times is usually fast and close to the ground. Bird tracks or chirping sounds in the evening or early morning sometimes indicate that water is nearby.
 
 If you do not have a reliable source to replenish your water supply, stay alert for ways in which your environment can help you.
 
-**NOTE: DO NOT** substitute the fluids listed in [Figure 6-2](#fig6-2) for water.
+> **CAUTION**
+> 
+> DO NOT substitute the following harmful fluids for water.
 
-<a name="fig6-2"></a><table>
-  <tr>
-    <th width="25%">Fluid</th>
-    <th>Remarks</th>
-  </tr>
-  <tr>
-    <td>Alcoholic beverages</td>
-    <td>Dehydrate the body and cloud judgement.</td>
-  </tr>
-  <tr>
-    <td>Urine</td>
-    <td>Contains harmful body wastes. Is about 2 percent salt.</td>
-  </tr>
-  <tr>
-    <td>Blood</td>
-    <td>Is salty and considered a food; therefore, requires additional body fluids to digest. May transmit disease.</td>
-  </tr>
-  <tr>
-    <td>Seawater</td>
-    <td>Is about 4 percent salt. It takes about 2 liters of body fluids to rid the body of waster from 1 liter of seawater. Therefore, by drinking seawater you deplete your body's water supply, which can cause death.</td>
-  </tr>
-</table>
-
-**Figure 6-2\. The Effects of Substitute Fluids**
+Fluid | Remarks
+----- | ------
+Alcoholic beverages | Dehydrate the body and cloud judgement.
+Urine | Contains harmful body wastes. Is about 2 percent salt.
+Blood | Is salty and considered a food; therefore, requires additional body fluids to digest. May transmit disease.
+Seawater | Is about 4 percent salt. It takes about 2 liters of body fluids to rid the body of waster from 1 liter of seawater. Therefore, by drinking seawater you deplete your body's water supply, which can cause death.
 
 Heavy dew can provide water. Tie rags or tufts of fine grass around your ankles and walk through dew-covered grass before sunrise. As the rags or grass tufts absorb the dew, wring the water into a container. Repeat the process until you have a supply of water or until the dew is gone. Australian natives sometimes mop up as much as 1 liter an hour this way.
 
