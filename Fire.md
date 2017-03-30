@@ -66,11 +66,86 @@ If you are in a snow-covered area, use green logs to make a dry base for your fi
 
 You need three types of materials ([Figure 7-4](#fig7-4)) to build a fire.
 
-<a name="fig7-4"></a>![Figure 7-4\. Materials for Building Fires](fig07-04.png)
+<a name="fig7-4"></a><table>
+  <tbody>
+    <tr>
+      <th align="center">Tinder</th>
+      <th align="center">Kindling</th>
+      <th align="center">Fuel</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Birch bark</li>
+          <li>Shredded inner bark from cedar, chestnut, red elm trees</li>
+          <li>Fine wood shavings</li>
+          <li>Dead grass, ferns, moss, fungi</li>
+          <li>Straw</li>
+          <li>Sawdust</li>
+          <li>Very fine pitchwood scrapings</li>
+          <li>Dead evergreen needles</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Small twigs</li>
+          <li>Small strips of wood</li>
+          <li>Lighter knot from pine tree stumps with a heavy concentration of resin</li>
+          <li>Heavy cardboard</li>
+          <li>Pieces of wood removed from the inside of larger pieces</li>
+          <li>Wood that has been doused with highly flammable materials, such as gasoline, oil, or wax</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Dry, standing wood and dry, dead branches</li>
+          <li>Dry inside (heart) of fallen tree trunks and large branches</li>
+          <li>Green wood that is finely split</li>
+          <li>Dry grasses twisted into bunches</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Figure 7-4\. Materials for Building Fires**
 
-<a name="fig7-4b"></a>![Figure 7-4\. Materials for Building Fires (Continued)](fig07-04b.png)
+<a name="fig7-4b"></a><table>
+  <tbody>
+    <tr>
+      <th align="center">Tinder</th>
+      <th align="center">Fuel</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Punk (the completely rotted portions of dead logs or trees)</li>
+          <li>Evergreen tree knots</li>
+          <li>Bird down (fine feathers)</li>
+          <li>Down seed heads (milkweed, dry cattails, bulrush, or thistle)</li>
+          <li>Fine, dried vegetable fibers</li>
+          <li>Spongy threads of dead puffball</li>
+          <li>Dead palm leaves</li>
+          <li>Skinlike membrane lining bamboo</li>
+          <li>Lint from pockets and seams</li>
+          <li>Charred cloth</li>
+          <li>Waxed paper</li>
+          <li>Other bamboo shavings</li>
+          <li>Gunpowder</li>
+          <li>Cotton</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Peat dry enough to burn (this may be found at the top of undercut banks)</li>
+          <li>Dried animal dung</li>
+          <li>Animal fats</li>
+          <li>Coal, oil shale, or oil lying on the surface</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **Figure 7-4\. Materials for Building Fires (Continued)**
 
