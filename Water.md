@@ -8,7 +8,7 @@ Almost any environment has water present to some degree. [Figure 6-1](#fig6-1) l
 
 **NOTE:** If you do not have a canteen, cup, can, or other type of container, improvise one from plastic or water-resistant cloth. Shape the plastic or cloth into a bowl by pleating it. Use pins or other suitable items—even your hands—to hold the pleats.
 
-<a name="fig6-1"></a>!<table>
+<a name="fig6-1"></a><table>
   <tr>
     <th>Environment</th>
     <th>Sources of water</th>
