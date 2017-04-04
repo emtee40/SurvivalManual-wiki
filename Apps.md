@@ -56,6 +56,14 @@ You can also take pictures of your findings far from the camp, to help motivate 
 
 You may have ruin your holidays, but try your best about their picture.
 
+### Barcode scanner
+
+In a more day-to-day approach, one can stumble uppon a fragment of barcode, without the human readable cipher part and can use its smartphone to get the information back.
+
+Barcodes are also used in their two dimensional form (like QR codes) to easily import cryptographic public keys or URL into smartphones using the camera.
+
+[Barcode scanner](https://f-droid.org/repository/browse/?fdfilter=barcode+scanner&fdid=com.google.zxing.client.android) is a libre software available on F-Droid.org to do so.
+
 ### Recorder
 
 In survival situations, as stated in the [Psycology](Psychology) chapter, you will get yourself in a stable situation more easily than expected as long as you keep the mind force to fight for. To keep going, many people in survival situation have written diaries to get away loneliness and keep track of their life and its unexpected events. If you have setup a power source, your smartphone can be a reliable Dictaphone in case you miss paper to write on. Still, you should remove your codes if you want others to access it later.
