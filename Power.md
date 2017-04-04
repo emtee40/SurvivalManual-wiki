@@ -11,13 +11,15 @@ There are [Solar USB chargers](SolarUSBCharger). Harvesting the power of the sun
 
 But if it is available, you can use it effortlessly. While you are harnessing the power of the sun, you can engage in other actions, such as obtaining food or building a shelter.
 
+A typical travel setup, with a paper-cheat sized solar-panel will cost 30$ (or €) and produce 3.5 watts. This source will be able to reload 10% of typical a smartphone in 3h of full-sun weather (batteries around 10Wh).
+
 ### Bicycle
 
 In contrast to the sun, generating power with your Bicycle is more effort, but it can also be a lot of fun and serve as good exercise. And it might be easily available, as most bikes already have a "generator" installed. Usually this "generator" / dynamo is there to power your lights on the bike. However, it can also charge a phone. You only need a converter to 5V/USB - you can build one yourself or buy one. But be careful here - there are some really bad converters out there. I would recommend building one yourself.
 
 ### Wind
 
-Wind-power is also great. It can be available day and night - but you need wind. Also, generators are often bulkier and hard to transport. However, it can be a great option if you are stationary, and are not on the move. It is not particularly  difficult to build a wind-generator. Basically, you just need to get the wind to turn something - use junk and your MultiTool to get the wind to rotate a shaft and attach a motor. A motor is basically the same as a generator - you just need to build some electronics to harvest the power.
+Wind-power is also great. It can be available day and night - but you need wind. Also, generators are often bulkier and hard to transport. However, it can be a great option if you are stationary, and are not on the move. It is not particularly  difficult to build a wind-generator. Basically, you just need to get the wind to turn something - use junk and your [MultiTool](MultiTool) to get the wind to rotate a shaft and attach a motor. A motor is basically the same as a generator - you just need to build some electronics to harvest the power.
 
 ### Water
 
@@ -29,22 +31,51 @@ You can also generate power by harnessing heat differentials, e.g. with a fire. 
 
 ### Hand Crank
 
-Using the muscles of your arm is another option. There are small USB cranks to operate by hand, some even [with a light](HandCrankUSB). But be aware that this really binds you to the task, as you cannot do much else while turning the crank. Additionally, I personally find it an exhausting and boring task - I prefer to use the bicycle. However, it is always good to have an array of options, and I own a small crank for emergencies.
+Using the muscles of your arm is another option. There are small USB cranks to operate by hand, some even [with a light](HandCrankUSB) or also reloading standard AA/LR06 batteries. But be aware that this really binds you to the task, as you cannot do much else while turning the crank. Additionally, I personally find it an exhausting and boring task - I prefer to use the bicycle (which is using biggest muscles). However, it is always good to have an array of options, and I own a small crank for emergencies.
 
 ### Car
 
-You can also use a car to generate power. A car always comes with a generator - if you drive around the (typically 12V), the battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger](CarUSBCharger). But be aware that you hurt the environment when doing so. This should be the last resort, or used when are capable to around in a car anyway to get from point A to point B.
+You can also use a car to generate power. A car always comes with a generator - if you drive around the (typically 12V), the battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger](CarUSBCharger). But be aware that you hurt the environment when doing so. This should be the last resort as a car is making 80% of heat energy (usually from fossil fuel) using just 20% to actually move you around, and accessory convert a portion of this movement into electricity via average efficiency converters… So it better to take advantage of an actual car trip.
+
+### Lemon, zinc and copper
+
+Alessandro Volta (18 February 1745 – 5 March 1827) was an Italian physicist, chemist, and a pioneer of electricity and power. This credited inventor of the electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
+
+If the pieces of metal are made of copper for the one (like electric wire or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-cheat cover, gutters and Paris roof covers), both approximately of 3cm², plugged at another 3cm of distance the one from the other, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
+
+To reload a USB powered device you will need a battery of 5 lemon-piles plugged in series (negative pole of the 1st to the positive pole of the 2nd, etc.).
+
+This method won't provide a lot of energy, so you'll need a lot of lemons. The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain) or acid liquids (vinegar) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, and so being acid enough to produce electricity. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes.
+
+A battery of 5 lemons pile will deliver 5V and around 1mA, hence 5mW. In comparison, a standard USB plug will provide at least 500mW. You can easily cut the lemons it two and slice the halves in five, so 10 lemons will do the trick.
+
+Substituting a magnesium electrode for the zinc one makes a cell with a larger voltage (1.5−1.6V) in lemon. Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also, such as : lead, iron…
+
+As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato.
+
+So the piles will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained in the lemon, covering the cut parts and keep a bowl of water near to humidify the air.
+Volta himself would have slice the lemons and intercalated metal discs between, alternating zinc and copper in order to have the piles plugged in series, in a compact setup.
+
+Lemon powered clocks have been reported to run for several months with uncut lemons.
+
+Furthermore, in a survival situation, you can still eat the dried off fruits afterwards.
 
 ## Tips & Tricks
 
 ### Power-Bank
 
-Get a good power-bank. Often you do not want to use the energy directly while still generating it. Lets take solar - you may charge your power-bank during the day, and may use the power at night. Be aware that the capacity information on these power-banks are often inaccurate or outright lies. Try them out for yourself and measure!
+Get a good power-bank. Often you do not want to use the energy directly while still generating it. Lets take solar - you may charge your power-bank during the day, and may use the power at night. Be aware that the capacity information on these power-banks are often inaccurate or outright lies. Try them out for yourself and measure.
+
+Power banks are just batteries with standard plug interfaces (e.g. USB). Beware that owning a battery is like owning a pet animal : you're responsible for it. If you fail to comply with proper maintenance, it will have a shortened life. Classic cellphone power-banks are made of Lithium batteries, which are better stored at 50% capacity (being full or empty is damaging it), and reloaded every 6 months. It won't work properly (or at all) after years of oblivion deep in a drawer.
 
 ### Stay DC
 
-If possible, stay DC (Direct Current) - if you need to make a DC/AC (Alternating Current) AC/DC roundtrip (e.g. with a power inverter) you lose a lot of energy from having to convert between AC/DC, e.g. in the form of waste heat that is not easily reclaimable. Also, DC is most of the time less dangerous to handle - so it helps you to survive the process of surviving ;-)
+If possible, stay DC (Direct Current) - if you need to make a DC/AC (Alternating Current) AC/DC roundtrip (e.g. with a power inverter) you lose a lot of energy from having to convert between AC/DC, mainly in the form of waste heat that is not easily reclaimable. Also, DC is most of the time less dangerous to handle - so it helps you to survive the process of surviving ;-)
 
 ### Save Power
 
-You do not have to generate the power you save. A big help in saving power is measuring what device consumes how much energy in which state. For example, your phone consumes a lot more energy when the radios (wifi, cellular, ..) are switched on. Also, the brightness of the display plays a big role in its battery life.
+You do not have to generate the power you save. A big help in saving power is measuring what device consumes how much energy in which state. For example, your phone consumes a lot more energy when the radios (WiFi, BlueTooth, cellular, …) are switched on. Also, the brightness of the display plays a big role in its battery life.
+
+You will use around 1% of your battery every minutes of full power screen backlight, or camera session, or WiFi download. And in uncovered area, your phone will keep trying to reach a cellphone antenna around which is quickly depleting the battery.
+
+To save your battery, you should set it up with small screen backlight level, short screensaver timeout and airplane mode.
