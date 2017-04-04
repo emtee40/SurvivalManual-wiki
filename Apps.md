@@ -34,7 +34,7 @@ Have a game app to fight boredom and keep the mind stimulated - I recommend [gob
 
 A lot of Android phones are delivered with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive those informations if you find a headphone to plug in, as the cable is used as an antenna. You can also plug every other Jack 3.5mm component : like a microphone, computer loudspeakers, a Jack extension cord or even just a broken version of those…
 
-Be sure to have the radio app redirecting the sound toward the phone integrated loudspeaker if you plug something that can't actually produce sound, as the default behavior is redirect the sound to the plugged headphones.
+Be sure to have the radio app redirecting the sound toward the phone integrated loudspeaker if you plug something that can't actually produce sound, as the default behavior is to redirect the sound to the plugged headphones.
 
 ### Morse signal
 
@@ -42,7 +42,7 @@ Morse signal is easy to transmit, even without high technology around : the ligh
 
 Everyone probably knows the famous S.O.S signal, which tells that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But passed this step, it could be useful to exchange a bit more about your situation. For instance, if you are trapped in a crack : what do you need first ? Is there people in your group that needs special assistance ?
 
-This exchanges could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer let you type your message in English (it's standard for international Morse code but you not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have playing the code using the flashlight, but this feature may need your help to be introduced in the app…)
+This exchanges could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer let you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have playing the code using the flashlight, but this feature may need your help to be introduced in the app…)
 
 I personally use it already just to remember in which order are the dots and the dashes, being a bit dyslexic myself.
 
