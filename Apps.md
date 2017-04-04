@@ -22,7 +22,7 @@ The majority of phones are fitted with a tilt sensor, which the [Angulo](https:/
 
 ### Calculators
 
-Every Android phone is delivered with a calculator app. This calculator app have several modes, and can be use do make complicated scientific computations. One can win time getting used to it.
+Every Android phone is delivered with a calculator app. This calculator app have several modes, and can be used to make complicated scientific computations. One can win time getting used to it.
 
 ### Games
 
@@ -32,29 +32,33 @@ Have a game app to fight boredom and keep the mind stimulated - I recommend [gob
 
 ### Radio
 
-A lot of Android phones are delivered with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive those informations if you find a headphone to plug in, as the cable is used as an antenna. You can also plug every other Jack 3.5mm component : like a microphone, computer loudspeakers, a Jack extension cord or even just a broken version of those…
+A lot of Android phones are delivered with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive those informations if you find a headphone to plug in, because it needs the cable to use it as an antenna to receive the signal. You can also plug every other Jack 3.5mm component you'll find like:
+* a microphone,
+* computer loudspeakers,
+* a Jack extension cord,
+* or even just a broken version of those…
 
-Be sure to have the radio app redirecting the sound toward the phone integrated loudspeaker if you plug something that can't actually produce sound, as the default behavior is to redirect the sound to the plugged headphones.
+Be sure to have the radio app redirecting the sound towards the phone integrated loudspeaker if you plug something that can't actually produce sound, as the default behavior is to redirect the sound to the plugged headphones.
 
 ### Morse signal
 
-Morse signal is easy to transmit, even without high technology around : the light of mirror (or a tilted smartphone screen), the sound of shocks on some big piece of metal ; can broadcast Morse signal farther than your voice, and requiring less energy.
+Morse signal is easy to transmit, even without high technology around : the reflected light of a mirror (or a tilted smartphone screen), the sound of shocks on some big piece of metal ; can broadcasts Morse signal farther than your voice, and requiring less energy.
 
 Everyone probably knows the famous S.O.S signal, which tells that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But passed this step, it could be useful to exchange a bit more about your situation. For instance, if you are trapped in a crack : what do you need first ? Is there people in your group that needs special assistance ?
 
-This exchanges could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer let you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have playing the code using the flashlight, but this feature may need your help to be introduced in the app…)
+This exchanges could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer let you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA playing the code using the flashlight, but this feature may need your help to be introduced in the app…)
 
 I personally use it already just to remember in which order are the dots and the dashes, being a bit dyslexic myself.
 
 ### Camera
 
-Your phone's camera can help you taking quick notes about written signs, allowing to capture big chunks of text in an instant and with no alteration then, which is something human mind is not brilliant at, especially under stress condition. [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to this task, processing the pictures to improve readability.
+Your phone's camera can help you taking quick notes about written signs, allowing to capture big chunks of text in an instant and with no alteration then, which is something human mind is not brilliant at, especially under stress condition. [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to this task, processing the pictures to improve readability of texts.
 
 You can also take pictures of the place you are, to help finding your way back to it later. Although your memory is faster and using less energy to do it, if you take the time to look behind you from time to time.
 
 You can also take pictures of your findings far from the camp, to help motivate others about it.
 
-You may have ruin your holidays, but try your best about their picture.
+You may have ruin your holidays, but try your best about their pictures.
 
 ### Barcode scanner
 
@@ -66,7 +70,7 @@ Barcodes are also used in their two dimensional form (like QR codes) to easily i
 
 ### Recorder
 
-In survival situations, as stated in the [Psycology](Psychology) chapter, you will get yourself in a stable situation more easily than expected as long as you keep the mind force to fight for. To keep going, many people in survival situation have written diaries to get away loneliness and keep track of their life and its unexpected events. If you have setup a power source, your smartphone can be a reliable Dictaphone in case you miss paper to write on. Still, you should remove your codes if you want others to access it later.
+In survival situations, as stated in the [Psycology](Psychology) chapter, you will get yourself in a stable situation more easily than expected as long as you keep the mind force to fight for. To keep going, many people in survival situation write diaries to get away loneliness and keep track of their life and its unexpected events. If you have setup a power source, your smartphone can be a reliable Dictaphone in case you miss paper to write on. Still, you should remove your codes if you want others to access it later.
 
 ### Pass app
 
