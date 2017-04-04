@@ -41,19 +41,19 @@ You can also use a car to generate power. A car always comes with a generator - 
 
 Alessandro Volta (18 February 1745 – 5 March 1827) was an Italian physicist, chemist, and a pioneer of electricity and power. This credited inventor of the electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
 
-If the pieces of metal are made of copper for the one (like electric wire or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-cheat cover, gutters and Paris roof covers), both approximately of 3cm², plugged at another 3cm of distance the one from the other, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
+If the pieces of metal are made of copper for the one (like electric wires or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-cheat cover, gutters and Paris roof covers), both approximately of 3cm², plugged at another 3cm of distance the one from the other, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
 
-To reload a USB powered device you will need a battery of 5 lemon-piles plugged in series (negative pole of the 1st to the positive pole of the 2nd, etc.).
+To reload a USB powered device you will need a pile of 5 lemon cells plugged in series (negative pole of the 1st to the positive pole of the 2nd, etc.).
 
-This method won't provide a lot of energy, so you'll need a lot of lemons. The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain) or acid liquids (vinegar) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, and so being acid enough to produce electricity. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes.
+This method won't provide a lot of energy, so you'll need a lot of lemons. The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain) or acid liquids (vinegar) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, so being acid enough to produce electricity. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes (metallic parts).
 
-A battery of 5 lemons pile will deliver 5V and around 1mA, hence 5mW. In comparison, a standard USB plug will provide at least 500mW. So 100 parallel groups of 5 lemon cells plugged in series will actually reload your phone. You can easily cut the lemons it two and slice the halves in five, so 10 lemons will be sufficient.
+A pile of 5 lemons cells will deliver 5V and around 1mA, hence 5mW. In comparison, a standard USB plug will provide at least 500mW. So a battery of 100 parallel piles of 5V piles will actually reload your phone. You can easily cut the lemons it two and slice the halves in five, so 10 lemons will be sufficient.
 
-Substituting a magnesium electrode for the zinc one makes a cell with a larger voltage (1.5−1.6V) in lemon. Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also, such as : lead, iron…
+Substituting a magnesium electrode for the zinc one makes a cell with a larger voltage (1.5−1.6V) than lemon. Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also such as : lead, iron…
 
 As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato.
 
-So the piles will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained in the lemon, covering the cut parts and setting a bowl of water near to humidify the air. Volta himself would have slice the lemons and intercalated metal discs between, alternating zinc and copper in order to have the piles plugged in series, in a compact setup.
+So the piles will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained in the lemon, covering the cut parts and setting a bowl of water near to humidify the air around. Volta himself would have slice the lemons and intercalated metal discs between, alternating zinc and copper in order to have a pile of cells plugged in series, in a compact setup.
 
 Lemon powered clocks have been reported to run for several months with uncut lemons.
 
@@ -65,7 +65,7 @@ Furthermore, in a survival situation, you can still eat the dried off fruits aft
 
 Get a good power-bank. Often you do not want to use the energy directly while still generating it. Lets take solar - you may charge your power-bank during the day, and may use the power at night. Be aware that the capacity information on these power-banks are often inaccurate or outright lies. Try them out for yourself and measure.
 
-Power banks are just batteries with standard plug interfaces (e.g. USB). Beware that owning a battery is like owning a pet animal : you're responsible for it. If you fail to comply with proper maintenance, it will have a shortened life. Classic cellphone power-banks are made of Lithium batteries, which are better stored at 50% capacity (being full or empty is damaging it), and reloaded every 6 months. It won't work properly (or at all) after years of oblivion deep in a drawer.
+Power banks are just batteries with standard plug interfaces (e.g. USB, 5V). Beware that owning a battery is like owning a pet animal : you're responsible for it. If you fail to comply with proper maintenance, it will have a shortened life. Classic cellphone power-banks are made of Lithium batteries, which are better stored at 50% capacity (being full or empty is damaging it), and reloaded every 6 months. It won't work properly (or at all) after years of oblivion deep in a drawer.
 
 ### Stay DC
 
@@ -73,8 +73,8 @@ If possible, stay DC (Direct Current) - if you need to make a DC/AC (Alternating
 
 ### Save Power
 
-You do not have to generate the power you save. A big help in saving power is measuring what device consumes how much energy in which state. For example, your phone consumes a lot more energy when the radios (WiFi, BlueTooth, cellular, …) are switched on. Also, the brightness of the display plays a big role in its battery life.
+You do not have to generate the power you save. A big help in saving power is measuring what device consumes how much energy in which state. For example, your phone consumes a lot more energy when the radios (WiFi, Bluetooth, cellular, …) are switched on. Also, the brightness of the display plays a big role in its battery life.
 
-You will use around 1% of your battery every minutes of full power screen backlight, or camera session, or WiFi download. And in uncovered area, your phone will keep trying to reach a cellphone antenna around which is quickly depleting the battery.
+You will use around 1% of your battery every minutes of full power screen backlight, camera session, or WiFi download. And in uncovered areas, your phone will keep trying to reach a cellphone antenna around, which is draining a lot of power.
 
 To save your battery, you should set it up with small screen backlight level, short screensaver timeout and airplane mode.
