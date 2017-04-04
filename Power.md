@@ -47,7 +47,7 @@ To reload a USB powered device you will need a battery of 5 lemon-piles plugged 
 
 This method won't provide a lot of energy, so you'll need a lot of lemons. The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain) or acid liquids (vinegar) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, and so being acid enough to produce electricity. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes.
 
-A battery of 5 lemons pile will deliver 5V and around 1mA, hence 5mW. In comparison, a standard USB plug will provide at least 500mW. You can easily cut the lemons it two and slice the halves in five, so 10 lemons will do the trick.
+A battery of 5 lemons pile will deliver 5V and around 1mA, hence 5mW. In comparison, a standard USB plug will provide at least 500mW. So 100 parallel groups of 5 lemon cells plugged in series will actually reload your phone. You can easily cut the lemons it two and slice the halves in five, so 10 lemons will be sufficient.
 
 Substituting a magnesium electrode for the zinc one makes a cell with a larger voltage (1.5−1.6V) in lemon. Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also, such as : lead, iron…
 
