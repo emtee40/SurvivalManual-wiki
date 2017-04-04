@@ -32,7 +32,7 @@ Have a game app to fight boredom and keep the mind stimulated - I recommend [gob
 
 ### Radio
 
-Every Android phone is delivered with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive those informations if you find a headphone to plug in, as the cable is used as an antenna. You can also plug every other Jack 3.5mm component : like a microphone, computer loudspeakers, a Jack extension cord or even just a broken version of those…
+A lot of Android phones are delivered with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive those informations if you find a headphone to plug in, as the cable is used as an antenna. You can also plug every other Jack 3.5mm component : like a microphone, computer loudspeakers, a Jack extension cord or even just a broken version of those…
 
 Be sure to have the radio app redirecting the sound toward the phone integrated loudspeaker if you plug something that can't actually produce sound as the default behavior is redirect the sound to the plugged headphones.
 
