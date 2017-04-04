@@ -53,8 +53,7 @@ Substituting a magnesium electrode for the zinc one makes a cell with a larger v
 
 As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato.
 
-So the piles will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained in the lemon, covering the cut parts and keep a bowl of water near to humidify the air.
-Volta himself would have slice the lemons and intercalated metal discs between, alternating zinc and copper in order to have the piles plugged in series, in a compact setup.
+So the piles will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained in the lemon, covering the cut parts and setting a bowl of water near to humidify the air. Volta himself would have slice the lemons and intercalated metal discs between, alternating zinc and copper in order to have the piles plugged in series, in a compact setup.
 
 Lemon powered clocks have been reported to run for several months with uncut lemons.
 
