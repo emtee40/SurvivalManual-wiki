@@ -11,8 +11,6 @@ There are [Solar USB chargers](SolarUSBCharger). Harvesting the power of the sun
 
 But if it is available, you can use it effortlessly. While you are harnessing the power of the sun, you can engage in other actions, such as obtaining food or building a shelter.
 
-A typical travel setup, with a paper-sheet sized solar-panel will cost 30$ (or €) and produce 3.5 watts. This source will be able to reload 10% of typical a smartphone in 3h of full-sun weather (batteries around 10Wh).
-
 ### Bicycle
 
 In contrast to the sun, generating power with your Bicycle is more effort, but it can also be a lot of fun and serve as good exercise. And it might be easily available, as most bikes already have a "generator" installed. Usually this "generator" / dynamo is there to power your lights on the bike. However, it can also charge a phone. You only need a converter to 5V/USB - you can build one yourself or buy one. But be careful here - there are some really bad converters out there. I would recommend building one yourself.
