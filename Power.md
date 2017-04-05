@@ -39,13 +39,13 @@ You can also use a car to generate power. A car always comes with a generator - 
 
 ### Voltaic pile
 
-Alessandro Volta (18 February 1745 – 5 March 1827) was an Italian physicist, chemist, and a pioneer of electricity and power. This credited inventor of the electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
+Alessandro Volta was an Italian physicist, chemist, and a pioneer of electricity and power. He is the credited inventor of the electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
 
 If the pieces of metal are made of copper for the one (like electric wires or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-cheat cover, gutters and Paris roof covers), both approximately of 3cm², plugged at another 3cm of distance the one from the other, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
 
 To reload a USB powered device you will need a pile of 5 lemon cells plugged in series (negative pole of the 1st to the positive pole of the 2nd, etc.).
 
-This method won't provide a lot of energy, so you'll need a lot of lemons. The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain pith) or acid liquids (vinegar, grape juice) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, so being acid enough to produce electricity. All the given example ends up producing around 1V cells. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes (metallic parts).
+This method won't provide a lot of energy, so you'll need a lot of lemons. The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain pith…) or acid liquids (vinegar, grape juice…) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, so being acid enough to produce electricity. All the given example ends up producing around 1V cells. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes (metallic parts).
 
 A pile of 5 lemons cells will deliver 5V and around 1mA. In comparison, a standard USB plug will provide 500mA. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy. Fortunately, your smartphone should be able to take advantage of a fewer current, the reloading process will just be slower. Some are actually reloading from the 1st provided mA (such as the FairPhone2). Then, you can easily cut the lemons in four and slice those long parts in five, to get four piles of 5V by lemon.
 
