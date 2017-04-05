@@ -21,6 +21,8 @@ In contrast to the sun, generating power with your Bicycle is more effort, but i
 
 Wind-power is also great. It can be available day and night - but you need wind. Also, generators are often bulkier and hard to transport. However, it can be a great option if you are stationary, and are not on the move. It is not particularly  difficult to build a wind-generator. Basically, you just need to get the wind to turn something - use junk and your [MultiTool](MultiTool) to get the wind to rotate a shaft and attach a motor. A motor is basically the same as a generator - you just need to build some electronics to harvest the power.
 
+Scottish engineer Hugh Piggott inspired since year 2000, ONG in several countries (US, France, Nicaragua) building low-tech nearly hand made wind-turbine from 1.2m to 4.2m, and 200W to 2000W. He wrote many books about it, available from his [website](http://scoraigwind.co.uk/) and translated by the motivated ONG.
+
 ### Water
 
 You can also use water to generate power. One option is to use the flow of a river passing by. There you basically do the same as you would with the wind-turbine - in this case, water rather than wind turns the generator. One big advantage of using a river is that you get a steady rotation-speed, and the flow usually does not stop, while the wind might. However, it depends on having access to a river or a dam. Speaking of a dam - you can also build things to direct the water and make the flow faster.
