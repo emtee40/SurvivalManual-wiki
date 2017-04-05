@@ -37,7 +37,7 @@ Using the muscles of your arm is another option. There are small USB cranks to o
 
 You can also use a car to generate power. A car always comes with a generator - if you drive around the (typically 12V), the battery is charged. You just have to convert the 12V to 5V for the phone. You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy some [car usb-charger](CarUSBCharger). But be aware that you hurt the environment when doing so. This should be the last resort as a car is making 80% of heat energy (usually from fossil fuel) using just 20% to actually move you around, and accessory convert a portion of this movement into electricity via average efficiency converters… So it better to take advantage of an actual car trip.
 
-### Lemon, zinc and copper
+### Voltaic pile
 
 Alessandro Volta (18 February 1745 – 5 March 1827) was an Italian physicist, chemist, and a pioneer of electricity and power. This credited inventor of the electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
 
@@ -49,11 +49,11 @@ This method won't provide a lot of energy, so you'll need a lot of lemons. The g
 
 A pile of 5 lemons cells will deliver 5V and around 1mA. In comparison, a standard USB plug will provide 500mA. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy. Fortunately, your smartphone should be able to take advantage of a fewer current, the reloading process will just be slower. Some are actually reloading from the 1st provided mA (such as the FairPhone2). Then, you can easily cut the lemons in four and slice those long parts in five, to get four piles of 5V by lemon.
 
-Substituting a magnesium electrode for the zinc one makes a cell of a larger voltage than lemon (1.5 − 1.6V), and could allow you to build piles of only 3 cells (to reach nearly 5V). Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also such as : lead, iron…
+Substituting a magnesium electrode for the zinc one makes a cell of a larger voltage than lemon (1.6V), and could allow you to build piles of only 3 cells. Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also such as : lead, iron…
 
 As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato.
 
-So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained into the lemon, covering the cut parts and setting a bowl of water near the battery to humidify the air around. Volta himself would have intercalated paper soaked in fruit juice between metal discs (such as copper pennies with brown color and zinc ones with silver color) in order to have a pile of cells plugged in series, in a compact shape.
+So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained into the lemon, covering the cut parts and setting a bowl of water near the battery to humidify the air around. Volta himself would have intercalated paper soaked in fruit juice between metal discs (such as copper pennies, brown, and zinc ones, silver) in order to have a pile of cells plugged in series, in a compact shape.
 
 Lemon powered clocks have been reported to run for several months with uncut lemons.
 
