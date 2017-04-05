@@ -45,17 +45,17 @@ If the pieces of metal are made of copper for the one (like electric wires or ce
 
 To reload a USB powered device you will need a pile of 5 lemon cells plugged in series (negative pole of the 1st to the positive pole of the 2nd, etc.).
 
-This method won't provide a lot of energy, so you'll need a lot of lemons. The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain pith…) or acid liquids (vinegar, grape juice…) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, so being acid enough to produce electricity. All the given example ends up producing around 1V cells. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes (metallic parts).
+This method won't provide a lot of energy, so you'll need a lot of lemons (cut in four lengths and sliced). The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain pith…) or acid liquids (vinegar, grape juice, salt water…) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, so being acid enough to produce electricity. All the given example ends up producing around 1V cells. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes (metallic parts).
 
-A pile of 5 lemons cells will deliver 5V and around 1mA. In comparison, a standard USB plug will provide 500mA. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy. Fortunately, your smartphone should be able to take advantage of a fewer current, the reloading process will just be slower. Some are actually reloading from the 1st provided mA (such as the FairPhone2). Then, you can easily cut the lemons in four and slice those long parts in five, to get four piles of 5V by lemon.
+A pile of 5 lemons cells will deliver 5V and around 1mA. In comparison, a standard USB plug will provide 500mA. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy. Fortunately, your smartphone should be able to reload even with a fewer current, it will just take longer. Some are able to take advantage of the 1st provided mA, but wont actually reload themselves if provided with less than their idle consumption current (~20mA, screen off, airplane mode). Others will required at least the standard current.
 
 Substituting a magnesium electrode for the zinc one makes a cell of a larger voltage than lemon (1.6V), and could allow you to build piles of only 3 cells. Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also such as : lead, iron…
 
 As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato.
 
-So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained into the lemon, covering the cut parts and setting a bowl of water near the battery to humidify the air around. Volta himself would have intercalated paper soaked in fruit juice between metal discs (such as copper pennies, brown, and zinc ones, silver) in order to have a pile of cells plugged in series, in a compact shape.
+So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained into the lemon, covering the cut parts and setting a bowl of water near the battery to humidify the air around. Volta himself would have intercalated paper-towel soaked in salt water between metal discs (such as copper pennies, brown, and zinc ones, silver) in order to have a pile of cells plugged in series, in a compact shape.
 
-Lemon powered clocks have been reported to run for several months with uncut lemons.
+Lemon powered clocks have been reported to run for several months with uncut lemons. Penny piles are drying quicker, reportedly 6h.
 
 Furthermore, in a survival situation, you can still eat the dried off fruits afterwards.
 
