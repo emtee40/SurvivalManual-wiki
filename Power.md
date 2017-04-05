@@ -11,7 +11,7 @@ There are [Solar USB chargers](SolarUSBCharger). Harvesting the power of the sun
 
 But if it is available, you can use it effortlessly. While you are harnessing the power of the sun, you can engage in other actions, such as obtaining food or building a shelter.
 
-A typical travel setup, with a paper-cheat sized solar-panel will cost 30$ (or €) and produce 3.5 watts. This source will be able to reload 10% of typical a smartphone in 3h of full-sun weather (batteries around 10Wh).
+A typical travel setup, with a paper-sheet sized solar-panel will cost 30$ (or €) and produce 3.5 watts. This source will be able to reload 10% of typical a smartphone in 3h of full-sun weather (batteries around 10Wh).
 
 ### Bicycle
 
@@ -43,7 +43,7 @@ You can also use a car to generate power. A car always comes with a generator - 
 
 Alessandro Volta was an Italian physicist, chemist, and a pioneer of electricity and power. He is the credited inventor of the electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
 
-If the pieces of metal are made of copper for the one (like electric wires or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-cheat cover, gutters and Paris roof covers), both approximately of 3cm², plugged at another 3cm of distance the one from the other, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
+If the pieces of metal are made of copper for the one (like electric wires or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-sheet cover, gutters and Paris roof covers), both approximately of 3cm², plugged at another 3cm of distance the one from the other, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
 
 To reload a USB powered device you will need a pile of 5 lemon cells plugged in series (negative pole of the 1st to the positive pole of the 2nd, etc.).
 
