@@ -28,9 +28,9 @@
 
 ### [Tools and Equipment](Tools)
 
-### [Desert](13)
+### [Desert](Desert)
 
-### [Tropical](14)
+### [Tropical](Tropical)
 
 ### [Cold Weather](15)
 
