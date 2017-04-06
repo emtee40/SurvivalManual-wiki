@@ -59,6 +59,16 @@ Lemon powered clocks have been reported to run for several months with uncut lem
 
 Furthermore, in a survival situation, you can still eat the dried off fruits afterwards.
 
+### Aluminum-air cells
+
+Industrially produced "pure" aluminum (such as soda cans or aluminum foils) allows to make more powerful cells. For instance, a traditional Volta cell made of aluminum and copper, for 10cm by 10cm metal parts (electrodes), will produce 10mA. Aluminum / activated charcoal cells with salt water electrolyte produce 1V and 100mA.
+
+Activated charcoal is usually used to filter aquarium water. Well burnt regular charcoal will be efficient too, once reduced in large grain powder, in order to contain the maximum air in it.
+
+To make an aluminum-air cell, cut a 10cm by 10cm aluminum foil piece. Lay soaked in salt water paper on it. Set a 1cm thick charcoal layer on the soaked paper. Put a bare copper wire across the carbon. Fold the edges of the aluminum foil, like you would close a burrito. The copper wire must not touch the aluminum. Press on the aluminum burrito to activate it. The tension appears between the copper wire (being the positive pole) and the aluminum foil (being the negative one).
+
+The drawback here is that aluminum is getting oxidized withing tens of minutes. Aluminum oxidation is sticking on the aluminum part, preventing the reaction from continuing. The aluminum anode can be mechanically brushed to remove oxidation, or bleach can be added to the salt water to reactivate the cell.
+
 ## Tips & Tricks
 
 ### Power-Bank
