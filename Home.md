@@ -34,43 +34,43 @@
 
 ### [Cold Weather](Cold)
 
-### [Sea](16)
+### [Sea](Sea)
 
-### [Expedient Water Crossing](17)
+### [Expedient Water Crossing](WaterCrossing)
 
-### [Field-Expedient Direction Finding](18)
+### [Field-Expedient Direction Finding](DirectionFinding)
 
-### [Signaling Techniques](19)
+### [Signaling Techniques](Signaling)
 
-### [Survival in Hostile Areas](20)
+### [Survival in Hostile Areas](HostileAreas)
 
-### [Camouflage](21)
+### [Camouflage](Camouflage)
 
-### [Contact With People](22)
+### [Contact With People](People)
 
-### [Survival in Man-Made Hazards](23)
+### [Survival in Man-Made Hazards](ManMadeHazards)
 
 Appendix
 ========
 
 ### [MultiTool](MultiTool)
 
-### [Edible and Medicinal Plants](b)
+### [Edible and Medicinal Plants](b_wip)
 
-### [Poisonous Plants](c)
+### [Poisonous Plants](PoisonousPlantsList)
 
-### [Dangerous Insects and other Arthropods](d)
+### [Dangerous Insects and other Arthropods](InsectsAndArachnids)
 
-### [Venomous Snakes and Mollusks](e)
+### [Venomous Snakes and Mollusks](SnakesAndLizards)
 
-### [Dangerous Fish and Mollusks](f)
+### [Dangerous Fish and Mollusks](FishAndMollusks)
 
-### [Ropes and Knots](g)
+### [Ropes and Knots](RopesAndKnots)
 
-### [Clouds Foretellers of Weather](h)
+### [Clouds Foretellers of Weather](Clouds)
 
-### [FAQ](faq)
+### [FAQ](FAQ)
 
-### [Credits](credits)
+### [Credits](Credits)
 
 
