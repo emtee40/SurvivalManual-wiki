@@ -69,6 +69,8 @@ To make an aluminum-air cell, cut a 10cm by 10cm aluminum foil piece. Lay soaked
 
 The drawback here is that aluminum is getting oxidized withing tens of minutes. Aluminum oxidation is sticking on the aluminum part, preventing the reaction from continuing. The aluminum anode can be mechanically brushed to remove oxidation, or bleach can be added to the salt water to reactivate the cell.
 
+25 of those cells would produce the same amount of energy than a standard USB 1.0 port delivers (5V, 500mA). If it runs for half an hour it would represent a typical 12% refill of Lithium-ion (3.7V, 2400mAh, ~10Wh).
+
 ## Tips & Tricks
 
 ### Power-Bank
