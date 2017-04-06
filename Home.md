@@ -32,7 +32,7 @@
 
 ### [Tropical](Tropical)
 
-### [Cold Weather](15)
+### [Cold Weather](Cold)
 
 ### [Sea](16)
 
