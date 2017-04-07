@@ -39,7 +39,7 @@ You can also use a car to generate power. A car always comes with a generator - 
 
 ### Voltaic pile
 
-Alessandro Volta was an Italian physicist, chemist, and a pioneer of electricity and power. He is the credited inventor of the electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
+Alessandro Volta was an Italian physicist, chemist, and a pioneer of electricity and power. He is the credited inventor of the first electrical battery invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
 
 If the pieces of metal are made of copper for the one (like electric wires or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-sheet cover, gutters and Paris roof covers), both approximately of 3cm², plugged at another 3cm of distance the one from the other, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
 
@@ -47,13 +47,13 @@ To reload a USB powered device you will need a pile of 5 lemon cells plugged in 
 
 This method won't provide a lot of energy, so you'll need a lot of lemons (cut in four lengths and sliced). The good news is that a lot of other fruits (oranges, grapefruits…), vegetables (potatoes, plantain pith…) or acid liquids (vinegar, grape juice, salt water…) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, so being acid enough to produce electricity. All the given example ends up producing around 1V cells. Fruit is convenient, because it provides both the electrolyte and a simple way to support the electrodes (metallic parts).
 
-A pile of 5 lemons cells will deliver 5V and around 1mA. In comparison, a standard USB plug will provide 500mA. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy. Fortunately, your smartphone should be able to reload even with a fewer current, it will just take longer. Some are able to take advantage of the 1st provided mA, but wont actually reload themselves if provided with less than their idle consumption current (~20mA, screen off, airplane mode). Others will required at least the standard current.
+A pile of 5 lemon cells will deliver 5V and around 1mA. In comparison, a standard USB plug will provide 500mA. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy. Fortunately, your smartphone should be able to reload even with a fewer current, it will just take longer. Some are able to take advantage of the 1st provided mA, but wont actually reload themselves if provided with less than their own idle power consumption (~20mA, screen off, airplane mode). Others will required at least the standard power.
 
-Substituting a magnesium electrode for the zinc one makes a cell of a larger voltage than lemon (1.6V), and could allow you to build piles of only 3 cells. Magnesium is the soft metal-component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also such as : lead, iron…
+Substituting a magnesium electrode for the zinc one makes a cell of a larger voltage than lemon (1.6V), and could allow you to build piles of only 3 cells. Magnesium is the soft-metal component of tempest friction-based sparking lighters that are usually embed in survival kits. Other metals can be used also such as : lead, iron…
 
 As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato.
 
-So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained into the lemon, covering the cut parts and setting a bowl of water near the battery to humidify the air around. Volta himself would have intercalated paper-towel soaked in salt water between metal discs (such as copper pennies, brown, and zinc ones, silver) in order to have a pile of cells plugged in series, in a compact shape.
+So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the water contained into the lemon, covering the cut parts and setting a bowl of water near the battery to humidify the air around. Volta himself would have intercalated paper-towel soaked in salt water between metal discs (such as brown copper pennies, and silverly zinc ones) in order to have a pile of cells plugged in series, in a compact shape.
 
 Lemon powered clocks have been reported to run for several months with uncut lemons. Penny piles are drying quicker, reportedly 6h.
 
@@ -61,15 +61,17 @@ Furthermore, in a survival situation, you can still eat the dried off fruits aft
 
 ### Aluminum-air cells
 
-Industrially produced "pure" aluminum (such as soda cans or aluminum foils) allows to make more powerful cells. For instance, a traditional Volta cell made of aluminum and copper, for 10cm by 10cm metal parts (electrodes), will produce 10mA. Aluminum / activated charcoal cells with salt water electrolyte produce 1V and 100mA.
+Industrially produced "pure" aluminum (such as soda cans or aluminum foils) allows to make more powerful cells. For instance, a traditional Volta cell made of aluminum and copper, for 10cm by 10cm metal parts (electrodes), will produce 10mA. Aluminum and activated charcoal cells of the same dimension, with salt water electrolyte, produce 1V and 100mA. 
 
 Activated charcoal is usually used to filter aquarium water. Well burnt regular charcoal will be efficient too, once reduced in large grain powder, in order to contain the maximum air in it.
 
-To make an aluminum-air cell, cut a 10cm by 10cm aluminum foil piece. Lay soaked in salt water paper on it. Set a 1cm thick charcoal layer on the soaked paper. Put a bare copper wire across the carbon. Fold the edges of the aluminum foil, like you would close a burrito. The copper wire must not touch the aluminum. Press on the aluminum burrito to activate it. The tension appears between the copper wire (being the positive pole) and the aluminum foil (being the negative one).
+To make an aluminum-air cell, cut a 10cm by 10cm aluminum foil piece. Lay salt water soaked paper on it. Set a 1cm thick charcoal layer on the soaked paper. Put a bare copper wire across the carbon. Fold the edges of the aluminum foil, like you would close a burrito. The copper wire must not touch the aluminum. Press on the aluminum burrito to activate it. The volts appear between the copper wire (being the positive pole) and the aluminum foil (negative one).
 
 The drawback here is that aluminum is getting oxidized withing tens of minutes. Aluminum oxidation is sticking on the aluminum part, preventing the reaction from continuing. The aluminum anode can be mechanically brushed to remove oxidation, or bleach can be added to the salt water to reactivate the cell.
 
-25 of those cells would produce the same amount of energy than a standard USB 1.0 port delivers (5V, 500mA). If it runs for half an hour it would represent a typical 12% refill of Lithium-ion (3.7V, 2400mAh, ~10Wh).
+5 parallel series of 5 cells will produce the same amount of energy than a standard USB 1.0 port (5V, 500mA). If it runs for half an hour it would represent a typical 12% refill of Lithium-ion (3.7V, 2400mAh, ~10Wh).
+
+Building bigger cells (50cm x 10cm aluminum foil and 50cm copper collecting cathode) should allow to deliver 5V and 500mA with only one series of only 5 cells. Most smartphones will furthermore accept 1A charging power, which leads again to bigger cells. But the quickest you reload your phone battery, the more the battery will be damaged by the process. You can't prevent the battery from getting worn by the reload process, but slower reloads will worn the less.
 
 ## Tips & Tricks
 
