@@ -49,33 +49,27 @@ This method won't provide a lot of energy, so you'll need a lot of lemons (cut i
 
 A pile of 5 lemon cells will deliver 5V and around 1mA. The bigger the electrodes, the bigger the current. For instance : 5cm by 5cm electrodes in 10cl of 8% acidic vinegar with 5g of salt will deliver pikes of 40mA slowly reducing to 10mA (in 5 minutes). A one meter long gutter, filled of sea water, with a one meter long plumbing copper hose in it, separated by a paper or fabrics layer should produce 500mA.
 
-500mA, it's what a standard USB plug provides. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy (or one pile of five one-meter-gutter cells). Fortunately, your smartphone should be able to reload even with a smaller current; it will just take longer. Some are able to take advantage of first 1mA, but wont actually reload themselves if provided with less than their own idle power consumption (~20mA, screen off, airplane mode). Others will require at least the standard power.
+500mA, it's what a standard USB 1.0 plug provides. So a battery of 500 parallel piles of 5 lemon cells will produce the same energy (or one pile of five one-meter-gutter cells). Fortunately, your smartphone should be able to reload even with a smaller current; it will just take longer. Some are able to take advantage of first 1mA, but wont actually reload themselves if provided with less than their own idle power consumption (~20mA, screen off, airplane mode). Others will require at least the standard power. Also, most smartphones will accept bigger charging power (a common value is 1A) which leads again to bigger cells. But the quicker you reload your battery, the more the battery will be damaged by the process. You can't prevent the battery from getting worn by the reload process, but slower reloads will wear it down less.
 
-Substituting a magnesium electrode for the zinc one makes a cell of a larger voltage than lemon (1.6V), and could allow you to build piles of only 3 cells. Magnesium is the soft-metal component of tempest friction-based sparking lighters that are usually embeded in survival kits. Other metals can be used also such as lead or iron.
+Substituting a magnesium electrode for the zinc one makes a cell of a larger voltage than lemon (1.6V), and could allow you to build piles of only 3 cells. Magnesium is the soft-metal component of tempest friction-based sparking lighters that are usually embeded in survival kits. Other metals can be used also such as: lead, iron, aluminium&#8230;
 
-As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato.
-
-So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the lemon juice or salt water.
+As stated in [Wikipedia](https://en.wikipedia.org/wiki/Lemon_battery), the energy comes from the chemical change in the zinc when it dissolves into the acid. The energy does not come from the lemon or potato. So the cells will run as long as you have zinc and lemon juice. One should pay attention to avoid evaporation of the lemon juice or salt water.
 
 Volta himself would have interpolated a paper-towel soaked in salt water between metal discs (such as brown copper pennies, and silvery zinc ones) in order to have a pile of cells plugged in series, in a compact shape.
 
-Lemon powered clocks have been reported to run for several months with uncut lemons. Penny piles tend to dry quicker, reportedly 6h.
+Lemon powered clocks have been reported to run for several months with uncut lemons. Penny piles tend to dry quicker, reportedly 6h. As long as you have metal in your electrodes, refilling electrolyte will reactivate the cells.
 
 Furthermore, in a survival situation you can still eat the dried off fruits afterwards.
 
 ### Aluminium-air cells
 
-Industrially produced "pure" aluminium (such as soda cans or aluminium foils) allows the making of more powerful cells. For instance, a traditional Volta cell made of aluminium and copper, for 10cm by 10cm metal parts (electrodes), will produce 10mA. Aluminium and activated charcoal cells of the same dimension, with salt water electrolyte, produce 1V and 100mA. 
+Industrially produced "pure" aluminium (such as soda cans or aluminium foils) allows the making of more powerful cells, especially when paired with activated charcoal. A 10cm by 10cm cell made of these materials, with salt water electrolyte, produce 1V and 100mA. 
 
 Activated charcoal is usually used to filter aquarium water. Well burnt regular charcoal will be efficient too, once reduced to large grain powder, in order to contain the maximum air in it.
 
 To make an aluminium-air cell, cut a 10cm by 10cm aluminium foil piece. Lay salt water soaked paper on it. Set a 1cm thick charcoal layer on the soaked paper. Put a bare copper wire across the carbon. Fold the edges of the aluminium foil, like you would close a burrito. The copper wire must not touch the aluminium. Press on the aluminium burrito to activate it. The volts appear between the copper wire (being the positive pole) and the aluminium foil (negative one).
 
 The drawback here is that aluminium gets oxidized within tens of minutes. Aluminium oxidation sticks on the aluminium part, preventing the reaction from continuing. The aluminium anode can be mechanically brushed to remove oxidation or bleach can be added to the salt water to reactivate the cell.
-
-5 parallel series of 5 aluminium-air cells will produce the same amount of energy than a standard USB 1.0 port (5V, 500mA). If it runs for half an hour it would represent a typical 12% refill of Lithium-ion battery (3.7V, 2400mAh, ~10Wh).
-
-Building bigger cells (50cm x 10cm aluminum foil and 50cm copper collecting cathode) should allow to deliver 5V and 500mA with only one series of 5 cells. Most smartphones will furthermore accept 1A charging power which leads again to bigger cells. But the quicker you reload your phone battery, the more the battery will be damaged by the process. You can't prevent the battery from getting worn by the reload process, but slower reloads will wear it down less.
 
 ## Tips & Tricks
 
