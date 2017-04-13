@@ -4,7 +4,7 @@ A: It does not seem to be possible. As far as I was able to find out - apps have
 
 *Q: I found a typo - do I have to live with it?*
 
-A: No - you are very invited to fix the typo or contribute other enhancements to the content via [the wiki](https://github.com/ligi/SurvivalManual/wiki.)
+A: No - you are very invited to fix the typo or contribute other enhancements to the content via [the wiki](https://github.com/ligi/SurvivalManual/wiki).
 
 *Q: Can we please have translations?*
 
