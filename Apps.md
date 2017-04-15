@@ -42,13 +42,17 @@ Be sure to have the radio app redirecting the sound towards the phone integrated
 
 ### Morse signal
 
-Morse signal is easy to transmit, even without high technology around : the reflected light of a mirror (or a tilted smartphone screen), the sound of shocks on some big piece of metal ; can broadcasts Morse signal farther than your voice, and requiring less energy.
+Morse signal is easy to transmit, even without special gear. It can be transmitted on different ways e.g.:
 
-Everyone probably knows the famous S.O.S signal, which tells that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But passed this step, it could be useful to exchange a bit more about your situation. For instance, if you are trapped in a crack : what do you need first ? Is there people in your group that needs special assistance ?
+* the reflected light of a mirror (or a tilted smartphone screen)
+* the sound of shocks on some big piece of metal
+* a horn
+
+You can broadcast Morse signal farther than your voice and at the same time require less energy.
+
+Everyone probably knows the famous S.O.S signal, which tells that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But passed this step, it could be useful to exchange a bit more about your situation. For instance, if you are trapped in a crack: what do you need first? Is there people in your group that needs special assistance?
 
 This exchanges could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer let you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA playing the code using the flashlight, but this feature may need your help to be introduced in the app…)
-
-I personally use it already just to remember in which order are the dots and the dashes, being a bit dyslexic myself.
 
 ### Camera
 
