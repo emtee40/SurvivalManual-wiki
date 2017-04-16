@@ -151,9 +151,9 @@ The colubridae is the largest group of snakes worldwide. In this family there ar
 
 ### LIZARDS
 
-There is little to fear from lizards as long as you follow the same precautions as for avoiding snakebite. There are only two poisonous lizards: the Gila monster and the Mexican beaded lizard. The venom of both these lizards is neurotoxic. The two lizards are in the same family, and both are slow moving with a docile nature.
+There is little to fear from lizards as long as you follow the same precautions as for avoiding snakebite. There are only two venomous lizards: the Gila monster and the Mexican beaded lizard. The venom of both these lizards is neurotoxic. The two lizards are in the same family, and both are slow moving with a docile nature.
 
-The komodo dragon _(Varanus komodoensis),_ although not poisonous, can be dangerous due to its large size. These lizards can reach lengths of 3 meters (10 feet) and weigh over 115 kilograms (253 pounds). Do not try to capture this lizard.
+The komodo dragon _(Varanus komodoensis),_ although not venomous, can be dangerous due to its large size. These lizards can reach lengths of 3 meters (10 feet) and weigh over 115 kilograms (253 pounds). Do not try to capture this lizard.
 ** *
 
 ### VENOMOUS SNAKES OF THE AMERICAS
