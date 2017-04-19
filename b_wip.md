@@ -47,7 +47,7 @@ _Agave_ species
 **Other Uses:** Cut the huge flower stalk and collect the juice for drinking. Some species have very fibrous leaves. Pound the leaves and remove the fibers for weaving and making ropes. Most species have thick, sharp needles at the tips of the leaves. Use them for sewing or making hacks. The sap of some species contains a chemical that makes the sap suitable for use as a soap.
 ** *
 
-![](image1.jpg)
+![](image167.jpg)
 
 **Almond**
 _Prunus amygdalus_
