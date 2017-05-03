@@ -48,7 +48,7 @@ Morse signal is easy to transmit, even without special gear. It can be transmitt
 * the sound of shocks on some big piece of metal
 * a horn
 
-You can broadcast Morse signal farther than your voice and at the same time require less energy.
+You can broadcast Morse signal farther than your voice and at the same time it requires less energy.
 
 Everyone probably knows the famous S.O.S signal, which tells that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But passed this step, it could be useful to exchange a bit more about your situation. For instance, if you are trapped in a crack: what do you need first? Is there people in your group that needs special assistance?
 
