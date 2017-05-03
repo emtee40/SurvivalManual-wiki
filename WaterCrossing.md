@@ -33,7 +33,7 @@
 *  Remove your pants and shirt to lessen the water's pull on you. Keep your footgear on to protect your feet and ankles from rocks. It will also provide you with firmer footing.
 *  Tie your pants and other articles to the top of your rucksack or in a bundle, if you have no pack. This way, if you have to release your equipment, all your articles will be together. It is easier to find one large pack than to find several small items.
 *  Carry your pack well up on your shoulders and be sure you can easily remove it, if necessary. Not being able to get a pack off quickly enough can drag even the strongest swimmers under.
-*  Find a strong pole about 7.5 centimeters (3 inches) in diameter and 2.1 to 2.4 meters (7 to 8 feet) long to help you ford the stream. Grasp the pole and plant it firmly on your upstream side to break the current. Plant your feet firmly with each step, and move the pole forward a little downstream from its previous position, but still upstream from you. With your next step, place your foot below the pole. Keep the pole well slanted so that the force of the current keeps the pole against your shoulder ([Figure 17-1](#fig17-1)).
+*  Find a strong pole about 5 to 10 centimeters (3 inches) in diameter and 2 to 2.5 meters (7 to 8 feet) long to help you ford the stream. Grasp the pole and plant it firmly on your upstream side to break the current. Plant your feet firmly with each step, and move the pole forward a little downstream from its previous position, but still upstream from you. With your next step, place your foot below the pole. Keep the pole well slanted so that the force of the current keeps the pole against your shoulder ([Figure 17-1](#fig17-1)).
 *  Cross the stream so that you will cross the downstream current at a 45-degree angle.
 
 <a name="fig17-1"></a>![Figure 17-1\. One Man Crossing Swift Stream](fig17-01.png)
@@ -63,9 +63,9 @@
 17-14\. The brush raft, if properly constructed, will support about 115 kilograms (253 pounds). To construct it, use ponchos, fresh green brush, two small saplings, and rope or vine as follows ([Figure 17-4](#fig17-4)):
 *  Push the hood of each poncho to the inner side and tightly tie off the necks using the drawstrings.
 *  Attach the ropes or vines at the corner and side grommets of each poncho. Make sure they are long enough to cross to and tie with the others attached at the opposite corner or side.
-*  Spread one poncho on the ground with the inner side up. Pile fresh, green brush (no thick branches) on the poncho until the brush stack is about 45 centimeters (18 inches) high. Pull the drawstring up through the center of the brush stack.
+*  Spread one poncho on the ground with the inner side up. Pile fresh, green brush (no thick branches) on the poncho until the brush stack is about a half meter (18 inches) high. Pull the drawstring up through the center of the brush stack.
 *  Make an X-frame from two small saplings and place it on top of the brush stack. Tie the X-frame securely in place with the poncho drawstring.
-*  Pile another 45 centimeters (18 inches) of brush on top of the X-frame, then compress the brush slightly.
+*  Pile another half meter (18 inches) of brush on top of the X-frame, then compress the brush slightly.
 *  Pull the poncho sides up around the brush and, using the ropes or vines attached to the corner or side grommets, tie them diagonally from corner to corner and from side to side.
 *  Spread the second poncho, inner side up, next to the brush bundle.
 *  Roll the brush bundle onto the second poncho so that the tied side is down. Tie the second poncho around the brush bundle in the same manner as you tied the first poncho around the brush.
@@ -77,9 +77,9 @@
 
 **AUSTRALIAN PONCHO RAFT**
 
-17-15\. If you do not have time to gather brush for a brush raft, you can make an Australian poncho raft. This raft, although more waterproof than the poncho brush raft, will only float about 35 kilograms (77 pounds) of equipment. To construct this raft, use two ponchos, two rucksacks, two 1.2-meter (4-foot) poles or branches, and ropes, vines, bootlaces, or comparable material as follows ([Figure 17-5](#fig17-5)):
+17-15\. If you do not have time to gather brush for a brush raft, you can make an Australian poncho raft. This raft, although more waterproof than the poncho brush raft, will only float about 35 kilograms (77 pounds) of equipment. To construct this raft, use two ponchos, two rucksacks, two 1.5 meter (4-foot) poles or branches, and ropes, vines, bootlaces, or comparable material as follows ([Figure 17-5](#fig17-5)):
 *  Push the hood of each poncho to the inner side and tightly tie off the necks using the drawstrings.
-*  Spread one poncho on the ground with the inner side up. Place and center the two 1.2-meter (4-foot) poles on the poncho about 45 centimeters (18 inches) apart.
+*  Spread one poncho on the ground with the inner side up. Place and center the two 1.5 meter (4-foot) poles on the poncho about a half meter (18 inches) apart.
 *  Place your rucksacks, packs, or other equipment between the poles. Also, place other items that you want to keep dry between the poles. Snap the poncho sides together.
 *  Use your buddy's help to complete the raft. Hold the snapped portion of the poncho in the air and roll it tightly down to the equipment. Make sure you roll the full width of the poncho.
 *  Twist the ends of the roll to form pigtails in opposite directions. Fold the pigtails over the bundle and tie them securely in place using ropes, bootlaces, or vines.
