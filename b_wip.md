@@ -48,6 +48,7 @@ _Agave_ species
 ** *
 
 ![](image167.jpg)
+![Almond](C:\Users\matthewkimlinger\Desktop\survival_almond.jpg)
 
 **Almond**
 _Prunus amygdalus_
