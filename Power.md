@@ -15,6 +15,16 @@ However, if it is available you can use it effortlessly. While you are harnessin
 
 In contrast to the sun, generating power with your Bicycle is more effort but it can also be a lot of fun and serve as good exercise. And it might be easily available as most bikes already have a "generator" installed. Usually this "generator" / dynamo is there to power your lights on the bike. However, it can also charge a phone. You only need a converter to 5V/USB - you can build one yourself or buy one. Be careful here though - there are some really bad converters out there. I would recommend building one yourself.
 
+### Improvised Generator
+
+You can use almost any DC motor to generate electricity. All you must do is turn the motor my hand or by other means and electricity will be generated at the (+) and (-) leads of the motor. (The electricity produced will be in the form of AC, so a diode/rectifier is required to make use of the generated electricity to charge a battery).
+
+The faster the motor turns, the higher the voltage produced will be. The current produced will depends on the internals of the motor. Generally the bigger and more difficult the motor is the turn, the more current it will produce.
+
+Motors that do not work for this are most fan motors, and motors that do not have magnets in them. If the motor is magnetic without being plugged in, chances are it will work.
+
+Microwave oven turntable motors (the one that turns the glass plate on the bottom) can easily produce 300-400 volts when turned by hand.
+
 ### Wind
 
 Wind-power is also great. It can be available day and night - but you need wind. Also, generators are often bulkier and hard to transport. However, it can be a great option if you are not trying to move to anywhere. It is not particularly  difficult to build a wind-generator. Basically, you just need to get the wind to turn something - use junk and your [MultiTool](MultiTool) to get the wind to rotate a shaft and attach a motor. A motor is basically the same as a generator - you just need to build some electronics to harvest the power.
@@ -77,9 +87,13 @@ Get a good power-bank. Often you do not want to use the energy directly while st
 
 Power banks are just batteries with standard plug interfaces (e.g. USB, 5V). Beware that owning a battery is like owning a pet animal: you're responsible for it. If you fail to comply with proper maintenance, it will have a shortened life. Classic cellphone power-banks are made of Lithium batteries, which are better stored at 50% capacity (being full or empty is damaging it), and recharge every 6 months. It won't work properly (or at all) after years of oblivion deep in a drawer.
 
-### Stay DC
+### AC/DC Conversion
 
-If possible stay DC (Direct Current) - if you need to make a DC/AC (Alternating Current) AC/DC round trip (e.g. with a power inverter) you lose a lot of energy from having to convert between AC/DC, mainly in the form of waste heat that is not easily reclaimable. Also, DC is most of the time less dangerous to handle - so it helps you to survive the process of surviving ;-)
+Converting from AC to DC (known as rectification) is easy and can be done with a single component. Almost every device that plugs into a mains socket will contain a bridge rectifier (AC->DC converter). This will be marked with these four symbols: '~ ~ + -' (any order, always four connectors).
+
+Apply AC to the '~ ~' connectors and you will get DC form the '+ -' connectors.
+
+Converting from DC to AC (known as inversion) is always much less efficient, and requires a complex device (power inverter) that cannot be improvised.
 
 ### Save Power
 
