@@ -20,7 +20,7 @@ Sea ice that is gray in color or opaque is salty. Do not use it without desaltin
     * **Remarks:** Do not drink seawater without desalting!
   * **Rain**
     * **Means of obtaining and/or making potable:** Catch rain in tarps or in other water-holding containers.
-    * **Remarks:** If tarp or water-holding material is coated with salt, wash it in the sea before using (very littler slat will remain on it).
+    * **Remarks:** If tarp or water-holding material is coated with salt, wash it in the sea before using (very littler salt will remain on it).
   * **Sea ice**
     * **Remarks:** See previous remarks for frigid areas.
 * **Beach**
