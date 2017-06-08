@@ -162,8 +162,7 @@ The situation you are in will determine which of the following fires to use.
 
 **TEPEE**
 
-To make a tepee fire ([Figure 7-5](#fig7-5)), arrange the tinder and a few sticks of kindling in the shape of a tepee or cone. Light the center. As the tepee burns, the outside logs will fall inward, feeding the fire. T
-his type of fire burns well even with wet wood.
+To make a tepee fire ([Figure 7-5](#fig7-5)), arrange the tinder and a few sticks of kindling in the shape of a tepee or cone. Light the center. As the tepee burns, the outside logs will fall inward, feeding the fire. This type of fire burns well even with wet wood.
 
 **LEAN-TO**
 
