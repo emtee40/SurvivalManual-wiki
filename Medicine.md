@@ -416,7 +416,7 @@ You should also remember four very important guidelines during the treatment of 
 
 **NOTE:** If medical treatment is over 1 hour away, make an incision (no longer than 6 millimeters [1/4 inch] and no deeper than 3 millimeters [1/8 inch]) over each puncture, cutting just deep enough to enlarge the fang opening, but only through the first or second layer of skin. Place a suction cup over the bite so that you have a good vacuum seal. Suction the bite site 3 to 4 times. Suction for a **MINIMUM of 30 MINUTES.** Use mouth suction **only** as a last resort and **only** if you do not have open sores in your mouth. Spit the envenomed blood out and rinse your mouth with water. This method will draw out 25 to 30 percent of the venom.
 
-* Put your hands on your face or rub your eyes, as venom may be on your hands. Venom may cause blindness.
+* Don't put your hands on your face or rub your eyes, as venom may be on your hands. Venom may cause blindness.
 * Break open the large blisters that form around the bite site.
 
 After caring for the victim as described above, take the following actions to minimize local effects:
