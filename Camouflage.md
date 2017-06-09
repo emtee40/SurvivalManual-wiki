@@ -18,7 +18,14 @@
 
 21-6\. [Figure 21-1](#fig21-1) gives a general idea of how to apply camouflage for various areas and climates. Use appropriate colors for your surroundings. The blotches or slashes will help to simulate texture.
 
-<a name="fig21-1"></a>![Figure 21-1\. Camouflage Methods for Specific Areas](fig21-01.png)
+|Area|Method|
+|---|---|
+|Temperature deciduousforest|Blotches|
+|Coniferous forest|Broad slash|
+|Jungle|Broad slash|
+|Desert|Slash|
+|Arctic|Blotches|
+|Grass or open area|Slash|
 
 **Figure 21-1\. Camouflage Methods for Specific Areas**
 
