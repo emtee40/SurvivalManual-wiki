@@ -90,6 +90,7 @@
 **ANTITRACKING**
 
 21-26\. Along with camouflage of your body, you need to camouflage your movement from visual trackers. Antitracking techniques should be used; countertracking techniques are of little use to the evader, as they would pinpoint his location or route. During movement this can be accomplished by using the following methods:
+
 * Restore vegetation: Use a stick to lift the vegetation you crushed down during movement through it. This can slow you down and it is hard to tell if you are being effective.
 * Brush out tracks: Use a tree branch to brush or pat out tracks in open ground. This is effective in concealing the number in the party, but leaves obvious signs in itself.
 * Use hard or stony ground: Using this type of terrain minimizes the signs you leave slowing the visual tracker.
@@ -107,6 +108,7 @@
 **ANTIDOG TRACKING**
 
 21-27\. When trying to elude dog trackers always remember you are trying to beat the handler not the dog! Whatever you do, it should be done to either tire the handler or decrease the handler's confidence in his dog. Some techniques to use against dog tracker teams are as follows:
+
 * Open ground: Although this is a danger area, if the wind is high it will blow the scent to vegetated areas; thus the team will not be directly on your tracks and it will slow the team's progression.
 * Thick terrain: Using a zigzag pattern of movement will slow and tire the handler and possibly decrease the handler's confidence.
 * Hard or stony ground: In high winds or high temperatures these areas will dissipate your scent quicker, increasing the chance of the dog losing the track.
