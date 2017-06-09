@@ -20,7 +20,7 @@
 
 |Area|Method|
 |---|---|
-|Temperature deciduousforest|Blotches|
+|Temperature deciduous forest|Blotches|
 |Coniferous forest|Broad slash|
 |Jungle|Broad slash|
 |Desert|Slash|
