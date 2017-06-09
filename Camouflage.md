@@ -104,6 +104,6 @@
 *  Thick terrain: Using a zigzag pattern of movement will slow and tire the handler and possibly decrease the handler's confidence.
 *  Hard or stony ground: In high winds or high temperatures these areas will dissipate your scent quicker, increasing the chance of the dog losing the track.
 *  Crowded places: If the dog is not scent-specific trained, and you move through an area where many other people have recently been he may lose the track.
-*  Freshly plowed or fertilized fieldsThe dog may lose the track in these areas due to the overpowering scent of fresh dirt and human or animal manure used as fertilizer (do not rely too much on this theory).
+*  Freshly plowed or fertilized fields: The dog may lose the track in these areas due to the overpowering scent of fresh dirt and human or animal manure used as fertilizer (do not rely too much on this theory).
 *  Speed: Try to maintain a constant speed. Try not to run. Running increases the scent, due to more soil and vegetation disturbance and more body odor from sweat or adrenaline.
 *  Transportation: Using a vehicle will greatly increase your time and distance but you could still be tracked; however, it would be at a much slower pace.
