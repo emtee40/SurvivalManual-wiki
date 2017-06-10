@@ -86,7 +86,14 @@
 
 8-23\. All species of birds are edible, although the flavor will vary considerably. The only poisonous bird is the Pitohui, native only to New Guinea. You may skin fish-eating birds to improve their taste. As with any wild animal, you must understand birds' common habits to have a realistic chance of capturing them. You can take pigeons, as well as some other species, from their roost at night by hand. During the nesting season, some species will not leave the nest even when approached. Knowing where and when the birds nest makes catching them easier ([Figure 8-4](#fig8-4)). Birds tend to have regular flyways going from the roost to a feeding area, to water, and so forth. Careful observation should reveal where these flyways are and indicate good areas for catching birds in nets stretched across the flyways ([Figure 8-5](#fig8-5)). Roosting sites and waterholes are some of the most promising areas for trapping or snaring.
 
-<a name="fig8-4"></a>![Figure 8-4\. Birds' Nesting Places](fig08-04.png)
+|Types of Birds|Frequent Nesting Places|Nesting Periods|
+|--------------|-----------------------|---------------|
+|Inland birds|Tree, woods or fields|Spring and early summer in temperate and arctic regions; year-round in the tropics|
+|Cranes and herons|Mangrove swamps or high trees near water|Spring and early summer|
+|Some species of owls|High trees|Late December through March|
+|Ducks, geese, and swans|Tundra areas near ponds, rivers or lakes|Spring and early summer in arctic regions|
+|Some sea birds|Sandbars or low sand islands|Spring and early summer in temperate and arctic regions|
+|Gulls, auks, murres and cormorants|Steep rocky coasts|Spring and early summer in temperate and arctic regions|
 
 **Figure 8-4\. Birds' Nesting Places**
 
