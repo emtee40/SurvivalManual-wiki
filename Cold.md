@@ -138,7 +138,12 @@ The following pointers will aid you in keeping warm and preventing frostbite whe
 
 A loss of feeling in your hands and feet is a sign of frostbite. If you have lost feeling for only a short time, the frostbite is probably light. Otherwise, assume the frostbite is deep. To rewarm a light frostbite, use your hands or mittens to warm your face and ears. Place your hands under your armpits. Place your feet next to your buddy's stomach. A deep frostbite injury, if thawed and refrozen, will cause more damage than a nonmedically trained person can handle. [Figure 15-2](#fig15-2), lists some "dos and don'ts" regarding frostbite.
 
-<a name="fig15-2"></a>![Figure 15-2\. Frostbite Dos and Don'ts](fig15-02.png)
+|Do|Don't|
+|--|-----|
+|Periodically check for frostbite.|Rub injury with shnow.|
+|Rewarm light frostbite.|Drink alcoholic beverages.|
+|Keep injuried areas from refreezing.|Smoke.|
+| |Try to thaw out a deep frostbite injury if you are away from definitive medical care.|
 
 **Figure 15-2\. Frostbite Dos and Don'ts**
 
