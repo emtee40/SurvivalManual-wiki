@@ -140,7 +140,7 @@ A loss of feeling in your hands and feet is a sign of frostbite. If you have los
 
 |Do|Don't|
 |--|-----|
-|Periodically check for frostbite.|Rub injury with shnow.|
+|Periodically check for frostbite.|Rub injury with snow.|
 |Rewarm light frostbite.|Drink alcoholic beverages.|
 |Keep injuried areas from refreezing.|Smoke.|
 | |Try to thaw out a deep frostbite injury if you are away from definitive medical care.|
