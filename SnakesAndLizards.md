@@ -42,7 +42,10 @@ Follow these simple rules to reduce the chance of accidental snakebite:
 
 Snakes dangerous to man usually fall into two groups: proteroglypha and solenoglypha. Their fangs and their venom best describe these two groups:
 
-![Figure E-1\. Snake Group Characteristics](fige-1.png)
+|Group|Fang Type|Venom Type|
+|-----|---------|----------|
+|Proteroglypha|Fixed|Usually dominant neurotoxic|
+|Solenoglypha|Folded|Usually dominant hemotoxic|
 
 **FANGS**
 
