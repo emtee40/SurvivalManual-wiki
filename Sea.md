@@ -120,7 +120,14 @@ If you are in a cold climate:
 
 The greatest threat you face when submerged in cold water is death due to hypothermia. The average ocean temperature around the world is only 11 degrees C (51 degrees F). However, do not be fooled by warm water—hypothermia can even occur in 27-degree C (80-degree F) water. When you are immersed in cold water, hypothermia occurs rapidly due to the decreased insulating quality of wet clothing and the result of water displacing the layer of still air that normally surrounds the body. The rate of heat exchange in water is about 25 times greater than it is in air of the same temperature. [Figure 16-7](#fig16-7) lists life expectancy times for immersion in water.
 
-<a name="fig16-7"></a>![Figure 16-7\. Life Expectancy Times for Immersion in Water](fig16-07.png)
+|Water Temperature|Time|
+|-----------------|----|
+|21.0-15.5 °C (70-60 °F)|12 hours|
+|15.5-10.0 °C (60-50 °F)|6 hours|
+|10.0-4.5 °C (50-40 °F)|1 hour|
+|4.5 °C (40 °F) and below|Less than 1 hour|
+
+**Note:** Wearing an antiexposure suit may increase these times up to a maximum of 24 hours.
 
 **Figure 16-7\. Life Expectancy Times for Immersion in Water**
 
