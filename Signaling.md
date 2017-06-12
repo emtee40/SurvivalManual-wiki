@@ -135,6 +135,7 @@
 **Radio Equipment**
 
 19-34\. The AN/PRC-90 survival radio is a part of the Army aviator's survival vest. The AN/PRC-112 will eventually replace the AN/PRC-90\. Both radios can transmit either tone or voice. Any other type of Army radio can do the same. The ranges of the different radios vary depending on the altitude of the receiving aircraft, terrain, vegetation density, weather, battery strength, type of radio, and interference. To obtain maximum performance from radios, use the following procedures:
+
 *  Try to transmit only in clear, unobstructed terrain. Since radios are line-of-sight communications devices, any terrain between the radio and the receiver will block the signal.
 *  Keep the antenna at right angles to the rescuing aircraft. There is little or no signal strength emanating from the tip of the antenna.
 *  If the radio has tone capability, place it upright on a flat, elevated surface so that you can perform other survival tasks.
@@ -194,6 +195,7 @@
 ### AIRCRAFT VECTORING PROCEDURES
 
 19-43\. To establish initial contact, use beacon for 15 seconds, use voice for 15 seconds (Mayday, Mayday, Mayday—this is call sign), then listen for 15 seconds. When you contact a friendly aircraft with a radio, guide the pilot to your location. Use the following general format to guide the pilot:
+
 *  Call sign (if any).
 *  Name.
 *  Location (clock direction and distance from aircraft to your location).
