@@ -39,6 +39,7 @@
 13-9\. Surviving and evading the enemy in an arid area depends on what you know and how prepared you are for the environmental conditions you will face. Determine what equipment you will need, the tactics you will use, and the environment's impact on them and you.
 
 13-10\. In a desert area there are seven environmental factors that you must consider—
+
 *  Low rainfall.
 *  Intense sunlight and heat.
 *  Wide temperature range.
@@ -74,6 +75,7 @@
 13-17\. Vegetation is sparse in arid areas. You will therefore have trouble finding shelter and camouflaging your movements. During daylight hours, large areas of terrain are visible and easily controlled by a small opposing force.
 
 13-18\. If traveling in hostile territory, follow the principles of desert camouflage:
+
 *  Hide or seek shelter in dry washes (wadis) with thicker growths of vegetation and cover from oblique observation.
 *  Use the shadows cast from brush, rocks, or outcroppings. The temperature in shaded areas will be 11 to 17 degrees C (52 to 63 degrees F) cooler than the air temperature.
 *  Cover objects that will reflect the light from the sun.
@@ -113,6 +115,7 @@
 13-31\. Your body's normal temperature is 36.9 degrees C (98.6 degrees F). Your body gets rid of excess heat (cools off) by sweating. The warmer your body becomes—whether caused by work, exercise, or air temperature—the more you sweat. The more you sweat, the more moisture you lose. Sweating is the principal cause of water loss. If you stop sweating during periods of high air temperature and heavy work or exercise, you will quickly develop heat stroke. This is an emergency that requires immediate medical attention.
 
 13-32\. [Figure 13-2](#fig13-2) shows daily water requirements for various levels of work. Understanding how the air temperature and your physical activity affect your water requirements allows you to take measures to get the most from your water supply. These measures are—
+
 *  Find shade! Get out of the sun!
 *  Place something between you and the hot ground.
 *  Limit your movements!
@@ -124,6 +127,7 @@
 **Figure 13-2\. Daily Water Requirements for Three Levels of Activity**
 
 13-33\. Thirst is not a reliable guide for your need for water. A person who uses thirst as a guide will drink only two-thirds of his daily water requirement. To prevent this "voluntary" dehydration, use the following guide:
+
 *  At temperatures below 38 degrees C (100 degrees F), drink 0.5 liter of water every hour.
 *  At temperatures above 38 degrees C (100 degrees F), drink 1 liter of water every hour.
 
@@ -148,6 +152,7 @@
 ### PRECAUTIONS
 
 13-39\. In a desert survival and evasion situation, it is unlikely that you will have a medic or medical supplies with you to treat heat injuries. Therefore, take extra care to avoid heat injuries. Rest during the day. Work during the cool evenings and nights. Use the buddy system to watch for heat injury. Observe the following guidelines:
+
 *  Make sure you tell someone where you are going and when you will return.
 *  Watch for signs of heat injury. If someone complains of tiredness or wanders away from the group, he may be a heat casualty.
 *  Drink water at least once an hour.
