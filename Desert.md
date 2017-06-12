@@ -3,6 +3,7 @@
 ### TERRAIN
 
 13-1\. Most arid areas have several types of terrain. The five basic desert terrain types are—
+
 *  Mountainous (high altitude).
 *  Rocky plateau.
 *  Sand dunes.
