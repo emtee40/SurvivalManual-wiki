@@ -179,7 +179,7 @@ It is very important to relieve yourself when needed. Do not delay because of th
 
 **INSECT BITES**
 
-Insect bites can become infected through constant scratching. Flies can carry various disease-producing germs. To prevent insect bites, use insect repellent and netting and wear proper clothing. See [Chapter Animals]Animals) for information on insect bites and [Medicine](Medicine) for treatment.
+Insect bites can become infected through constant scratching. Flies can carry various disease-producing germs. To prevent insect bites, use insect repellent and netting and wear proper clothing. See [Chapter Animals](Animals) for information on insect bites and [Medicine](Medicine) for treatment.
 
 ### SHELTERS
 
