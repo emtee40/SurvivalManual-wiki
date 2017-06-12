@@ -361,7 +361,7 @@ There are some plants growing in arctic and subarctic regions that are poisonous
 
 ### TRAVEL
 
-You will face many obstacles if your survival situation is in an arctic or subarctic region. Your location and the time of the year will determine the types of obstacles and the inherent dangers. You should.
+You will face many obstacles if your survival situation is in an arctic or subarctic region. Your location and the time of the year will determine the types of obstacles and the inherent dangers. You should:
 
 * Avoid traveling during a blizzard.
 * Take care when crossing thin ice. Distribute your weight by lying flat and crawling.
