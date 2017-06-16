@@ -55,7 +55,7 @@ To make a stone knife, you will need a sharp-edged piece of stone, a chipping to
 
 **Figure 12-3\. Making a Stone Knife**
 
-tart making the knife by roughing out the desired shape on your sharp piece of stone, using the chipping tool. Try to make the knife fairly thin. Then, press the flaking tool against the edges. This action will cause flakes to come off the opposite side of the edge, leaving a razor-sharp edge. Use the flaking tool along the entire length of the edge you need to sharpen. Eventually, you will have a very, sharp cutting edge that you can use as a knife.
+Start making the knife by roughing out the desired shape on your sharp piece of stone, using the chipping tool. Try to make the knife fairly thin. Then, press the flaking tool against the edges. This action will cause flakes to come off the opposite side of the edge, leaving a razor-sharp edge. Use the flaking tool along the entire length of the edge you need to sharpen. Eventually, you will have a very, sharp cutting edge that you can use as a knife.
 
 Lash the blade to some type of hilt ([Figure 12-3](#fig12-3)).
 
