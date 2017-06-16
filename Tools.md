@@ -79,7 +79,7 @@ Metal is the best material to make field-expedient edged weapons. Metal, when pr
 
 **Other Materials**
 
-You can use other materials to produce edged weapons. Glass is a good alternative to an edged weapon or tool, if no other material is available. Obtain a suitable piece in the same manner as described for bone. Glass has a natural edge but is less durable for heavy work. You can also sharpen plasticif it is thick enough or hard enoughinto a durable point for puncturing.
+You can use other materials to produce edged weapons. Glass is a good alternative to an edged weapon or tool, if no other material is available. Obtain a suitable piece in the same manner as described for bone. Glass has a natural edge but is less durable for heavy work. You can also sharpen plastic - if it is thick enough or hard enough - into a durable point for puncturing.
 
 **SPEAR BLADES**
 
