@@ -91,7 +91,7 @@ To make spears, use the same procedures to make the blade that you used to make 
 
 **ARROW POINTS**
 
-To make an arrow point, use the same procedures for making a stone knife blade. Chert, flint, and shell-type stones are best for arrow points. You can fashion bone like stoneby flaking. You can make an efficient arrow point using broken glass.
+To make an arrow point, use the same procedures for making a stone knife blade. Chert, flint, and shell-type stones are best for arrow points. You can fashion bone like stone - by flaking. You can make an efficient arrow point using broken glass.
 
 ### OTHER EXPEDIENT WEAPONS
 
