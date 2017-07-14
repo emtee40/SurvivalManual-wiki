@@ -8,7 +8,7 @@ Also, if you are able to illustrate: I am currently adding new sections and am u
 
 There will be updates to content and the app - please [join the BetaTesters](https://play.google.com/apps/testing/org.ligi.survivalmanual) to give feedback and get the newest stuff first.
 
-This app is free and libre software under GPLv3. You can find the source code [on Github](https://github.com/ligi/SurvivalManual) - Pull requests are very welcome! However, before doing big changes please contact me so that there is no work done in vain.
+This app is free and libre software under GPLv3. You can find the source code [on GitHub](https://github.com/ligi/SurvivalManual) - Pull requests are very welcome! However, before doing big changes please contact me so that there is no work done in vain.
 
 If you have a question please check out [the FAQs](FAQ) - perhaps your question is already answered there.
 
