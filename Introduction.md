@@ -1,5 +1,4 @@
-> This section will give you some information regarding this application. But **if you are in a survival situation right now** - please **skip this** blurb and jump directly to the section that contains the information for your immediate problem/need.
-
+> Esta sección te dará alguna información a través de esta aplicación. Pero si estás en una situación de supervivencia justo ahora** -por favor **omite este** preámbulo y ve directamente a la sección que contiene la información para tu inmediata necesidad o problema.
 This app is intended to guide you in rough times but it can also be used to have fun outdoors and to learn things that are useful even outside a survival situation. The fun parts are also useful in training important skills for potential survival situations. Reading is only one factor - practice and understanding are also needed to increase your chances of survival.
 
 The app is based on the FM 3-05.70 Field Manual - but now [it is a wiki](https://github.com/ligi/SurvivalManual/wiki) (think of it as the Wikipedia of survival) so it is easy to improve the content. That said when you see something that can be improved, or if you find that something is missing, step up and improve the content!
