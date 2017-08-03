@@ -1,6 +1,6 @@
 > A tool is most useful when it is in good shape. This is especially true of your knife. You must always keep it sharp and ready to use. A knife is your most valuable tool in a survival situation. Imagine being in a survival situation without any weapons, tools, or equipment except your knife. It could happen! You might even be without a knife. You would probably feel helpless, but with the proper knowledge and skills, you can easily improvise needed items.
 > 
-> In survival situations, you may have to fashion any number and type of field-expedient tools and equipment to survive. The need for an item must outweigh the work involved in making it. You should ask, "Is it necessary or just nice to have?" Remember that undue haste makes waste. Examples of tools and equipment that could make your life much easier are ropes ([Appendix](RopesAndKnots)), rucksacks, clothes, and nets.
+> In survival situations, you may have to fashion any number and type of field-expedient tools and equipment to survive. The need for an item must outweigh the work involved in making it. You should ask, "Is it necessary or just nice to have?" Remember that undue haste makes waste. Examples of tools and equipment that could make your life much easier are ropes ([Appendix](RopesAndKnots)), backpacks, clothes, and nets.
 
 ### STAFFS
 
@@ -143,11 +143,11 @@ You can shred and braid plant fibers from the inner bark of some trees to make c
 
 You can use rawhide for larger lashing jobs. Make rawhide from the skins of medium or large game. After skinning the animal, remove any excess fat and any pieces of meat from the skin. Dry the skin completely. You do not need to stretch it as long as there are no folds to trap moisture. You do not have to remove the hair from the skin. Cut the skin while it is dry. Make cuts about 6 millimeters (1/4 inch) wide. Start from the center of the hide and make one continuous circular cut, working clockwise to the hide's outer edge. Soak the rawhide for 2 to 4 hours or until it is soft. Use it wet, stretching it as much as possible while applying it. It will be strong and durable when it dries.
 
-### RUCKSACK CONSTRUCTION
+### BACKPACK CONSTRUCTION
 
-The materials for constructing a rucksack or pack are almost limitless. You can use wood, bamboo, rope, plant fiber, clothing, animal skins, canvas, and many other materials to make a pack.
+The materials for constructing a backpack are almost limitless. You can use wood, bamboo, rope, plant fiber, clothing, animal skins, canvas, and many other materials to make a pack.
 
-There are several construction techniques for rucksacks. Many are very elaborate, but those that are simple and easy are often the most readily made in a survival situation.
+There are several construction techniques for backpacks. Many are very elaborate, but those that are simple and easy are often the most readily made in a survival situation.
 
 **HORSESHOE PACK**
 
@@ -171,7 +171,7 @@ You can use many materials for clothing and insulation. Both man-made materials,
 
 **PARACHUTE ASSEMBLY**
 
-Consider the entire parachute assembly as a resource. Use every piece of material and hardware, to include the canopy, suspension lines, connector snaps, and parachute harness. Before disassembling the parachute, consider all of your survival requirements and plan to use different portions of the parachute accordingly. For example, consider shelter requirements, need for a rucksack, and any additional clothing or insulation needs.
+Consider the entire parachute assembly as a resource. Use every piece of material and hardware, to include the canopy, suspension lines, connector snaps, and parachute harness. Before disassembling the parachute, consider all of your survival requirements and plan to use different portions of the parachute accordingly. For example, consider shelter requirements, need for a backpack, and any additional clothing or insulation needs.
 
 **ANIMAL SKINS**
 
