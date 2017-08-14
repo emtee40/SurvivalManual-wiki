@@ -1,8 +1,8 @@
-> Foremost among the many problems that can compromise your survival ability are medical problems resulting from unplanned events, such as a forced landing or crash, extreme climates, ground combat, evasion, and illnesses contracted in captivity.
+> Foremost among the many problems that can compromise your survival ability are medical problems resulting from unplanned events, such as a accidental injuries or extreme climates.
 > 
-> Many evaders and survivors have reported difficulty in treating injuries and illness due to the lack of training and medical supplies. For some, this led to capture or surrender.
+> Many evaders and survivors have reported difficulty in treating injuries and illness due to the lack of training and medical supplies.
 > 
-> Survivors have related feelings of apathy and helplessness because they could not treat themselves in this environment. The ability to treat yourself increases your morale and aids in your survival and eventual return to friendly forces.
+> Survivors have related feelings of apathy and helplessness because they could not treat themselves in their environment. The ability to treat yourself increases your morale and aids in your survival and eventual return to friendly forces.
 > 
 > One man with a fair amount of basic medical knowledge can make a difference in the lives of many. Without qualified medical personnel available, it is you who must know what to do to stay alive.
 
@@ -64,7 +64,7 @@ Make sure the water you drink water does not contain harmful contaminants. Ideal
 
 Although you can live several weeks without food, you need an adequate amount to stay healthy. Without food your mental and physical capabilities will deteriorate rapidly and you will become weak. Food provides energy and replenishes the substances that your body burns. Food provides vitamins, minerals, salts, and other elements essential to good health. Possibly more important, it helps morale.
 
-The three basic sources of food are plants, animals (including fish), and issued rations. In varying degrees, both provide the calories, carbohydrates, fats, and proteins needed for normal daily body functions. You should use rations to augment plant and animal foods, which will extend and help maintain a balanced diet.
+The three basic sources of food are plants, animals (including fish) and fungus. In varying degrees, both provide the calories, carbohydrates, fats, and proteins needed for normal daily body functions. You should use rations to augment plant and animal foods, which will extend and help maintain a balanced diet.
 
 Calories are a measure of heat and potential energy. The average person needs 2,000 calories per day to function at a minimum level. An adequate amount of carbohydrates, fats, and proteins without an adequate caloric intake will lead to starvation and cannibalism of the body's own tissue for energy.
 
@@ -72,14 +72,14 @@ Calories are a measure of heat and potential energy. The average person needs 2,
 
 Plant foods provide carbohydrates—the main source of energy. Many plants provide enough protein to keep the body at normal efficiency. Although plants may not provide a balanced diet, they will sustain you even in the arctic, where meat's heat-producing qualities are normally essential. Many plant foods such as nuts and seeds will give you enough protein and oils for normal efficiency. Roots, green vegetables, and plant foods containing natural sugar will provide calories and carbohydrates that give the body natural energy.
 
-The food value of plants becomes more and more important if you are eluding the enemy or if you are in an area where wildlife is scarce. For instance—
+The food value of plants becomes more and more important if you are eluding the enemy or if you are in an area where wildlife is scarce. For instance:
 
 * You can dry plants by wind, air, sun, or fire. This retards spoilage so that you can store or carry the plant food with you to use when needed.
-* You can obtain plants more easily and more quietly than meat. This is extremely important when the enemy is near.
+* You can often obtain plants more easily than meat.
 
 **Animals**
 
-Meat is more nourishing than plant food. In fact, it may even be more readily available in some places. However, to get meat, you need to know the habits of and how to capture the various wildlife.
+Meat is more nourishing than plant food. It may even be more readily available in some places. However, to get meat, you need to know the habits of and how to capture the various wildlife.
 
 To satisfy your immediate food needs, first seek the more abundant and more easily obtained wildlife, such as insects, crustaceans, mollusks, fish, and reptiles. These can satisfy your immediate hunger while you are preparing traps and snares for larger game.
 
