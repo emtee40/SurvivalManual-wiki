@@ -30,13 +30,13 @@ As you can see, stress can be constructive or destructive. It can encourage or d
 
 Any event can lead to stress and, as everyone has experienced, events don't always come one at a time. Often, stressful events occur simultaneously. These events are not stress, but they produce it and are called "stressors". Stressors are the obvious cause while stress is the response. Once the body recognizes the presence of a stressor, it then begins to act to protect itself.
 
-In response to a stressor, the body prepares either to "fight or flee". This preparation involves an internal SOS sent throughout the body. As the body responds to this SOS, the following actions take place:
+In response to a stressor, the body prepares either to "fight or flight". This preparation involves an internal 'SOS signal' sent throughout the body. As the body responds to this 'SOS signal', the following actions take place:
 
 * The body releases stored fuels (sugar and fats) to provide quick energy.
 * Breathing rate increases to supply more oxygen to the blood.
 * Muscle tension increases to prepare for action.
 * Blood clotting mechanisms are activated to reduce bleeding from cuts.
-* Senses become more acute (hearing becomes more sensitive, pupils dilate, smell becomes sharper) so that you are more aware of your surroundings.
+* Senses become more acute (hearing becomes more sensitive, pupils dilate, sense of smell becomes sharper) so that you are more aware of your surroundings.
 * Heart rate and blood pressure rise to provide more blood to the muscles.
 
 This protective posture lets you cope with potential dangers. However, you cannot maintain this level of alertness indefinitely.
@@ -49,7 +49,7 @@ Injury, illness, and death are real possibilities that you have to face. Perhaps
 
 ### Uncertainty and Lack of Control
 
-Some people have trouble operating in settings where everything is not clear-cut. The only guarantee in a survival situation is that nothing is guaranteed. It can be extremely stressful operating on limited information in a setting where you have limited control of your surroundings. This uncertainty and lack of control also add to the stress of being ill or injured.
+Some people have trouble operating in settings where everything is not clear-cut. The only guarantee in a survival situation is that nothing is guaranteed. It can be extremely stressful operating on limited information in a setting where you also have limited control of your surroundings. This uncertainty and lack of control also add to the stress of being ill or injured.
 
 ### Environment
 
@@ -65,7 +65,7 @@ Forcing yourself to continue surviving is not easy as you grow more tired. It is
 
 ### Isolation
 
-There are some advantages to facing adversity with others. Being in contact with others provides a greater sense of security and a feeling someone is available to help if problems occur. A significant stressor in survival situations is that often you have to rely solely on your own resources.
+There are some advantages to facing adversity with others. Being in contact with others provides a greater sense of security and a feeling that someone is available to help if problems occur. A significant stressor in survival situations is that often you have to rely solely on your own resources.
 
 The survival stressors mentioned in this section are by no means the only ones you may face. Remember, what is stressful to one person may not be stressful to another. Your experiences, training, personal outlook on life, physical and mental conditioning, and level of self-confidence contribute to what you will find stressful in a survival environment. The object is not to avoid stress, but rather to manage the stressors of survival and make them work for you.
 
@@ -83,7 +83,7 @@ Fear is our emotional response to dangerous circumstances that we believe have t
 
 ### ANXIETY
 
-Associated with fear is anxiety. Because it is natural for you to be afraid it is also natural for you to experience anxiety. Anxiety can be an uneasy, apprehensive feeling you get when faced with dangerous situations (physical, mental, and emotional). When used in a healthy way, anxiety can urge you to act to end (or at least master) the dangers that threaten your existence. If you were never anxious there would be little motivation to make changes in your life. In a survival setting you can reduce your anxiety by performing those tasks that will ensure you come through the ordeal alive. As you reduce your anxiety you also bring under control the source of that anxiety: your fears. In this form anxiety is good; however, anxiety can also have a devastating impact. Anxiety can overwhelm you to the point where you become easily confused and have difficulty thinking. Once this happens, it will become increasingly difficult for you to make good judgements and sound decisions. To survive you must learn techniques to calm your anxieties and keep them in the range where they help, not hurt.
+Associated with fear is anxiety. Because it is natural for you to be afraid it is also natural for you to experience anxiety. Anxiety can be an uneasy, apprehensive feeling you get when faced with dangerous situations (physical, mental, and emotional). When used in a healthy way, anxiety can urge you to act to end (or at least master) the dangers that threaten your existence. If you were never anxious there would be little motivation to make changes in your life. In a survival setting, you can reduce your anxiety by performing those tasks that will ensure you come through the ordeal alive. As you reduce your anxiety you also bring under control the source of that anxiety: your fears. In this form anxiety is good; however, anxiety can also have a devastating impact. Anxiety can overwhelm you to the point where you become easily confused and have difficulty thinking. Once this happens, it will become increasingly difficult for you to make good judgements and sound decisions. To survive you must learn techniques to calm your anxieties and keep them in the range where they help, not hurt.
 
 ### ANGER AND FRUSTRATION
 
