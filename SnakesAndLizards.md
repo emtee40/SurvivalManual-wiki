@@ -426,7 +426,7 @@ _Vipera ammodytes_
 
 **Length:** Average 45 centimeters (18 inches), maximum 90 centimeters (35 inches).
 
-**Distribution:** Italy, Yugoslavia, northern Albania, and Romania ([Figure E-19](#fige-19)).
+**Distribution:** Italy, Balkan States, northern Albania, and Romania ([Figure E-19](#fige-19)).
 
 ![](image302.jpg)
 
@@ -472,7 +472,7 @@ _Vipera ursinii_
 
 **Length:** Average 45 centimeters (18 inches), maximum 90 centimeters (35 inches).
 
-**Distribution:** Most of Europe, particularly Greece, Germany, Yugoslavia, France, Italy, Hungary, Romania, Bulgaria, and Albania; northern Morocco ([Figure E-21](#fige-21)).
+**Distribution:** Most of Europe, particularly Greece, Germany, Balkan States, France, Italy, Hungary, Romania, Bulgaria, and Albania; northern Morocco ([Figure E-21](#fige-21)).
 
 <a name="fige-21"></a>![Figure E-21\. Ursini's Viper Habitat](image308.jpg)
 
