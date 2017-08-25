@@ -8,7 +8,7 @@
 
 Insects are part of the arthropod family (creatures with exoskeleton and articulated legs) so do the arachnids and the centipedes. Insects have six legs, arachnids eight and centipedes and millipedes many more. All these small creatures become pests when they bite, sting, or irritate you.
 
-Although their venom can be quite painful, bee, wasp, and hornet stings rarely kill a person who is not allergic to that particular toxin. Even the most dangerous spiders rarely kill, and the effects of tick-borne diseases are very slow-acting. However, in all cases, avoidance is the best defense. In environments known to have spiders and scorpions, check your footgear and clothing every morning. Also check your bedding and shelter. Use care when turning over rocks and logs. See [Appendix](InsectsAndArachnids) for examples of dangerous insects and arachnids.
+Although their venom can be quite painful, bee, wasp, and hornet stings rarely kill a person who is not allergic to that particular toxin. Even the most dangerous spiders rarely kill, and the effects of tick-borne diseases are very slow-acting. However, in all cases, avoidance is the best defense. In environments known to have spiders and scorpions, check your footgear and clothing every morning. Also check your bedding and shelter. Use care when turning over rocks and logs. See [Appendix](DangerousArthropods) for examples of dangerous insects and arachnids.
 
 **SCORPIONS**
 
