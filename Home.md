@@ -18,7 +18,7 @@
 
 ### [Firecraft](Fire)
 
-### [Food Procurement](08)
+### [Food Procurement](Food)
 
 ### [Survival Use of Plants](09)
 
