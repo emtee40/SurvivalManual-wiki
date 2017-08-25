@@ -20,9 +20,9 @@
 
 ### [Food Procurement](Food)
 
-### [Survival Use of Plants](09)
+### [Survival Use of Plants](Plants)
 
-### [Poisonous Plants](10)
+### [Poisonous Plants](PoisonousPlantsList)
 
 ### [Dangerous Animals](Animals)
 
