@@ -59,7 +59,7 @@ Appendix
 
 ### [Poisonous Plants](PoisonousPlantsList)
 
-### [Dangerous Insects and other Arthropods](InsectsAndArachnids)
+### [Dangerous Insects and other Arthropods](DangerousArthropods)
 
 ### [Venomous Snakes and Mollusks](SnakesAndLizards)
 
