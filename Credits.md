@@ -26,7 +26,7 @@ First I want to thank some names that did not directly contribute to this app - 
 # Proof readers and contributors
 
 * [Michael Peng](https://github.com/michaelpeng) has started to correct some of the wording mistakes and bad grammar - thanks a lot!
-* [Simon Descarpentries](https://github.com/Siltaar) contributed to Apps, MultiTools and Power pages. Proof read insect and other arthropods parts. And reported various typos and mistakes.
+* [Simon Descarpentries](https://github.com/Siltaar) contributed to Apps, MultiTools and Power pages, proof read dangerous arthropods part, and reported various typos and mistakes.
 
 # Libraries / Code
 
