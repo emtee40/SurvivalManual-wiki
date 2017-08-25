@@ -16,7 +16,7 @@
 
 ### [Water Procurement](Water)
 
-### [Firecraft](07)
+### [Firecraft](Fire)
 
 ### [Food Procurement](08)
 
