@@ -22,8 +22,6 @@
 
 ### [Survival Use of Plants](Plants)
 
-### [Poisonous Plants](PoisonousPlantsList)
-
 ### [Dangerous Animals](Animals)
 
 ### [Tools and Equipment](Tools)
@@ -55,10 +53,6 @@ Appendix
 
 ### [MultiTool](MultiTool)
 
-### [Edible and Medicinal Plants](b_wip)
-
-### [Poisonous Plants](PoisonousPlantsList)
-
 ### [Dangerous Insects and other Arthropods](DangerousArthropods)
 
 ### [Venomous Snakes and Mollusks](SnakesAndLizards)
@@ -66,8 +60,6 @@ Appendix
 ### [Dangerous Fish and Mollusks](FishAndMollusks)
 
 ### [Ropes and Knots](RopesAndKnots)
-
-### [Clouds Foretellers of Weather](Clouds)
 
 ### [FAQ](FAQ)
 
