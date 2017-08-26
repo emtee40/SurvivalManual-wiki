@@ -174,9 +174,9 @@ You can open an airway and maintain it by using the following steps:
 
 * _Step 1._ You should check to see if the victim has a partial or complete airway obstruction. If he can cough or speak, allow him to clear the obstruction naturally. Stand by, reassure the victim, and be ready to clear his airway and perform mouth-to-mouth resuscitation should he become unconscious. If his airway is completely obstructed, administer abdominal thrusts until the obstruction is cleared.
 * _Step 2._ Using a finger, quickly sweep the victim's mouth clear of any foreign objects, broken teeth, dentures, and sand.
-* _Step 3._ Using the jaw thrust method, grasp the angles of the victim's lower jaw and lift with both hands, one on each side, moving the jaw forward. For stability, rest your elbows on the surface on which the victim is lying. If his lips are closed, gently open the lower lip with your thumb ([Figure 4-1](#fig4-1)).
+* _Step 3._ Using the jaw thrust method, grasp the angles of the victim's lower jaw and lift with both hands, one on each side, moving the jaw forward. For stability, rest your elbows on the surface on which the victim is lying. If his lips are closed, gently open the lower lip with your thumb. 
 
-<a name="fig4-1"></a>![Figure 4-1\. Jaw Thrust Method](fig04-01.png)
+![](med_open_airway.vd)
 
 **Figure 4-1\. Jaw Thrust Method**
 
