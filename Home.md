@@ -55,8 +55,6 @@ Appendix
 
 ### [Dangerous Insects and other Arthropods](DangerousArthropods)
 
-### [Venomous Snakes and Mollusks](SnakesAndLizards)
-
 ### [Dangerous Fish and Mollusks](FishAndMollusks)
 
 ### [Ropes and Knots](RopesAndKnots)

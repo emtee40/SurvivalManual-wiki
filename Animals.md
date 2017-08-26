@@ -59,8 +59,6 @@ There are no infallible rules for expedient identification of venomous snakes in
 * Be calm when you encounter serpents. Snakes cannot hear and you can occasionally surprise them when they are sleeping or sunning. Normally, they will flee if given the opportunity.
 * Use extreme care if you must kill snakes for food or safety. Although it is not common, warm, sleeping human bodies occasionally attract snakes.
 
-The [Appendix](SnakesAndLizards) provides detailed descriptions of the snakes listed in [Figure 11-1](#fig11-1).
-
 <center><a name="fig11-1"></a>
 
 <table cellspacing="0" cellpadding="7" border="1" width="426">
