@@ -20,6 +20,7 @@ First I want to thank some names that did not directly contribute to this app - 
 
 * Our awesome material icon is from Michael Cook ([cookicons](https://cookicons.co))
 * The icons for the chapters are [material icons from Google](https://github.com/google/material-design-icons)
+* Vector images from [George Butter](https://github.com/ButsAndCats)
 * Most graphics embedded in the texts are from the field manual - but I already got contacted by illustrators - we might see more soon here ;-)
 
 
