@@ -357,7 +357,7 @@ The sea cucumber is another edible sea animal. Inside its body are five long whi
 
 Although tundras support a variety of plants during the warm months, all are small when compared to similar plants in warmer climates. For instance, the arctic willow and birch are shrubs rather than trees.
 
-There are some plants growing in arctic and subarctic regions that are poisonous if eaten ([Appendix](PoisonousPlantsList)). Use the plants that you know are edible. When in doubt, follow the Universal Edibility Test in [Chapter Plants, Figure 9-5](Plants).
+There are some plants growing in arctic and subarctic regions that are poisonous if eaten. Use the plants that you know are edible. When in doubt, follow the Universal Edibility Test in [Chapter Plants, Figure 9-5](Plants).
 
 ### TRAVEL
 
@@ -385,7 +385,7 @@ It is almost impossible to travel in deep snow without snowshoes or skis. Travel
 
 **CLOUDS**
 
-15-99\. Clouds come in a variety of shapes and patterns. A general knowledge of clouds and the atmospheric conditions they indicate can help you predict the weather. [Appendix](Clouds) explains cloud formations in more detail.
+15-99\. Clouds come in a variety of shapes and patterns. A general knowledge of clouds and the atmospheric conditions they indicate can help you predict the weather.
 
 **SMOKE**
 
