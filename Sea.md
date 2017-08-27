@@ -544,7 +544,7 @@ If caught in a large wave's undertow, push off the bottom or swim to the surface
 
 **FOOD**
 
-Obtaining food along a seashore should not present a problem. There are many types of seaweed and other plants you can easily find and eat. See [Chapter Plants](Plants) and [Appendix](MedicinalPlants) for a discussion of these plants. There is also a great variety of animal life that can supply your need for food in this type of survival situation.
+Obtaining food along a seashore should not present a problem. There are many types of seaweed and other plants you can easily find and eat. See [Chapter Plants](Plants) for a discussion of these plants. There is also a great variety of animal life that can supply your need for food in this type of survival situation.
 
 **Mollusks**
 
