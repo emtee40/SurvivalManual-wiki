@@ -596,4 +596,4 @@ Our modern wonder drugs, laboratories, and equipment have obscured more primitiv
 
 > **WARNING**
 > 
-> Use herbal medicines with extreme care, and only when you lack or have limited medical supplies. Some herbal medicines are dangerous and may cause further damage or even death. [This chapter](MedicinalPlants) explains some basic herbal medicine treatments.
+> Use herbal medicines with extreme care, and only when you lack or have limited medical supplies. Some herbal medicines are dangerous and may cause further damage or even death.
