@@ -34,7 +34,7 @@
 
 ### [Sea](Sea)
 
-### [Boreal Forests](BorealForests)
+### [Boreal Forest](BorealForest)
 
 ### [Expedient Water Crossing](WaterCrossing)
 
