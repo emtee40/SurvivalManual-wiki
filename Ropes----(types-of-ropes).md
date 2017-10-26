@@ -1,3 +1,5 @@
+Hey Dylan - can you please contact me before continuing edits? Unfortunately I find no contact information on your github profile.
+
 # will come and finish this weekend 
 
 
