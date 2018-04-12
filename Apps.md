@@ -18,55 +18,54 @@ Directions can be useful - learn how to read and navigate using a compass. It ma
 
 ### Angles
 
-The majority of phones are fitted with a tilt sensor, which the [Angulo](https://f-droid.org/repository/browse/?fdfilter=angulo&fdid=eu.domob.angulo) app can take advantage to help you measuring angles which you'll be able to convert in distances using a calculator app.
+The majority of phones are fitted with a tilt sensor, which the [Angulo](https://f-droid.org/repository/browse/?fdfilter=angulo&fdid=eu.domob.angulo) app can take advantage of to help measure angles which you'll be able to convert into distances using a calculator app.
 
 ### Calculators
 
-Every Android phone is delivered with a calculator app. This calculator app have several modes, and can be used to make complicated scientific computations. One can win time getting used to it.
+Every Android phone is delivered with a calculator app. This calculator app has several modes, and can be used to make complicated scientific computations. One can benefit from getting used to it.
 
 ### Games
 
 Have a game app to fight boredom and keep the mind stimulated - I recommend [gobandroid](https://github.com/ligi/gobandroid) to play the ancient game of Go, which has simple rules but is still immensely deep.
 
-[Sokoban](https://f-droid.org/repository/browse/?fdfilter=sokoban&fdid=com.mobilepearls.sokoban) is an ancient Japanese puzzle game in which you push jewels in to target zones, through different maps (mazes). But don't corner yourself! The game provides 354 levels, ordered by difficulty level and may provide challenges for years.
+[Sokoban](https://f-droid.org/repository/browse/?fdfilter=sokoban&fdid=com.mobilepearls.sokoban) is an ancient Japanese puzzle game in which you push jewels into target zones through different maps (mazes). But don't corner yourself! The game provides 354 levels, ordered by difficulty level and may provide challenges for years.
 
 ### Radio
 
-A lot of Android phones are delivered with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive those informations if you find a headphone to plug in, because it needs the cable to use it as an antenna to receive the signal. You can also plug every other Jack 3.5mm component you'll find like:
-* a microphone,
-* computer loudspeakers,
-* a Jack extension cord,
-* or even just a broken version of those…
+A lot of Android phones are delivered with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive this information if you find headphones to plug in, since it needs the cable to use as an antenna to receive the signal. You can also use any other 3.5 mm jack component such as:
+* a microphone
+* computer loudspeakers
+* a jack extension cord
+* even just a broken version of the above
 
-Be sure to have the radio app redirecting the sound towards the phone integrated loudspeaker if you plug something that can't actually produce sound, as the default behavior is to redirect the sound to the plugged headphones.
+Be sure to have the radio app redirect the sound towards the phone integrated loudspeaker if you plug something that can't actually produce sound, as the default behavior is to direct the sound to the plugged headphones.
 
 ### Morse signal
 
-Morse signal is easy to transmit, even without special gear. It can be transmitted on different ways e.g.:
-
+Morse signal is easy to transmit, even without special gear. It can be transmitted in different ways e.g.:
 * the reflected light of a mirror (or a tilted smartphone screen)
-* the sound of shocks on some big piece of metal
+* the sound of strikes on a large piece of metal
 * a horn
 
 You can broadcast Morse signal farther than your voice and at the same time it requires less energy.
 
-Everyone probably knows the famous S.O.S signal, which tells that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But passed this step, it could be useful to exchange a bit more about your situation. For instance, if you are trapped in a crack: what do you need first? Is there people in your group that needs special assistance?
+Everyone probably knows the famous SOS distress signal, which indicates that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But past this step, Morse code could be useful for exchanging more information about your situation. For instance, if you are trapped in a crack: what do you need first? Are there people in your group that need special assistance?
 
-This exchanges could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer let you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA playing the code using the flashlight, but this feature may need your help to be introduced in the app…)
+This exchange could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer lets you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature may need your help to be introduced in the app…)
 
 ### Camera
 
-Your phone's camera can help you taking quick notes about written signs, allowing to capture big chunks of text in an instant and with no alteration then, which is something the human mind is not brilliant at, especially in stressful conditions. [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to this task, processing the pictures to improve the readability of text.
+Your phone's camera can help you take quick notes about written signs, allowing you to capture big chunks of text in an instant and with no alteration then, which is something the human mind is not brilliant at, especially in stressful conditions. [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to this task, processing the pictures to improve the readability of text.
 
-You can also take pictures of the place you are, to help finding your way back to it later. Although your memory is faster, if you take the time to look behind you from time to time.
+You can also take pictures of the place you are, to help find your way back to it later. Although, your memory is faster, if you take the time to look behind you from time to time.
 
-You can also take pictures of your findings far from the camp, to help motivate others about it.
+You can also take pictures of your findings far from the camp, to help inform others about them.
 
-You may have ruin your holidays, but try your best about their pictures.
+You may ruin your holidays, but try your best about the pictures.
 
 ### Barcode scanner
 
-In a more day-to-day approach, one can stumble uppon a fragment of barcode, without the human readable cipher part and can use its smartphone to get the information back.
+In a more day-to-day approach, one can stumble upon a fragment of barcode without the human readable cipher part and can use a smartphone to get the information back.
 
 Barcodes are also used in their two dimensional form (like QR codes) to easily import cryptographic public keys or URL into smartphones using the camera.
 
@@ -74,7 +73,7 @@ Barcodes are also used in their two dimensional form (like QR codes) to easily i
 
 ### Recorder
 
-In survival situations, as stated in the [Psycology](Psychology) chapter, you will get yourself in a stable situation more easily than expected as long as you keep the mind force to fight for. To keep going, many people in survival situation write diaries to get away loneliness and keep track of their life and its unexpected events. If you have setup a power source, your smartphone can be a reliable Dictaphone in case you miss paper to write on. Still, you should remove your codes if you want others to access it later.
+In survival situations, as stated in the [Psycology](Psychology) chapter, you will get yourself in a stable situation more easily than expected as long as you keep the willpower to fight on. To keep going, many people in survival situation write diaries to keep away loneliness and keep track of their life and its unexpected events. If you have set up a power source, your smartphone can be a reliable Dictaphone in case you lack paper to write on. Still, you should remove your phone's lock codes if you want others to access it later.
 
 ### Pass app
 
@@ -104,9 +103,9 @@ Install PDF or eBook readers - and download some books or manuals.
 
 [CoolReader](https://f-droid.org/repository/browse/?fdfilter=coolreader&fdid=org.coolreader) is a libre app available from F-Droid.org to read ePub books (and also : FB2, TXT, RTF, TCR, HTML and CHM formats).
 
-Every phone is equipped with enough storage memory to hold thousands of text books, and many are already came up to the public domain. The [Gutemberg Project](https://www.gutenberg.org/) has already gathered 53 000 of them for instance, and there's a top 100 selection to help you making your choice.
+Every phone is equipped with enough storage memory to hold thousands of text books, and many are already in the public domain. The [Gutenberg Project](https://www.gutenberg.org/) has already gathered over 56,000 of them for instance, and there's a top 100 selection to help you make your choice.
 
-### Offline dictionary and translation dictionnaries
+### Offline dictionary and translation dictionaries
 
 Install an offline working dictionary and install the languages that you are most likely to face.
 
@@ -114,6 +113,6 @@ Install an offline working dictionary and install the languages that you are mos
 
 ### Offline encyclopedia
 
-Smartphones (which are just pocket sized computers) allow to bring with you not just one book, but all your library. So why not bringing a full encyclopedia, just in case…
+Smartphones (which are just pocket sized computers) allow you to bring with you not just one book, but all your library. So why not bringing a full encyclopedia, just in case…
 
 It's what [Aard](https://f-droid.org/repository/browse/?fdfilter=Aard&fdid=aarddict.android) allows you to do. It's a libre app available on F-Droid.org. You'll have to separately download the Wikipedia copies you want among the available updated copies here available in many languages : http://aarddict.org/1/index.html
