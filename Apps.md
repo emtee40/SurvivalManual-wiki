@@ -2,7 +2,7 @@
 
 ### Maps / Navigation
 
-Have a solution that can work offline like [OsmAnd~](http://osmand.net). Download the data for your area and other areas that might be needed. Also try it out offline - e.g. in flight mode (it will take a little longer to acquire GPS signal, between 30 seconds and some minutes). 
+Have a solution that can work offline like [OsmAnd](http://osmand.net). Download the data for your area and other areas that might be needed. Also try it out offline - e.g. in flight mode (it will take a little longer to acquire GPS signal, between 30 seconds and some minutes). 
 
 ### Appstore / F-Droid
 
@@ -10,7 +10,7 @@ Google-Play might not work - in [F-Droid.org](http://fdroid.org) you can point t
 
 ### Light 
 
-A phone's flashlight may work instead of a true torch, but a real emergency LED-torch is often functionally superior.
+A phone's flashlight can bring light into the dark when you do not have a real flashlight on you. There are a lot of flashlight apps e.g. on f-droid.
 
 ### Compass
 
@@ -18,7 +18,7 @@ Directions can be useful - learn how to read and navigate using a compass. It ma
 
 ### Angles
 
-The majority of phones are fitted with a tilt sensor, which the [Angulo](https://f-droid.org/repository/browse/?fdfilter=angulo&fdid=eu.domob.angulo) app can take advantage of to help measure angles which you'll be able to convert into distances using a calculator app.
+The majority of phones are fitted with a tilt sensor, which the [Angulo](https://www.domob.eu/projects/angulo.php) app can take advantage of to help measure angles which you'll be able to convert into distances using a calculator app.
 
 ### Calculators
 
@@ -26,9 +26,11 @@ Every Android phone is delivered with a calculator app. This calculator app has 
 
 ### Games
 
-Have a game app to fight boredom and keep the mind stimulated - I recommend [gobandroid](https://github.com/ligi/gobandroid) to play the ancient game of Go, which has simple rules but is still immensely deep.
+Have a game app to fight boredom and keep the mind stimulated.
 
-[Sokoban](https://f-droid.org/repository/browse/?fdfilter=sokoban&fdid=com.mobilepearls.sokoban) is an ancient Japanese puzzle game in which you push jewels into target zones through different maps (mazes). But don't corner yourself! The game provides 354 levels, ordered by difficulty level and may provide challenges for years.
+I recommend [gobandroid](https://github.com/ligi/gobandroid) which was also started by the author of this App to play the ancient game of Go, which has simple rules but is still immensely deep.
+
+[Sokoban](https://github.com/mobilepearls/com.mobilepearls.sokoban) is an ancient Japanese puzzle game in which you push jewels into target zones through different maps (mazes). But don't corner yourself! The game provides 354 levels, ordered by difficulty level and may provide challenges for years.
 
 ### Radio
 
@@ -51,7 +53,7 @@ You can broadcast Morse signal farther than your voice and at the same time it r
 
 Everyone probably knows the famous SOS distress signal, which indicates that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But past this step, Morse code could be useful for exchanging more information about your situation. For instance, if you are trapped in a crack: what do you need first? Are there people in your group that need special assistance?
 
-This exchange could be achieved using a Morse signal generator app, like the libre [AKA](https://f-droid.org/repository/browse/?fdfilter=AKA&fdid=com.templaro.opsiz.aka) app available in F-Droid.org. The Andromatic-keyer lets you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature may need your help to be introduced in the app…)
+This exchange could be achieved using a Morse signal generator app, like the libre [AKA](https://github.com/sussman/androidomatic-keyer). The Andromatic-keyer lets you type your message in English (it's standard for international Morse code but you are not required to avoid mistakes, broken English works fine with not-English people) and the app will play the corresponding sound using the loudspeaker of the phone. (I actually submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature may need your help to be introduced in the app…)
 
 ### Camera
 
@@ -69,7 +71,7 @@ In a more day-to-day approach, one can stumble upon a fragment of barcode withou
 
 Barcodes are also used in their two dimensional form (like QR codes) to easily import cryptographic public keys or URL into smartphones using the camera.
 
-[Barcode scanner](https://f-droid.org/repository/browse/?fdfilter=barcode+scanner&fdid=com.google.zxing.client.android) is a libre software available on F-Droid.org to do so.
+[Barcode scanner](https://github.com/zxing/zxing) is a libre software available on F-Droid.org to do so.
 
 ### Recorder
 
@@ -99,9 +101,7 @@ Have a Music app that is not a streaming solution and some uplifting music (I su
 
 Install PDF or eBook readers - and download some books or manuals.
 
-[Document Viewer](https://f-droid.org/repository/browse/?fdfilter=document+viewer&fdid=org.sufficientlysecure.viewer) is a libre app available from F-Droid.org to read PDF (and also OpenXPS format, ComicBook format CBZ, FictionBook format FB…).
-
-[CoolReader](https://f-droid.org/repository/browse/?fdfilter=coolreader&fdid=org.coolreader) is a libre app available from F-Droid.org to read ePub books (and also : FB2, TXT, RTF, TCR, HTML and CHM formats).
+[Document Viewer](https://github.com/PrivacyApps/document-viewer) is a libre app available from F-Droid.org to read PDF (and also OpenXPS format, ComicBook format CBZ, FictionBook format FB…).
 
 Every phone is equipped with enough storage memory to hold thousands of text books, and many are already in the public domain. The [Gutenberg Project](https://www.gutenberg.org/) has already gathered over 56,000 of them for instance, and there's a top 100 selection to help you make your choice.
 
@@ -109,10 +109,10 @@ Every phone is equipped with enough storage memory to hold thousands of text boo
 
 Install an offline working dictionary and install the languages that you are most likely to face.
 
-[QuickDic](https://f-droid.org/repository/browse/?fdfilter=quickdic&fdid=de.reimardoeffinger.quickdic) is a libre offline translation dictionary available on F-Droid.org fitted with a wide variety of languages.
+[QuickDic](https://github.com/rdoeffinger/Dictionary) is a libre offline translation dictionary available on F-Droid.org fitted with a wide variety of languages.
 
 ### Offline encyclopedia
 
 Smartphones (which are just pocket sized computers) allow you to carry not just one book, but all your library. So why not bringing a full encyclopedia, just in case…
 
-It's what [Aard](https://f-droid.org/repository/browse/?fdfilter=Aard&fdid=aarddict.android) allows you to do. It's a libre app available on F-Droid.org. You'll have to separately download the Wikipedia copies you want among the available updated copies here available in many languages : http://aarddict.org/1/index.html
+It's what [Aard](https://aarddict.org) allows you to do. It's a libre app available on F-Droid.org. You'll have to separately download the Wikipedia copies you want. They are available in many languages.
