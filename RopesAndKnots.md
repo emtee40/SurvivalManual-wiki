@@ -89,10 +89,6 @@ The basic knots and methods of tying them that you should know for your survival
 
 **Figure G-13\. Figure 8 and Retraceable Figure 8**
 
-
-**Figure G-**\. Figure (**)Carrick Bend  **
-![Carrick Bend ](https://thumbs.dreamstime.com/z/double-carrick-bend-knot-used-joining-two-lines-particularly-appropriate-very-heavy-rope-39665534.jpg)
-
 ### VARIOUS CONSTRUCTION LASHINGS
 
 There are numerous items that require lashings for construction. [Figures G-14 through G-16](#figg-14) show types of lashings that you can use when constructing tripods, shelters, and racks. Refer to [Tools](Tools) if using field-expedient rope.
