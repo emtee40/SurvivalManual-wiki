@@ -65,6 +65,10 @@ You can also take pictures of your findings far from the camp, to help inform ot
 
 You may ruin your holidays, but try your best about the pictures.
 
+### Cryptocurrency 
+
+Fiat money/banks might not work anymore - so better have a [cryptocurrency wallet like WallETH](http://walleth.org). Also transfer a little bit of value on it and learn how to use it. To be really safe get a hardware wallet like the [TREZOR](https://shop.trezor.io?a=walleth.org). You can also use the TREZOR (including the new model T) together with WallETH on your phone. If you fear the volatility of crypto-currencies you might have a look into stable coins like [DAI](https://dai.makerdao.com).
+
 ### Barcode scanner
 
 In a more day-to-day approach, one can stumble upon a fragment of barcode without the human readable cipher part and can use a smartphone to get the information back.
@@ -92,10 +96,6 @@ Have a Music app that is not a streaming solution and some uplifting music (I su
 [VLC](https://www.videolan.org/vlc/download-android.html) is a libre media player supporting a wide variety of music and video formats (.MP3, .FLAC, .OGG, .MKV, MP4…).
 
 [Dogmazic](http://www.dogmazic.net/?lang=en) (website, mobile app) provides archives of freely downloadable music.
-
-### Cryptocurrency 
-
- A cryptocurrency wallet - fiat money/banks might not work anymore - have a [crypto wallet  like the Bitcoin-Wallet](https://github.com/bitcoin-wallet/bitcoin-wallet). Also transfer a little bit of value on it and learn how to use it.
 
 ### Readers
 
