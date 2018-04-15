@@ -113,6 +113,6 @@ Install an offline working dictionary and install the languages that you are mos
 
 ### Offline encyclopedia
 
-Smartphones (which are just pocket sized computers) allow you to bring with you not just one book, but all your library. So why not bringing a full encyclopedia, just in case…
+Smartphones (which are just pocket sized computers) allow you to carry not just one book, but all your library. So why not bringing a full encyclopedia, just in case…
 
 It's what [Aard](https://f-droid.org/repository/browse/?fdfilter=Aard&fdid=aarddict.android) allows you to do. It's a libre app available on F-Droid.org. You'll have to separately download the Wikipedia copies you want among the available updated copies here available in many languages : http://aarddict.org/1/index.html
