@@ -59,11 +59,7 @@ This exchange could be achieved using a Morse signal generator app, like the lib
 
 Your phone's camera can help you take quick notes about written signs, allowing you to capture big chunks of text in an instant and with no alteration then, which is something the human mind is not brilliant at, especially in stressful conditions. [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to this task, processing the pictures to improve the readability of text.
 
-You can also take pictures of the place you are, to help find your way back to it later. Although, your memory is faster, if you take the time to look behind you from time to time.
-
-You can also take pictures of your findings far from the camp, to help inform others about them.
-
-You may ruin your holidays, but try your best about the pictures.
+You can also take pictures of the place you are, to help find your way back to it later. Or you can take pictures of your findings far from a site, to help inform others about them.
 
 ### Cryptocurrency 
 
