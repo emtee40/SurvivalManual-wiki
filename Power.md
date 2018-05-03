@@ -124,7 +124,7 @@ There are 6 types of batteries you're likely to encounter in the wild:
     Coin cells are your typical watch batteries, hearing-aid batteries, small laser pointer batteries.
     The most common use of Lithium 3V cylindrical cells are in home-security systems.
     They have moderate total power, and can provide a moderate current.
-    The decay very slowly, so unused batteries, even 10 years old, are still good.
+    They decay very slowly, so unused batteries, even 10 years old, are still good.
     The contents of these batteries are not toxic, but pose a fire risk when exposed to air.
     Do not recharge these batteries, they will burn.
     
