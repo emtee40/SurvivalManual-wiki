@@ -52,7 +52,7 @@ Do not occupy a hide site for more than 24 hours. In most situations, hide durin
 
 After moving and hiding for several days, usually three or four, you or the movement team will have to move into a hole-up area. This is an area where you can rest, recuperate, and get and prepare food. Choose an area near a water source. You then have a place to get water, to place fishing devices, and to trap game. Since waterways are a line of communication, locate your hide site well away from the water.
 
-hole-up area should offer plenty of cover and concealment for movement in and around the area. Always maintain security while in the hole-up area. Always man the hole-up area. Actions in the hole-up area are the same as in the hide site, except that you can move away from the hole-up area to get and prepare food. While in the hole-up area, you can:
+A hole-up area should offer plenty of cover and concealment for movement in and around the area. Always maintain security while in the hole-up area. Always man the hole-up area. Actions in the hole-up area are the same as in the hide site, except that you can move away from the hole-up area to get and prepare food. While in the hole-up area, you can:
  
 * Select and occupy the next hide site (remember you are still in a dangerous situation; this is not a friendly area).
 * Reconnoiter the area for resources and potential concealed movement routes to the alternate hide site.
