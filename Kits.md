@@ -47,7 +47,7 @@ Each category should contain items that allow you to sustain your basic needs. F
 
 ## Shelter
 
-* 550
+* emergency shelter tube tent with paracord 550 
 * parachute cord
 * large knife
 * machete or hatchet
