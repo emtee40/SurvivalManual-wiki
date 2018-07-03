@@ -48,9 +48,6 @@
 
 ### [Survival in Man-Made Hazards](ManMadeHazards)
 
-Appendix
-========
-
 ### [MultiTool](MultiTool)
 
 ### [Dangerous Insects and other Arthropods](DangerousArthropods)
@@ -59,8 +56,9 @@ Appendix
 
 ### [Ropes and Knots](RopesAndKnots)
 
+Appendix
+========
+
 ### [FAQ](FAQ)
 
 ### [Credits](Credits)
-
-
