@@ -126,7 +126,7 @@ There are 6 types of batteries you're likely to encounter in the wild:
     They have moderate total power, and can provide a moderate current.
     They decay very slowly, so unused batteries, even 10 years old, are still good.
     The contents of these batteries are not toxic, but pose a fire risk when exposed to air.
-    Do not recharge these batteries, they will burn.
+    Do not recharge these batteries, they will burn. They do not leak at the end of their life. Most sources say they last 15 years. There are phone chargers which accept disposable batteries so these would work well with those charges for emergencies.
     
 
 #### Nickle-based [rechargeable] (1.2V AA AAA are most common)
