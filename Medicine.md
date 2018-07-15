@@ -1,6 +1,6 @@
 > Foremost among the many problems that can compromise your survival ability are medical problems resulting from unplanned events, such as a accidental injuries or extreme climates.
 > 
-> Many evaders and survivors have reported difficulty in treating injuries and illness due to the lack of training and medical supplies.
+> Many evaders and survivors have reported difficulty in treating injuries and illness due to lack of training and medical supplies.
 > 
 > Survivors have related feelings of apathy and helplessness because they could not treat themselves in their environment. The ability to treat yourself increases your morale and aids in your survival and eventual return to friendly forces.
 > 
@@ -12,9 +12,9 @@ To survive, you need water and food. You must also have and apply high personal 
 
 **WATER**
 
-Your body loses water through normal body processes (sweating, urinating, and defecating). During average daily exertion when the atmospheric temperature is 20 degrees Celsius (C) (68 degrees Fahrenheit [F]), the average adult loses and therefore requires 2 to 3 liters of water daily. Other factors, such as heat exposure, cold exposure, intense activity, high altitude, burns, or illness, can cause your body to lose more water. You must replace this water.
+Your body loses water through normal body processes (sweating, urinating, and defecating). During average daily exertion when the atmospheric temperature is 20 degrees Celsius (C) (68 degrees Fahrenheit [F]), the average adult loses 2 to 3 liters of water. Other factors can cause your body to lose more water, such as heat exposure, cold exposure, intense activity, high altitude, burns, or illness. You must replace this water.
 
-Dehydration results from inadequate replacement of lost body fluids. It decreases your efficiency and, if you are injured, it increases your susceptibility to severe shock. Consider the following results of body fluid loss:
+Dehydration results from inadequate replacement of lost body fluids. It decreases your efficiency and, if you are injured, it increases susceptibility to severe shock. Consider the following results of body fluid loss:
 
 * A 5-percent loss results in thirst, irritability, nausea, and weakness.
 * A 10-percent loss results in dizziness, headache, inability to walk, and a tingling sensation in the limbs.
@@ -23,7 +23,7 @@ Dehydration results from inadequate replacement of lost body fluids. It decrease
 
 The most common signs and symptoms of dehydration are:
 
-* Dark urine with a very strong odor.
+* Dark urine with a very strong odor. (Generally, the darker the urine, the more dehydrated you are.)
 * Low urine output.
 * Dark, sunken eyes.
 * Fatigue.
@@ -33,19 +33,19 @@ The most common signs and symptoms of dehydration are:
 * Trench line down center of tongue.
 * Thirst. (Last on the list because you are already 2-percent dehydrated by the time you crave fluids.)
 
-You should replace the water as you lose it. Trying to make up a deficit is difficult in a survival situation, and thirst is not a sign of how much water you need.
+You should replace water as you lose it. Trying to make up a deficit is difficult in a survival situation, and thirst is not a sign of how much water you need.
 
 Most people cannot comfortably drink more than 1 liter of water at a time. So, even when not thirsty, drink small amounts of water at regular intervals each hour to prevent dehydration.
 
-If you are under physical and mental stress or subject to severe conditions, increase your water intake. Drink enough liquids to maintain a urine output of at least 0.5 liters every 24 hours.
+If you are under physical and mental stress, or subject to severe conditions, increase your water intake. Drink enough liquids to maintain a urine output of at least 0.5 liters every 24 hours. Urine color is one indicator of hydration levels.
 
-In any situation where food intake is low, drink 6 to 8 liters of water per day. In an extreme climate, especially an arid one, the average person can lose 2.5 to 3.5 liters of water **per hour**. In this type of climate, you should drink 8 to 12 ounces of water every 30 minutes. It is better to regulate water loss through work or rest cycles because overhydration can occur if water intake exceed 1 1/2 quarts per hour. Overhydration can cause low serum sodium levels resulting in cerebral and pulmonary edema, which can lead to death.
+In any situation where food intake is low, drink 6 to 8 liters of water per day. In an extreme climate, especially an arid one, the average person can lose 2.5 to 3.5 liters of water **per hour**. In this type of climate, you should drink 8 to 12 ounces of water every 30 minutes. It is better to regulate water loss through work or rest cycles because overhydration can occur if water intake exceeds 1.5 quarts per hour. Overhydration can cause low serum sodium levels resulting in cerebral and pulmonary edema, which can lead to death.
 
-With the loss of water there is also a loss of electrolytes (body salts). The average diet can usually keep up with these losses but in an extreme situation or illness, additional sources need to be provided. You should maintain an intake of carbohydrates and other necessary electrolytes.
+With the loss of water there is also a loss of electrolytes (body salts). The average diet can usually keep up with these losses, but in an extreme situation or illness, additional sources are necessary. You should maintain an intake of carbohydrates and other necessary electrolytes.
 
 Of all the physical problems encountered in a survival situation, the loss of water is the most preventable. The following are basic guidelines for the prevention of dehydration:
 
-* _Always drink water when eating._ Water is used and consumed as a part of the digestion process and can lead to dehydration.
+* _Always drink water when eating._ Water is used as a part of the digestion process and can lead to dehydration.
 * _Acclimatize._ The body performs more efficiently in extreme conditions when acclimatized.
 * _Conserve sweat, not water._ Limit sweat-producing activities but drink water.
 * _Ration water._ Until you find a suitable source, ration your sweat, not your water. Limit activity and heat gain or loss.
@@ -56,36 +56,36 @@ You can also use the pulse and breathing rate to estimate fluid loss. Use the fo
 
 * With a 0.75-liter loss the wrist pulse rate will be under 100 beats per minute and the breathing rate 12 to 20 breaths per minute.
 * With a 0.75- to 1.5-liter loss the pulse rate will be 100 to 120 beats per minute and 20 to 30 breaths per minute.
-* With a 1.5- to 2-liter loss the pulse rate will be 120 to 140 beats per minute and 30 to 40 breaths per minute. Vital signs above these rates require more advanced care.
+* With a 1.5- to 2-liter loss the pulse rate will be 120 to 140 beats per minute and 30 to 40 breaths per minute. Vital signs above these rates require advanced care.
 
-Make sure the water you drink water does not contain harmful contaminants. Ideally carry [a LifeStraw](LifeStraw) as part of [your kit](Kits) to filter the water. Read more about it in the [water chapter](Water)
+Make sure the water you drink does not contain harmful contaminants. Ideally carry [a LifeStraw](LifeStraw) as part of [your kit](Kits) to filter the water. Read more about it in the [water chapter](Water)
 
 **FOOD**
 
-Although you can live several weeks without food, you need an adequate amount to stay healthy. Without food your mental and physical capabilities will deteriorate rapidly and you will become weak. Food provides energy and replenishes the substances that your body burns. Food provides vitamins, minerals, salts, and other elements essential to good health. Possibly more important, it helps morale.
+Although you can live several weeks without food, you need an adequate amount to stay healthy. Without food your mental and physical capabilities will deteriorate rapidly and you will become weak. Food provides energy and replenishes the substances that your body burns. Food provides vitamins, minerals, salts, and other elements essential to good health. And, possibly more important, it helps morale.
 
-The three basic sources of food are plants, animals (including fish) and fungus. In varying degrees, both provide the calories, carbohydrates, fats, and proteins needed for normal daily body functions. You should use rations to augment plant and animal foods, which will extend and help maintain a balanced diet.
+The three basic sources of food are plants, animals (including fish) and fungus. In varying degrees, these provide the calories, carbohydrates, fats, and proteins needed for normal daily body functions. You should use rations to augment plant and animal foods, which will extend and help maintain a balanced diet.
 
-Calories are a measure of heat and potential energy. The average person needs 2,000 calories per day to function at a minimum level. An adequate amount of carbohydrates, fats, and proteins without an adequate caloric intake will lead to starvation and cannibalism of the body's own tissue for energy.
+Calories are a measure of heat and potential energy. The average person needs 2,000 calories per day to function at a minimum level. An adequate amount of carbohydrates, fats, and proteins without an adequate caloric intake will lead to starvation and cannibalism of the body's own tissue for energy. It may be useful to estimate your TDEE (Total Daily Energy Expenditure) since each individual requires different caloric minimums.
 
 **Plants**
 
 Plant foods provide carbohydrates—the main source of energy. Many plants provide enough protein to keep the body at normal efficiency. Although plants may not provide a balanced diet, they will sustain you even in the arctic, where meat's heat-producing qualities are normally essential. Many plant foods such as nuts and seeds will give you enough protein and oils for normal efficiency. Roots, green vegetables, and plant foods containing natural sugar will provide calories and carbohydrates that give the body natural energy.
 
-The food value of plants becomes more and more important if you are eluding the enemy or if you are in an area where wildlife is scarce. For instance:
+The food value of plants becomes more and more important if you are eluding enemies or if you are in an area where wildlife is scarce. For instance:
 
 * You can dry plants by wind, air, sun, or fire. This retards spoilage so that you can store or carry the plant food with you to use when needed.
 * You can often obtain plants more easily than meat.
 
 **Animals**
 
-Meat is more nourishing than plant food. It may even be more readily available in some places. However, to get meat, you need to know the habits of and how to capture the various wildlife.
+Meat is more nourishing than plant food. It may even be more readily available in some places. However, to get meat, you need to know the habits of (and how to capture) the various wildlife.
 
-To satisfy your immediate food needs, first seek the more abundant and more easily obtained wildlife, such as insects, crustaceans, mollusks, fish, and reptiles. These can satisfy your immediate hunger while you are preparing traps and snares for larger game.
+To satisfy immediate food needs, first seek the more abundant and easily obtained wildlife. This includes insects, crustaceans, mollusks, fish, and reptiles. These can satisfy hunger while you are preparing traps and snares for larger game.
 
 **PERSONAL HYGIENE**
 
-In any situation, cleanliness is an important factor in preventing infection and disease. It becomes even more important in a survival situation. Poor hygiene can reduce your chances of survival.
+Cleanliness is always an important factor in preventing infection and disease. This becomes even more important in a survival situation since poor hygiene can reduce chances of survival.
 
 A daily shower with hot water and soap is ideal, but you can stay clean without this luxury. Use a cloth and soapy water to wash yourself. Pay special attention to the feet, armpits, crotch, hands, and hair as these are prime areas for infestation and infection. If water is scarce, take an "air" bath. Remove as much of your clothing as practical and expose your body to the sun and air for at least 1 hour. Be careful not to sunburn.
 
@@ -111,7 +111,7 @@ Germs on your hands can infect food and wounds. Wash your hands after handling a
 
 **Keep Your Hair Clean**
 
-Your hair can become a haven for bacteria or fleas, lice, and other parasites. Keeping your hair clean, combed, and trimmed helps you avoid this danger.
+Hair can become a haven for bacteria, fleas, lice, and other parasites. Keeping your hair clean, combed, and trimmed helps you avoid this danger.
 
 **Keep Your Clothing Clean**
 
@@ -119,7 +119,7 @@ Keep your clothing and bedding as clean as possible to reduce the chances of ski
 
 **Keep Your Teeth Clean**
 
-Thoroughly clean your mouth and teeth with a toothbrush at least once each day. If you don't have a toothbrush, make a chewing stick. Find a twig about 20 centimeters (cm) (8 inches) long and 1 centimeter (1/3 inch) wide. Chew one end of the stick to separate the fibers. Then brush your teeth thoroughly. Another way is to wrap a clean strip of cloth around your fingers and rub your teeth with it to wipe away food particles. You can also brush your teeth with small amounts of sand, baking soda, salt, or soap. Rinse your mouth with water, salt water, or willow bark tea. Also, flossing your teeth with string or fiber helps oral hygiene.
+Thoroughly clean your mouth and teeth with a toothbrush at least once each day. If you don't have a toothbrush, make a chewing stick. Find a twig about 20 centimeters (cm) (8 inches) long and 1 centimeter (1/3 inch) wide. Chew one end of the stick to separate the fibers. Then brush your teeth thoroughly. Another way is to wrap a clean strip of cloth around your fingers and rub your teeth with it to wipe away food particles. You can also brush your teeth with small amounts of sand, baking soda, salt, or soap. Rinse your mouth with water, salt water, or willow bark tea. Flossing your teeth with string or fiber also helps oral hygiene.
 
 If you have cavities, you can make temporary fillings by placing candle wax, tobacco, hot pepper, toothpaste or powder, or portions of a gingerroot into the cavity. Make sure you clean the cavity by rinsing or picking the particles out of the cavity before placing a filling in the cavity.
 
@@ -150,11 +150,11 @@ Medical problems and emergencies you may face include breathing problems, severe
 
 Any one of the following can cause airway obstruction, resulting in stopped breathing:
 
-* Foreign matter in mouth of throat that obstructs the opening to the trachea.
+* Foreign matter in mouth or throat which obstructs the opening to the trachea.
 * Face or neck injuries.
-* Inflammation and swelling of mouth and throat caused by inhaling smoke, flames, and irritating vapors or by an allergic reaction.
+* Inflammation and swelling of mouth and throat caused by inhaling smoke, flames, irritating vapors, or by an allergic reaction.
 * "Kink" in the throat (caused by the neck bent forward so that the chin rests upon the chest).
-* Tongue blocks passage of air to the lungs upon unconsciousness. When an individual is unconscious, the muscles of the lower jaw and tongue relax as the neck drops forward, causing the lower jaw to sag and the tongue to drop back and block the passage of air.
+* Tongue blocks passage of air to the lungs upon unconsciousness. When an individual is unconscious, the muscles of the lower jaw and tongue relax as the neck drops forward. This causes the lower jaw to sag and the tongue to drop back and block the passage of air.
 
 **SEVERE BLEEDING**
 
@@ -255,7 +255,7 @@ Anticipate shock in all injured personnel. Treat all injured persons as follows,
 * Maintain body heat by insulating the victim from the surroundings and, in some instances, applying external heat.
 * If wet, remove all the victim's wet clothing as soon as possible and replace with dry clothing.
 * Improvise a shelter to insulate the victim from the weather.
-* Use warm liquids or foods, a prewarmed sleeping bag, another person, warmed water in canteens, hot rocks wrapped in clothing, or fires on either side of the victim to provide external warmth.
+* External warmth can be provided with warm liquids or foods, a prewarmed sleeping bag, another person, warmed water in canteens, hot rocks wrapped in clothing, or fires on either side of the victim.
 * If the victim is conscious, slowly administer small doses of a warm salt or sugar solution, if available.
 * If the victim is unconscious or has abdominal wounds, do not give fluids by mouth.
 * Have the victim rest for at least 24 hours.
@@ -278,11 +278,11 @@ The closed fracture has no open wounds. Follow the guidelines for immobilization
 
 The signs and symptoms of a fracture are pain, tenderness, discoloration, swelling deformity, loss of function, and grating (a sound or feeling that occurs when broken bone ends rub together).
 
-The dangers with a fracture are the severing or the compression of a nerve or blood vessel at the site of fracture. For this reason minimum manipulation should be done, and only very cautiously. If you notice the area below the break becoming numb, swollen, cool to the touch, or turning pale, and the victim showing signs of shock, a major vessel may have been severed. You must control this internal bleeding. Reset the fracture and treat the victim for shock and replace lost fluids.
+The dangers with a fracture are the severing or the compression of a nerve or blood vessel at the site of fracture. For this reason minimum manipulation should be done, and only very cautiously. If you notice the area below the break becoming numb, swollen, cool to the touch, or turning pale, and the victim showing signs of shock, a major vessel may have been severed. You must control this internal bleeding. Reset the fracture, treat the victim for shock, and replace lost fluids.
 
 Often you must maintain traction during the splinting and healing process. You can effectively pull smaller bones such as the arm or lower leg by hand. You can create traction by wedging a hand or foot in the V-notch of a tree and pushing against the tree with the other extremity. You can then splint the break.
 
-Very strong muscles hold a broken thighbone (femur) in place making it difficult to maintain traction during healing. You can make an improvised traction splint using natural material ([Figure 4-6](#fig4-6)) as explained below.
+Strong muscles hold a broken thighbone (femur) in place making it difficult to maintain traction during healing. You can make an improvised traction splint using natural material ([Figure 4-6](#fig4-6)) as explained below.
 
 <a name="fig4-6"></a>![Figure 4-6\. Improvised Traction Splint](fig04-06.png)
 
@@ -339,7 +339,7 @@ Insects and related pests are hazards in a survival situation. They not only cau
 
 The best way to avoid the complications of insect bites and stings is to keep immunizations (including booster shots) up-to-date, avoid insect-infested areas, use netting and insect repellent, and wear all clothing properly.
 
-If you are bitten or stung, do not scratch the bite or sting; it might become infected. Inspect your body at least once a day to ensure there are no insects attached to you. If you find ticks attached to your body, cover them with a substance (such as petroleum jelly, heavy oil, or tree sap) that will cut off their air supply. Without air, the tick releases its hold, and you can remove it. Take care to remove the whole tick. Use tweezers if you have them. Grasp the tick where the mouthparts are attached to the skin. Do not squeeze the tick's body. Wash your hands after touching the tick. Clean the tick wound daily until healed.
+If you are bitten or stung, do not scratch the bite or sting; it might become infected. Inspect your body at least once a day to ensure there are no insects attached to you. If you find ticks attached to your body, cover them with a substance (such as petroleum jelly, heavy oil, or tree sap) that will cut off their air supply. Without air, the tick releases its hold, and you can remove it. Take care to remove the whole tick. Use tweezers if you have them. Grasp the tick where its mouthparts are attached to the skin. Do not squeeze the tick's body. Wash your hands after touching the tick. Clean the tick wound daily until healed.
 
 **TREATMENT**
 
@@ -349,7 +349,7 @@ It is impossible to list the treatment of all the different types of bites and s
 * Predeployment immunizations can prevent most of the common diseases carried by mosquitoes and some carried by flies.
 * The common fly-borne diseases are usually treatable with penicillins or erythromycin.
 * Most tick-, flea-, louse-, and mite-borne diseases are treatable with tetracycline.
-* Most antibiotics come in 250 milligram (mg) or 500 mg tablets. If you cannot remember the exact dose rate to treat a disease, 2 tablets, 4 times a day, for 10 to 14 days will usually kill any bacteria.
+* Most antibiotics come in 250 milligram (mg) or 500 mg tablets. If you cannot remember the exact dose rate to treat a disease, 2 tablets, 4 times a day, for 10 to 14 days will usually kill any bacteria. (80 to 112 tablets total.)
 
 **BEE AND WASP STINGS**
 
@@ -370,13 +370,13 @@ Relieve the itching and discomfort caused by insect bites by applying:
 
 The black widow spider is identified by a red hourglass on its abdomen. Only the female bites, and it has a neurotoxic venom. The initial pain is not severe, but severe local pain rapidly develops. The pain gradually spreads over the entire body and settles in the abdomen and legs. Abdominal cramps and progressive nausea, vomiting, and a rash may occur. Weakness, tremors, sweating, and salivation may occur. Anaphylactic reactions can occur. Symptoms may worsen for the next three days and then begin to subside for the next week. Treat for shock. Be ready to perform CPR. Clean and dress the bite area to reduce the risk of infection. An antivenin is available.
 
-The funnelweb spider is a large brown or gray spider found in Australia. The symptoms and the treatment for its bite are as for the black widow spider.
+The funnel web spider is a large brown or gray spider found in Australia. The symptoms and the treatment for its bite are identical to the black widow spider.
 
 The brown house spider or brown recluse spider is a small, light brown spider identified by a dark brown violin on its back. There is no pain, or so little pain, that usually a victim is not aware of the bite. Within a few hours a painful red area with a mottled cyanotic center appears. Necrosis does not occur in all bites, but usually in 3 to 4 days, a star-shaped, firm area of deep purple discoloration appears at the bite site. The area turns dark and mummified in a week or two. The margins separate and the scab falls off, leaving an open ulcer. Secondary infection and regional swollen lymph glands usually become visible at this stage. The outstanding characteristic of the brown recluse bite is an ulcer that does not heal but persists for weeks or months. In addition to the ulcer, there is often a systemic reaction that is serious and may lead to death. Reactions (fever, chills, joint pain, vomiting, and a generalized rash) occur chiefly in children or debilitated persons.
 
 Tarantulas are large, hairy spiders found mainly in the tropics. Most do not inject venom, but some South American species do. They have large fangs. If bitten, pain and bleeding are certain, and infection is likely. Treat a tarantula bite as for any open wound, and try to prevent infection. If symptoms of poisoning appear, treat as for the bite of the black widow spider.
 
-Scorpions are all poisonous to a greater or lesser degree. There are two different reactions, depending on the species:
+Scorpions are all poisonous. There are two different reactions, depending on the species:
 * Severe local reaction only, with pain and swelling around the area of the sting. Possible prickly sensation around the mouth and a thick-feeling tongue.
 * Severe systemic reaction, with little or no visible local reaction. Local pain may be present. Systemic reaction includes respiratory difficulties, thick-feeling tongue, body spasms, drooling, gastric distention, double vision, blindness, involuntary rapid movement of the eyeballs, involuntary urination and defecation, and heart failure. Death is rare, occurring mainly in children and adults with high blood pressure or illnesses.
 
@@ -384,7 +384,7 @@ Treat scorpion stings as you would a black widow bite.
 
 **SNAKEBITES**
 
-The chance of a snakebite in a survival situation is rather small, if you are familiar with the various types of snakes and their habitats. However, it could happen and you should know how to treat a snakebite. Deaths from snakebites are rare. More than one-half of the snakebite victims have little or no poisoning, and only about one-quarter develop serious systemic poisoning. However, the chance of a snakebite in a survival situation can affect morale, and failure to take preventive measures or failure to treat a snakebite properly can result in needless tragedy.
+The chance of a snakebite in a survival situation is rather small, if you are familiar with the various types of snakes and their habitats. However, it could happen and you should know how to treat a snakebite. Deaths from snakebites are rare. More than half of snakebite victims have little or no poisoning, and only about one-quarter develop serious systemic poisoning. However, the chance of a snakebite in a survival situation can affect morale, and failure to take preventive measures or failure to treat a snakebite properly can result in needless tragedy.
 
 The primary concern in the treatment of snakebite is to limit the amount of eventual tissue destruction around the bite area.
 
@@ -515,13 +515,13 @@ The following field treatment for burns relieves the pain somewhat, seems to hel
 * Cool the dressings or clean rags and apply over burns. Sugar and honey also work for burns with honey being especially effective at promoting new skin growth and stopping infections. Use both as you would in an open wound above.
 * Treat as an open wound.
 * Replace fluid loss. Fluid replacement can be achieved through oral (preferred) and intravenous routes (when resources are available). One alternate method through which rehydration can be achieved is through the rectal route. Fluids do not need to be sterile, only purified. A person can effectively absorb approximately 1 to 1.5 liters per hour by using a tube to deliver fluids into the rectal vault.
-* Maintain airway.
+* Maintain open airway.
 * Treat for shock.
 * Consider using morphine, unless the burns are near the face.
 
 ### ENVIRONMENTAL INJURIES
 
-Heatstroke, hypothermia, diarrhea, and intestinal parasites are environmental injuries you could face in a survival situation. Read and follow the guidance provided below.
+Heatstroke, hypothermia, diarrhea, and intestinal parasites are environmental concerns you could face in a survival situation.
 
 **HEATSTROKE**
 
@@ -549,7 +549,7 @@ You can expect the following symptoms during cooling:
 
 **CHILBLAINS**
 
-Frostnip begins as firm, cold and white or gray areas on the face, ears, and extremities that can blister or peel just like sunburn as late as 2 to 3 days after the injury. Frostnip, or chilblains as it is sometimes called, is the result of tissue exposure to freezing temperatures and is the beginning of frostbite. The water in and around the cells freezes, rupturing cell walls and thus damaging the tissue. Warming the affected area with hands or a warm object treats this injury. Wind chill plays a factor in this injury; preventative measures include layers of dry clothing and protection against wetness and wind.
+Frostnip begins as firm, cold, white or gray areas on the face, ears, and extremities. They can blister or peel just like sunburn as late as 2 to 3 days after the injury. Frostnip, or chilblains as it is sometimes called, is the result of tissue exposure to freezing temperatures and is the beginning of frostbite. The water in and around the cells freezes, rupturing cell walls and thus damaging the tissue. Warming the affected area with hands or a warm object treats this injury. Wind chill plays a factor in this injury; preventative measures include layers of dry clothing and protection against wetness and wind.
 
 **TRENCH FOOT**
 
@@ -567,7 +567,7 @@ Do not try to thaw the affected areas by placing them close to an open flame. Fr
 
 It is defined as the body's failure to maintain an inner core temperature of 36 degrees C (97 degrees F). Exposure to cool or cold temperature over a short or long time can cause hypothermia. Dehydration and lack of food and rest predispose the survivor to hypothermia.
 
-Immediate treatment is the key. Move the victim to the best shelter possible away from the wind, rain, and cold. Remove all wet clothes and get the victim into dry clothing. Replace lost fluids with warm fluids, and warm him in a sleeping bag using two people (if possible) providing skin-to-skin contact. If the victim is unable to drink warm fluids, rectal rehydration may be used.
+Immediate treatment is the key. Move the victim to the best shelter possible away from wind, rain, and cold. Remove all wet clothes and get the victim into dry clothing. Replace lost fluids with warm fluids, and warm him in a sleeping bag using two people (if possible) providing skin-to-skin contact. If the victim is unable to drink warm fluids, rectal rehydration may be used.
 
 **DIARRHEA**
 
@@ -575,7 +575,7 @@ A common, debilitating ailment caused by changing water and food, drinking conta
 
 * Limit your intake of fluids for 24 hours.
 * Drink one cup of a strong tea solution every 2 hours until the diarrhea slows or stops. The tannic acid in the tea helps to control the diarrhea. Boil the inner bark of a hardwood tree for 2 hours or more to release the tannic acid.
-* Make a solution of one handful of ground chalk, charcoal, or dried bones and treated water. If you have some apple pomace or the rinds of citrus fruit, add an equal portion to the mixture to make it more effective. Take 2 tablespoons of the solution every 2 hours until the diarrhea slows or stops.
+* Make a solution of one handful of ground chalk, charcoal, or dried bones and treated water. If you have apple pomace (pulp) or the rinds of citrus fruit, add an equal portion to the mixture to make it more effective. Take 2 tablespoons of the solution every 2 hours until the diarrhea slows or stops.
 
 **INTESTINAL PARASITES**
 
