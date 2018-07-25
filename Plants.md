@@ -16,7 +16,7 @@ Plants are valuable sources of food because they are widely available, easily pr
 
 Absolutely identify plants before using them as food. Poison hemlock has killed people who mistook it for its relatives, wild carrots and wild parsnips.
 
-You may find yourself in a situation where you have had the chance to learn the plant life of the region in which you must survive. In this case you can use the Universal Edibility Test to determine which plants you can eat and which to avoid.
+You may find yourself in a situation where you not have had the chance to learn the plant life of the region in which you must survive. In this case you can use the Universal Edibility Test to determine which plants you can eat and which to avoid.
 
 It is important to be able to recognize both cultivated and wild edible plants in a survival situation. Most of the information in this chapter is directed toward identifying wild plants because information relating to cultivated plants is more readily available.
 
