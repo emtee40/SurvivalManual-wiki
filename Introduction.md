@@ -18,7 +18,7 @@ I would also love it if people could share their adventures in pictures and or t
 Thanks to everyone that made this app possible! You can find some of them [in the credits](Credits).
 
 If you want to support this app: please rate it and maybe have a look at the support options on [my homepage](http://ligi.de) or get some of the survival equipment you still need via my Amazon affiliate links (like the [Solar USB Charger](SolarUSBCharger), [Lifestraw water filter](LifeStraw), [Leatherman OHT MultiTool](OHTMultiTool))
-If you already have everything and no money you could get the [free audible trial](Audible) and e.g. listen to the great audio book "the Martian". This is a beautiful survival story from another planet!
+If you already have everything and no money you could get the [free audible trial](Audible) and e.g. listen to the great audio book "the Martian", a beautiful survival story from another planet!
 
 Also on a personal note: Please let's work towards a future where such a manual is not needed that much. Let's protect the environment and stop all wars so humans are not forced to go through bad times and need to fight for survival. Let's just live in peace in a beautiful, intact world!-)
 
