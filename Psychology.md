@@ -1,4 +1,4 @@
-> It takes much more than the knowledge and skills to build shelters, get food, make fires, and travel without the aid of standard navigational devices to live successfully through a survival situation. Some people with little or no survival training have managed to survive life-threatening circumstances. Some people with survival training have not used their skills and died. A key ingredient in any survival situation is the mental attitude of the individual involved. Having survival skills is important; having the will to survive is essential. Without a desire to survive, acquired skills serve little purpose and valuable knowledge goes to waste.
+> It takes much more than the knowledge and skills to build shelters, get food, make fires, and travel without the aid of standard navigational devices to live successfully through a survival situation. Some people with little to no survival training have managed to survive life-threatening circumstances, and some people with survival training have not used their skills and died. A key ingredient in any survival situation is the mental attitude of the individual involved. Having survival skills is important; having the will to survive is essential. Without a desire to survive, acquired skills serve little purpose and valuable knowledge goes to waste.
 > 
 > There is a psychology to survival. You will face many stressors in a survival environment that ultimately will affect your mind. These stressors can produce thoughts and emotions that, if poorly understood, can transform a confident, well-trained person into an indecisive, ineffective individual with questionable ability to survive. Thus, you must be aware of and be able to recognize those stressors commonly associated with survival. It is also imperative that you be aware of your reactions to the wide variety of stressors associated with survival. This chapter identifies and explains the nature of stress, the stressors of survival, and those internal reactions that you will naturally experience when faced with the stressors of a real-world survival situation. The knowledge you gain from this chapter and the remainder of this manual, will prepare you to come through the toughest times **alive**.
 
@@ -10,7 +10,7 @@ Before we can understand our psychological reactions in a survival setting it is
 
 We need stress because it has many positive benefits. Stress provides us with challenges; it gives us chances to learn about our values and strengths. Stress can show our ability to handle pressure without breaking. It tests our adaptability and flexibility, and can stimulate us to do our best. Because we usually do not consider unimportant events stressful, stress can also be an excellent indicator of the significance we attach to an event - in other words, it highlights what is important to us.
 
-We need to have *some* stress in our lives, but too much of anything can be bad. The goal is to have stress, but not an excess of it. Too much stress can take its toll on people and organizations. Too much stress leads to distress. Distress causes an uncomfortable tension that we try to escape or, preferably, avoid. Listed below are a few of the common signs of distress that you may encounter when faced with too much stress:
+We need to have *some* stress in our lives, but too much of anything can be bad. The goal is to have stress, but not an *excess* of it. Too much stress can take its toll on people and organizations. Too much stress leads to distress. Distress causes an uncomfortable tension that we try to escape or, preferably, avoid. Listed below are a few of the common signs of distress that you may encounter when faced with too much stress:
 
 * Difficulty making decisions
 * Angry outbursts
@@ -30,7 +30,7 @@ As you can see, stress can be constructive or destructive. It can encourage or d
 
 Any event can lead to stress and, as everyone has experienced, events don't always come one at a time. Often, stressful events occur simultaneously. These events are not stress, but they produce it and are called "stressors". Stressors are the obvious cause while stress is the response. Once the body recognizes the presence of a stressor, it then begins to act to protect itself.
 
-In response to a stressor, the body prepares either to "fight or flight". This preparation involves an internal 'SOS signal' sent throughout the body. As the body responds to this 'SOS signal', the following actions take place:
+In response to a stressor, the body prepares either to defend itself or escape, often called our "fight or flight" instinct. This preparation involves an internal 'SOS signal' sent throughout the body. As the body responds to this 'SOS signal', the following actions take place:
 
 * The body releases stored fuels (sugar and fats) to provide quick energy.
 * Breathing rate increases to supply more oxygen to the blood.
@@ -41,11 +41,11 @@ In response to a stressor, the body prepares either to "fight or flight". This p
 
 This protective posture lets you cope with potential dangers. However, you cannot maintain this level of alertness indefinitely.
 
-Stressors are not courteous; one stressor does not leave because another one arrives. Stressors add up. The cumulative effect of minor stressors can be a major distress if they all happen too close together. As the body's resistance to stress wears down and the sources of stress continue (or increase), eventually a state of exhaustion arrives. At this point, the ability to resist stress or use it in a positive way gives out and signs of distress appear. Anticipating stressors and developing strategies to cope with them are two ingredients in the effective management of stress. Therefore, it is essential that you be aware of the types of stressors that you will encounter. The following paragraphs explain a few of these.
+Stressors are not courteous; one stressor does not leave because another one arrives. Stressors add up. The cumulative effect of minor stressors can be a major distress if they all happen too close together. As the body's resistance to stress wears down and the sources of stress continue (or increase), eventually a state of exhaustion occurs. At this point, the ability to resist stress or use it in a positive way gives out and signs of distress appear. Anticipating stressors and developing strategies to cope with them are two ingredients in the effective management of stress. Therefore, it is essential that you be aware of the types of stressors that you will encounter. The following paragraphs explain a few of these.
 
 ### Injury, Illness, or Death
 
-Injury, illness, and death are real possibilities that you have to face. Perhaps nothing is more stressful than being alone in an unfamiliar environment where you could die from hostile action, an accident, or from eating something lethal. Illness and injury can also add to stress by limiting your ability to manoeuvre, get food and drink, find shelter, and defend yourself. Even if illness and injury don't lead to death, they add to stress through the pain and discomfort they generate. It is only by controlling the stress associated with the vulnerability to injury, illness, and death that you can have the courage to take the risks associated with survival tasks.
+Injury, illness, and death are real possibilities that you have to face. Perhaps nothing is more stressful than being alone in an unfamiliar environment where you could die from hostile action, an accident, or from eating something lethal. Illness and injury can also add to stress by limiting your ability to maneuver, get food and drink, find shelter, and defend yourself. Even if illness and injury don't lead to death, they add to stress through the pain and discomfort they generate. It is only by controlling the stress associated with the vulnerability to injury, illness, and death that you can have the courage to take the risks associated with survival tasks.
 
 ### Uncertainty and Lack of Control
 
@@ -53,7 +53,7 @@ Some people have trouble operating in settings where everything is not clear-cut
 
 ### Environment
 
-Even under the most ideal circumstances nature is quite formidable. In survival, you will have to contend with the stressors of weather, terrain, and the variety of creatures inhabiting an area. Heat, cold, rain, winds, mountains, swamps, deserts, insects, dangerous reptiles, and other animals are just a few of the challenges that you will encounter while working to survive. Depending on how you handle the stress of your environment, your surroundings can be either a source of food and protection or can be a cause of extreme discomfort leading to injury, illness or death.
+Even under the most ideal circumstances nature is quite formidable. In survival, you will have to contend with the stressors of weather, terrain, and the variety of creatures inhabiting an area. Extreme temperatures, natural disasters, mountains, swamps, deserts, poisonous flora and fauna, predators, and any other harmful animal are just a few of the challenges that you will encounter while working to survive. Depending on how you handle the stress of your environment, your surroundings can be either a source of shelter and reward, or can be extremely hazardous, leading to injury, illness or death.
 
 ### Hunger and Thirst
 
