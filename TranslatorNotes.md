@@ -1,8 +1,3 @@
-> UPDATE:
->
-> We are getting closer to translating the app & I created a google+ community to coordinate the effort.
-> If you want to join the translation team please head over to [this community](https://plus.google.com/communities/114639958139935259433)
-
 Hello to all translators,
 
 first of all thanks for your overwhelmingly interest in translating the survival manual! I am writing this as I got a lot of requests and mails regarding the state of translations. From a distance it sounds really easy - and for normal apps it sometimes is - but there are some special problems regarding translation with this app:
