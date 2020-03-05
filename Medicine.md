@@ -43,6 +43,12 @@ In any situation where food intake is low, drink 6 to 8 liters of water per day.
 
 With the loss of water there is also a loss of electrolytes (body salts). The average diet can usually keep up with these losses, but in an extreme situation or illness, additional sources are necessary. You should maintain an intake of carbohydrates and other necessary electrolytes.
 
+You can make an Oral Rehydration Salts (ORS) drink to replace lost salts after severe diarrhea or vomiting by mixing 0.5 teaspoons of salt and 2 tablespoons of sugar in 1 liter of water. Recommended amounts to drink vary by body mass:
+
+* Babies and infants (0-2 years): 0.5 liters every 24 hours
+* Children (2-9 years): 1 liter every 24 hours
+* Older children and adults: 3 liters every 24 hours
+
 Of all the physical problems encountered in a survival situation, the loss of water is the most preventable. The following are basic guidelines for the prevention of dehydration:
 
 * _Always drink water when eating._ Water is used as a part of the digestion process and can lead to dehydration.
