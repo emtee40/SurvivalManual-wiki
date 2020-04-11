@@ -23,7 +23,7 @@ The faster the motor turns, the higher the voltage produced will be. The current
 
 **Motors that do not work for this are most fan motors, and motors that do not have magnets in them. If the motor is magnetic without being plugged in, chances are it will work.**
 
-Microwave oven turntable motors (the one that turns the glass plate on the bottom) can easily produce 300-400 volts when turned by hand. **Be careful not to play around with the magnetron(The thing that produces the radiation to cook the food), it could cause some serious health issues. While you are safe from radiation when they are not powered, the ceramic insulators can contain beryllium oxide which can be fatal when inhaled.**
+Microwave oven turntable motors (the one that turns the glass plate on the bottom) can easily produce 300-400 volts when turned by hand. **Be careful not to play around with the magnetron(the component that produces the radiation to cook the food), it could cause some serious health issues. While you are safe from radiation when they are not powered, the ceramic insulators can contain beryllium oxide which can be fatal when inhaled.**
 
 ### Wind
 
@@ -47,11 +47,13 @@ Using the muscles of your arm is another option. There are small USB cranks to o
 
 You can also use a car or truck with a combustion engine to generate power. Cars and trucks (hereafter referred to as "car") always come with a generator in the form of an alternator that recharges the car's battery and provides power to the car's systems while the engine is running. When the engine is running, power is being produced. Most car batteries are 12V. You just have to convert the 12V to 5V for the phone. 
 
-You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy a [car usb-charger](CarUSBCharger). But be aware that this is a wildly inefficient means to produce power, as the majority of the output is being used to power the car itself. You also hurt the environment when doing so, as the vehicle is normally being powered by gasoline or diesel fuel. This should be the last resort as a car is making 80% of heat energy (usually from fossil fuel) using just 20% to actually move you around, and an accessory converts a small portion of this movement into electricity via average efficiency converters. **It is much better to take advantage of this while driving to your destination, as the power is there anyway.**
+You can really easily build this yourself cheaply e.g. with a LM7805 Voltage Regulator IC or you buy a [car usb-charger](CarUSBCharger). But be aware that this is a wildly inefficient means to produce power, as the majority of the output is being used to power the car itself. You also hurt the environment when doing so, as the vehicle is normally being powered by gasoline or diesel fuel.
+
+This should be the last resort as a car is making 80% of heat energy (usually from fossil fuel) using just 20% to actually move you around, and an accessory converts a small portion of this movement into electricity via average efficiency converters. **It is much better to take advantage of this while driving to your destination, as the power is there anyway.**
 
 ### Voltaic pile
 
-Alessandro Volta was an Italian physicist, chemist and a pioneer of electricity and power. He is the credited inventor of the first electrical battery and invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method : plug two pieces of metal into a lemon.
+Alessandro Volta was an Italian physicist, chemist and a pioneer of electricity and power. He is the credited inventor of the first electrical battery and invented the Voltaic pile in 1799. Early experiments were conducted in an easy to reproduce method: plug two pieces of metal into a lemon.
 
 If the pieces of metal are made of copper for one (like electric wires or cents, the brown/orange shining ones) and zinc for the other (like a paper-clip in a galvanized steel - covered by zinc - or old bars metal-sheet cover, gutters and Paris roof covers), both approximately 3cm², plugged at another 3cm of distance from one another, a tension of around 1V will be generated between them. The copper part will be the positive pole of this power generator, and the zinc one the negative pole.
 
@@ -59,7 +61,7 @@ To recharge a USB powered device you will need a pile of 5 lemon cells plugged i
 
 This method won't provide a lot of energy, so you'll need a lot of lemons (cut in four lengths and sliced for instance). The good news is that a lot of other fruits (oranges, grapefruits), vegetables (potatoes, plantain pith) or acid liquids (vinegar, grape juice, salt water) can be used as the acidic electrolyte for the reaction. They just need to be acid, and even a non-acid-tasting material can have a compliant pH, so being acid enough to produce electricity. All the given examples end up producing ~1V cells. Fruit is convenient because it provides both the electrolyte and a simple way to support the electrodes (metallic parts).
 
-A pile of 5 lemon cells will deliver 5V and around 1mA. The bigger the electrodes, the bigger the current. For instance : 5cm by 5cm electrodes in 10cl of 8% acidic vinegar with 5g of salt will deliver pikes of 40mA slowly reducing to 10mA (in 5 minutes). A one meter long gutter, filled of sea water, with a one meter long plumbing copper hose in it, separated by a paper or fabrics layer should produce 500mA.
+A pile of 5 lemon cells will deliver 5V and around 1mA. The bigger the electrodes, the bigger the current. For instance: 5cm by 5cm electrodes in 10cl of 8% acidic vinegar with 5g of salt will deliver pikes of 40mA slowly reducing to 10mA (in 5 minutes). A one meter long gutter, filled of sea water, with a one meter long plumbing copper hose in it, separated by a paper or fabrics layer should produce 500mA.
 
 500mA, it's what a standard USB 1.0 plug provides. A battery of 500 parallel piles of 5 lemon cells would be required to produce the same energy (or one pile of five one-meter-gutter cells). Fortunately, your smartphone should be able to recharge even with a smaller current; it will just take longer. Some are able to take advantage of first 1mA, but wont actually recharge themselves if provided with less than their own idle power consumption (~20mA, screen off, airplane mode). Others will require at least the standard power to consider that they are plugged. Also, most smartphones will accept bigger charging power (a common value is 1A) which leads again to bigger cells. But the quicker you recharge your battery, the more the battery will be damaged by the process. You can't prevent the battery from getting worn by the recharge process, but slower recharge will wear it down less.
 
@@ -85,7 +87,7 @@ The drawback here is that aluminium gets oxidized within tens of minutes. Alumin
 
 ### Power-Bank
 
-Get a good power-bank. Often you do not want to use the energy directly while still generating it. Let's take solar - you may charge your power-bank during the day, and may use the power at night. Be aware that the capacity information on these power-banks are often inaccurate or outright lies. Try them out for yourself and measure.
+Get a good power-bank. Often you do not want to use the energy directly while still generating it. Let's take solar - you may charge your power-bank during the day, and may use the power at night. **Be aware that the capacity information on these power-banks are often inaccurate or outright lies. Try them out for yourself and measure.**
 
 Power banks are just batteries with standard plug interfaces (e.g. USB, 5V). Beware that owning a battery is like owning a pet animal: you're responsible for it. If you fail to comply with proper maintenance, it will have a shortened life. Classic cellphone power-banks are made of Lithium batteries, which are better stored at 50% capacity (being full or empty is damaging it), and recharge every 6 months. It won't work properly (or at all) after years of oblivion deep in a drawer.
 
@@ -103,7 +105,7 @@ You do not have to generate the power you save. A big help in saving power is me
 
 You will use around 1% of your battery every minute of full power screen backlight, camera session, or WiFi download. And in uncovered areas, your phone will keep trying to reach a cellphone antenna around which drains a lot of power.
 
-To save your battery you should set it up with low screen backlight level, short screensaver timeout and airplane mode enabled.
+**To save your battery you should set it up with low screen backlight level, short screensaver timeout and airplane mode enabled.**
 
 ### Batteries
 
