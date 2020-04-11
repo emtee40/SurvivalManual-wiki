@@ -23,7 +23,7 @@ The faster the motor turns, the higher the voltage produced will be. The current
 
 **Motors that do not work for this are most fan motors, and motors that do not have magnets in them. If the motor is magnetic without being plugged in, chances are it will work.**
 
-Microwave oven turntable motors (the one that turns the glass plate on the bottom) can easily produce 300-400 volts when turned by hand.
+Microwave oven turntable motors (the one that turns the glass plate on the bottom) can easily produce 300-400 volts when turned by hand. **Be careful not to play around with the magnetron, it could cause some serious health issues.**
 
 ### Wind
 
