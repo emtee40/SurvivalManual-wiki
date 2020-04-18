@@ -22,17 +22,17 @@ Every Android phone comes standard with a calculator app. These calculator apps 
 
 ### Camera
 
-Your phone's camera can help you take quick pictures of signs, allowing you to capture large chunks of text in an instant. Doing so with a camera rather than your mind will allow you access to true information that has not been altered by time and space in your brain -- especially easily done under stressful conditions. [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to processing pictures to improve the readability of text.
+Your phone's camera can help you take quick pictures of signs, allowing you to capture large chunks of text in an instant. **Doing so with a camera rather than your mind will allow you access to true information that has not been altered by time and space in your brain - especially easily done under stressful conditions.** [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to processing pictures to improve the readability of text.
 
 You can also take pictures of the place you are, to help find your way back to it later. Or you can take pictures of your findings far from a site, to help inform others about them.
 
 ### Compass
 
-Directions can be useful; learn how to read a compass and how to navigate using it. It may be easier to learn with a real compass and then reproduce it with your phone.
+Directions can be useful, learn how to read a compass and how to navigate using it. It may be easier to learn with a real compass and then reproduce it with your phone.
 
 ### Cryptocurrency 
 
-In a situation where fiat money/banks are no longer a viable option, it may be best to have a [cryptocurrency wallet like WallETH](http://walleth.org) already set up. Transfer a small amount onto it now and learn how to use it for later. For even better security, utilize a hardware wallet like the [TREZOR](https://shop.trezor.io?a=walleth.org). You can also use the TREZOR (including the new model T) together with WallETH on your phone. If you are concerned about the volatility of crypto-currencies, you may want to research stable coins like [DAI](https://dai.makerdao.com).
+In a situation where fiat money/banks are no longer a viable option, it may be best to have a [cryptocurrency wallet like WallETH](https://walleth.org) or [Electrum](https://electrum.org/) already set up. Transfer a small amount onto it now and learn how to use it for later. For even better security, utilize a hardware wallet like the [TREZOR](https://shop.trezor.io?a=walleth.org). You can also use the TREZOR (including the new model T) together with WallETH on your phone. If you are concerned about the volatility of crypto-currencies, you may want to research stable coins like [DAI](https://dai.makerdao.com).
 
 ### Games
 
@@ -41,6 +41,8 @@ Have a game app to fight boredom and keep the mind stimulated.
 I recommend [gobandroid](https://github.com/ligi/gobandroid) [full disclosure: I made this app] to play the ancient game of Go, which has simple rules but is still immensely deep.
 
 [Sokoban](https://github.com/mobilepearls/com.mobilepearls.sokoban) is an ancient Japanese puzzle game in which you push jewels into target zones through different maps. Be careful that you don't corner yourself or the jewels! The game provides 354 levels, sorted by difficulty, and may provide mental stimulation for years.
+
+**Make sure that the games work offline. Also, be careful not to run out of battery when you really need it.**
 
 ### Light 
 
@@ -59,11 +61,11 @@ Morse signal is easy to transmit, even without special gear. It can be transmitt
 
 You can broadcast a Morse signal farther than you can project your voice, and likely using less energy.
 
-The famous SOS distress signal is ubiquitous, and indicates that you need to be rescued : dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But beyond this knowledge, Morse code could be useful for exchanging further information about your situation. For instance, if you are trapped in a cave: what do you need first? Are there people in your group that need special assistance?
+The famous SOS distress signal is ubiquitous, and indicates that you need to be rescued: dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But beyond this knowledge, Morse code could be useful for exchanging further information about your situation. For instance, if you are trapped in a cave: what do you need first? Are there people in your group that need special assistance?
 
 This exchange could be achieved using a Morse signal generator app, like the libre [Androidomatic-Keyer (AKA)](https://github.com/sussman/androidomatic-keyer). Andromatic-Keyer allows you to type your message (English is the International Morse tradition, but broken English works fine, as well) and the app will play the corresponding sound using the loudspeaker of the phone. 
 
-I ahve submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature request may need your help to gain traction.
+I submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature request may need your help to gain traction.
 
 ### Music
 
@@ -75,7 +77,7 @@ Have a Music app that is not a streaming solution, as well as some uplifting mus
 
 ### Pass app
 
-I recommend [PassAndroid](https://github.com/ligi/PassAndroid) for your Pass app. Imagine how frustrating it would be if you get a ticket to a rescue ship in [esPass](http://espass.it) format and are unable to display it. (Full disclosure: I am the developer of PassAndroid.)
+I recommend [PassAndroid](https://github.com/ligi/PassAndroid) for your Pass app. Imagine how frustrating it would be if you get a ticket to a rescue ship in [esPass](https://espass.it) format and are unable to display it. (Full disclosure: I am the developer of PassAndroid.)
 
 ### Offline dictionary and translation dictionaries
 
@@ -92,7 +94,8 @@ This is what [Aard](https://aarddict.org) allows you to do. It's a libre app ava
 
 ### Radio
 
-A lot of Android phones come stock with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive this information using a pair of headphones plugged in to the phone, as it typically uses the headphone cable as an antenna to receive the signal. You can also use any other 3.5 mm jack component such as:
+A lot of Android phones come stock with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive this information using a pair of headphones plugged in to the phone, as it typically uses the headphone cable as an antenna to receive the signal. You can also use any other 3.5mm jack component such as:
+
 * a microphone
 * computer loudspeakers
 * a jack extension cord
