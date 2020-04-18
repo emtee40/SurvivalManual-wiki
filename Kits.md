@@ -27,62 +27,62 @@ Each category should contain items that allow you to sustain your basic needs. F
 
 ## Fire
 
-* lighter
-* metal match
-* waterproof matches
-* magnesium bar
-* candle
-* magnifying lens
+* Lighter
+* Metal match
+* Waterproof matches
+* Magnesium bar
+* Candle
+* Magnifying lens
 
 ## Water
 
-* water filter like the [LifeStraw](LifeStraw) 
-* non-lubricated condoms for carrying water
-* bleach
-* povidone-iodine drops
-* cravats
-* sponges
-* small plastic or rubber tubing
-* collapsible canteens or water bags
+* Water filter like the [LifeStraw](LifeStraw) 
+* Non-lubricated condoms for carrying water
+* Bleach
+* Povidone-iodine drops
+* Cravats
+* Sponges
+* Small plastic or rubber tubing
+* Collapsible canteens or water bags
 
 ## Shelter
 
-* emergency shelter tube tent with paracord 550 
-* parachute cord
-* large knife
-* machete or hatchet
-* poncho
-* space blanket
-* hammock
-* mosquito net
-* wire saw
+* Emergency shelter tube tent with paracord 550 
+* Parachute cord
+* Large knife
+* Machete or hatchet
+* Poncho
+* Space blanket
+* Hammock
+* Mosquito net
+* Wire saw
 
 ## Food
 
-* knife - can be the one on your MultiTool
-* snare wire
-* fishhooks
-* fish and snare line
-* bouillon cubes or soup packets
-* high-energy food bars
-* granola bars
-* gill or yeti net
-* aluminum foil
-* freezer bags
+* Knife - can be the one on your MultiTool
+* Snare wire
+* Fishhooks
+* Fish and snare line
+* Bouillon cubes or soup packets
+* High-energy food bars
+* Granola bars
+* Gill or yeti net
+* Aluminum foil
+* Freezer bags
 
 ## Medical
 
-* oxytetracycline tablets (to treat diarrhea or infection)
-* surgical blades or surgical preparation knife
-* butterfly sutures
-* lip balm, safety pins
-* sutures, antidiarrheal medication (imodium)
-* antimalarial medication (doxycycline)
-* broad-spectrum antibiotics (rocephin and zithromax) and broad spectrum topical ophthalmic (eye) antibiotic
-* antifungal
-* anti-inflammatory (ibuprofen)
-* petrolatum gauze
-* soap
+* Oxytetracycline tablets (to treat diarrhea or infection)
+* Surgical blades or surgical preparation knife
+* Butterfly sutures
+* Lip balm, safety pins
+* Sutures, antidiarrheal medication (imodium)
+* Antimalarial medication (doxycycline)
+* Broad-spectrum antibiotics (rocephin and zithromax) and broad spectrum topical ophthalmic (eye) antibiotic
+* Antifungal
+* Anti-inflammatory (ibuprofen)
+* Petrolatum gauze
+* Soap
 
 > Note:
 >
@@ -90,22 +90,22 @@ Each category should contain items that allow you to sustain your basic needs. F
 
 ## Signal
 
-* signaling mirror
-* strobe
-* pen flares
-* whistle
-* white flag
-* pilot scarf or other bright orange silk scarf
-* glint tape, flashlight, laser pointer, solar blanket
+* Signaling mirror
+* Strobe
+* Pen flares
+* Whistle
+* White flag
+* Pilot scarf or other bright orange silk scarf
+* Glint tape, flashlight, laser pointer, solar blanket
 
 ## Miscellaneous
 
-* duct-tape
-* wrist compass
-* needle and thread
-* money
-* extra eyeglasses
-* knife sharpener
-* cork
+* Duct-tape
+* Wrist compass
+* Needle and thread
+* Money
+* Extra eyeglasses
+* Knife sharpener
+* Cork
 
 Read and practice the survival techniques in this manual and apply these basic concepts to those you read about in other publications. Then prepare your survival kit with items that are durable, multipurpose, and lightweight. **Imagination may be the largest part of your kit. It can replace many of the items in a kit. Combined with the will to live, it can mean the difference between life and death.**
