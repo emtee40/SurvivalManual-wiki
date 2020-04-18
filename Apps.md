@@ -1,6 +1,5 @@
 > A phone can be a versatile tool when you install and use the right apps. 
-
-> Make sure you check that the apps work offline.
+**Make sure you check that the apps work offline, since you probably won't have internet connection.**
 
 ### Angles
 
