@@ -56,9 +56,9 @@ Have a mapping and navigation solution that can work offline like [OsmAnd](http:
 ### Morse signal
 
 Morse signal is easy to transmit, even without special gear. It can be transmitted in different ways, including:
-* the reflected light of a mirror (or a tilted smartphone screen)
-* the sound of strikes on a large piece of metal
-* a horn
+* The reflected light of a mirror (or a tilted smartphone screen)
+* The sound of strikes on a large piece of metal
+* A horn
 
 You can broadcast a Morse signal farther than you can project your voice, and likely using less energy.
 
@@ -97,10 +97,10 @@ This is what [Aard](https://aarddict.org) allows you to do. It's a libre app ava
 
 A lot of Android phones come stock with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive this information using a pair of headphones plugged in to the phone, as it typically uses the headphone cable as an antenna to receive the signal. You can also use any other 3.5mm jack component such as:
 
-* a microphone
-* computer loudspeakers
-* a jack extension cord
-* even just a broken version of the above
+* A microphone
+* Computer loudspeakers
+* A jack extension cord
+* Even just a broken version of the above
 
 Be sure to have the radio app redirect the sound towards the phone integrated loudspeaker if you plug something that can't actually produce sound, as the default behavior is to direct the sound to the plugged headphones.
 
