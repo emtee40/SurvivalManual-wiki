@@ -59,7 +59,7 @@ Each category should contain items that allow you to sustain your basic needs. F
 
 ## Food
 
-* knife - **can be the one on your MultiTool**
+* knife - can be the one on your MultiTool
 * snare wire
 * fishhooks
 * fish and snare line
