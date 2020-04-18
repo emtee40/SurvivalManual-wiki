@@ -1,5 +1,7 @@
 > A phone can be a versatile tool when you install and use the right apps. 
 
+> Make sure you check that the apps work offline.
+
 ### Angles
 
 A majority of phones are fitted with a tilt sensor. The [Angulo](https://www.domob.eu/projects/angulo.php) app can take advantage of these sensors to measure angles, which you can then convert into distances using a calculator app.
