@@ -12,9 +12,6 @@ This app is free and libre software under GPLv3. You can find the source code [o
 
 If you have a question please check out [the FAQs](FAQ) - perhaps your question is already answered there.
 
-If you have any feedback or a question please join the [Google+ community](https://plus.google.com/b/103953721589307612391/communities/112461702014401198208)
-I would also love it if people could share their adventures in pictures and or text there!
-
 Thanks to everyone that made this app possible! You can find some of them [in the credits](Credits).
 
 If you want to support this app: Please rate it and maybe have a look at the support options on [my homepage](http://ligi.de) or get some of the survival equipment you still need via my Amazon affiliate links (like the [Solar USB Charger](SolarUSBCharger), [Lifestraw water filter](LifeStraw), [Leatherman OHT MultiTool](OHTMultiTool))
