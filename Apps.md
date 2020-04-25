@@ -7,7 +7,7 @@ A majority of phones are fitted with a tilt sensor. The [Angulo](https://www.dom
 
 ### Appstore / F-Droid
 
-The Google Play store may not work. [F-Droid.org](http://fdroid.org) allows you to point to alternative repositories. While using the default repository, you can be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) - as are all apps mentioned here.  Also, learn how to "sideload", or install apps without going through an app store directly. Using F-Droid, for example, people can exchange their installed apps via Bluetooth.
+The Google Play store may not work. [F-Droid.org](https://f-droid.org) allows you to point to alternative repositories. While using the default repository, you can be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) - as are all apps mentioned here.  Also, learn how to "sideload", or install apps without going through an app store directly. Using F-Droid, for example, people can exchange their installed apps via Bluetooth.
 
 ### Barcode scanner
 
