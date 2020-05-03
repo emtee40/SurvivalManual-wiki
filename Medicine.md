@@ -23,7 +23,7 @@ Dehydration results from inadequate replacement of lost body fluids. It decrease
 
 The most common signs and symptoms of dehydration are:
 
-* Dark urine with a very strong odor. (Generally, the darker the urine, the more dehydrated you are.)
+* Dark urine with a very strong odor (Generally, the darker the urine, the more dehydrated you are).
 * Low urine output.
 * Dark, sunken eyes.
 * Fatigue.
@@ -31,7 +31,7 @@ The most common signs and symptoms of dehydration are:
 * Loss of skin elasticity.
 * Delayed capillary refill in fingernail beds.
 * Trench line down center of tongue.
-* Thirst. (Last on the list because you are already 2-percent dehydrated by the time you crave fluids.)
+* Thirst (Last on the list because you are already 2-percent dehydrated by the time you crave fluids).
 
 You should replace water as you lose it. Trying to make up a deficit is difficult in a survival situation, and thirst is not a sign of how much water you need.
 
