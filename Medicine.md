@@ -345,7 +345,7 @@ Insects and related pests are hazards in a survival situation. They not only cau
 
 The best way to avoid the complications of insect bites and stings is to keep immunizations (including booster shots) up-to-date, avoid insect-infested areas, use netting and insect repellent, and wear all clothing properly.
 
-If you are bitten or stung, do not scratch the bite or sting; it might become infected. Inspect your body at least once a day to ensure there are no insects attached to you. If you find ticks attached to your body, cover them with a substance (such as petroleum jelly, heavy oil, or tree sap) that will cut off their air supply. Without air, the tick releases its hold, and you can remove it. Take care to remove the whole tick. Use tweezers if you have them. Grasp the tick where its mouthparts are attached to the skin. Do not squeeze the tick's body. Wash your hands after touching the tick. Clean the tick wound daily until healed.
+If you are bitten or stung, do not scratch the bite or sting, it might become infected. Inspect your body at least once a day to ensure there are no insects attached to you. If you find ticks attached to your body, cover them with a substance (such as petroleum jelly, heavy oil, or tree sap) that will cut off their air supply. Without air, the tick releases it's hold, and you can remove it. Take care to remove the whole tick. Use tweezers if you have them. Grasp the tick where it's mouthparts are attached to the skin. Do not squeeze the tick's body. Wash your hands after touching the tick. Clean the tick wound daily until healed.
 
 **TREATMENT**
 
