@@ -374,7 +374,7 @@ Relieve the itching and discomfort caused by insect bites by applying:
 
 **SPIDER BITES AND SCORPION STINGS**
 
-The black widow spider is identified by a red hourglass on its abdomen. Only the female bites, and it has a neurotoxic venom. The initial pain is not severe, but severe local pain rapidly develops. The pain gradually spreads over the entire body and settles in the abdomen and legs. Abdominal cramps and progressive nausea, vomiting, and a rash may occur. Weakness, tremors, sweating, and salivation may occur. Anaphylactic reactions can occur. Symptoms may worsen for the next three days and then begin to subside for the next week. Treat for shock. Be ready to perform CPR. Clean and dress the bite area to reduce the risk of infection. An antivenin is available.
+The black widow spider is identified by a red hourglass on it's abdomen. Only the female bites, and it has a neurotoxic venom. The initial pain is not severe, but severe local pain rapidly develops. The pain gradually spreads over the entire body and settles in the abdomen and legs. Abdominal cramps and progressive nausea, vomiting, and a rash may occur. Weakness, tremors, sweating, and salivation may occur. Anaphylactic reactions can occur. Symptoms may worsen for the next three days and then begin to subside for the next week. Treat for shock. Be ready to perform CPR. Clean and dress the bite area to reduce the risk of infection. An antivenin is available.
 
 The funnel web spider is a large brown or gray spider found in Australia. The symptoms and the treatment for its bite are identical to the black widow spider.
 
@@ -417,10 +417,10 @@ If you determine that a poisonous snake bit an individual, take the following st
 
 You should also remember four very important guidelines during the treatment of snakebites. **Do not**:
 
-* Give the victim alcoholic beverages or tobacco products. Never give atropine! Give morphine or other central nervous system (CNS) depressors.
+* Give the victim alcoholic beverages or tobacco products. Never give atropine! - Give morphine or other central nervous system (CNS) depressors.
 * Make any deep cuts at the bite site. Cutting opens capillaries that in turn open a direct route into the blood stream for venom and infection.
 
-**NOTE:** If medical treatment is over 1 hour away, make an incision (no longer than 6 millimeters [1/4 inch] and no deeper than 3 millimeters [1/8 inch]) over each puncture, cutting just deep enough to enlarge the fang opening, but only through the first or second layer of skin. Place a suction cup over the bite so that you have a good vacuum seal. Suction the bite site 3 to 4 times. Suction for a **MINIMUM of 30 MINUTES.** Use mouth suction **only** as a last resort and **only** if you do not have open sores in your mouth. Spit the envenomed blood out and rinse your mouth with water. This method will draw out 25 to 30 percent of the venom.
+**NOTE:** If medical treatment is over 1 hour away, make an incision (no longer than 6 millimeters [1/4 inch] and no deeper than 3 millimeters [1/8 inch]) over each puncture, cutting just deep enough to enlarge the fang opening, but only through the first or second layer of skin. Place a suction cup over the bite so that you have a good vacuum seal. Suction the bite site 3 to 4 times. Suction for a **MINIMUM of 30 MINUTES**. Use mouth suction **only** as a last resort and **only** if you do not have open sores in your mouth. Spit the envenomed blood out and rinse your mouth with water. This method will draw out 25 to 30 percent of the venom.
 
 * Don't put your hands on your face or rub your eyes, as venom may be on your hands. Venom may cause blindness.
 * Break open the large blisters that form around the bite site.
