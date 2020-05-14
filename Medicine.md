@@ -354,7 +354,7 @@ It is impossible to list the treatment of all the different types of bites and s
 * If antibiotics are available for your use, become familiar with them before deployment and use them.
 * Predeployment immunizations can prevent most of the common diseases carried by mosquitoes and some carried by flies.
 * The common fly-borne diseases are usually treatable with penicillins or erythromycin.
-* Most tick-, flea-, louse-, and mite-borne diseases are treatable with tetracycline.
+* Most tick, flea, louse, and mite-borne diseases are treatable with tetracycline.
 * Most antibiotics come in 250 milligram (mg) or 500 mg tablets. If you cannot remember the exact dose rate to treat a disease, 2 tablets, 4 times a day, for 10 to 14 days will usually kill any bacteria. (80 to 112 tablets total.)
 
 **BEE AND WASP STINGS**
