@@ -61,8 +61,8 @@ You can estimate fluid loss by several means. A field dressing holds about 0.25 
 You can also use the pulse and breathing rate to estimate fluid loss. Use the following as a guide:
 
 * With a 0.75-liter loss the wrist pulse rate will be under 100 beats per minute and the breathing rate 12 to 20 breaths per minute.
-* With a 0.75- to 1.5-liter loss the pulse rate will be 100 to 120 beats per minute and 20 to 30 breaths per minute.
-* With a 1.5- to 2-liter loss the pulse rate will be 120 to 140 beats per minute and 30 to 40 breaths per minute. Vital signs above these rates require advanced care.
+* With a 0.75 to 1.5-liter loss the pulse rate will be 100 to 120 beats per minute and 20 to 30 breaths per minute.
+* With a 1.5 to 2-liter loss the pulse rate will be 120 to 140 beats per minute and 30 to 40 breaths per minute. Vital signs above these rates require advanced care.
 
 Make sure the water you drink does not contain harmful contaminants. Ideally carry [a LifeStraw](LifeStraw) as part of [your kit](Kits) to filter the water. Read more about it in the [water chapter](Water)
 
