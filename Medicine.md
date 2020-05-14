@@ -209,7 +209,7 @@ You can control external bleeding by direct pressure, indirect (pressure points)
 
 The most effective way to control external bleeding is by applying pressure directly over the wound. This pressure must not only be firm enough to stop the bleeding, but it must also be maintained long enough to "seal off" the damaged surface.
 
-If bleeding continues after having applied direct pressure for 30 minutes, apply a pressure dressing. This dressing consists of a thick dressing of gauze or other suitable material applied directly over the wound and held in place with a tightly wrapped bandage ([Figure 4-2](#fig4-2)). It should be tighter than an ordinary compression bandage but not so tight that it impairs circulation to the rest of the limb. Once you apply the dressing, **do not remove it,** even when the dressing becomes blood soaked.
+If bleeding continues after having applied direct pressure for 30 minutes, apply a pressure dressing. This dressing consists of a thick dressing of gauze or other suitable material applied directly over the wound and held in place with a tightly wrapped bandage ([Figure 4-2](#fig4-2)). It should be tighter than an ordinary compression bandage but not so tight that it impairs circulation to the rest of the limb. Once you apply the dressing, **do not remove it**, even when the dressing becomes blood soaked.
 
 <a name="fig4-2"></a>![Figure 4-2\. Application of a Pressure Dressing](fig04-02.png)
 
