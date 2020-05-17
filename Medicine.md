@@ -516,7 +516,7 @@ Remember, treat rashes as open wounds; clean and dress them daily. There are man
 
 The following field treatment for burns relieves the pain somewhat, seems to help speed healing, and offers some protection against infection:
 
-* First, stop the burning process. Put out the fire by removing clothing, dousing with water or sand, or by rolling on the ground. Cool the burning skin with ice or water. For burns caused by white phosphorous, pick out the white phosphorous with tweezers; do not douse with water.
+* First, stop the burning process. Put out the fire by removing clothing, dousing with water or sand, or by rolling on the ground. Cool the burning skin with ice or water. For burns caused by white phosphorous, pick out the white phosphorous with tweezers. Do not douse with water.
 * Soak dressings or clean rags for 10 minutes in a boiling tannic acid solution (obtained from tea, inner bark of hardwood trees, or acorns boiled in water).
 * Cool the dressings or clean rags and apply over burns. Sugar and honey also work for burns with honey being especially effective at promoting new skin growth and stopping infections. Use both as you would in an open wound above.
 * Treat as an open wound.
@@ -555,7 +555,7 @@ You can expect the following symptoms during cooling:
 
 **CHILBLAINS**
 
-Frostnip begins as firm, cold, white or gray areas on the face, ears, and extremities. They can blister or peel just like sunburn as late as 2 to 3 days after the injury. Frostnip, or chilblains as it is sometimes called, is the result of tissue exposure to freezing temperatures and is the beginning of frostbite. The water in and around the cells freezes, rupturing cell walls and thus damaging the tissue. Warming the affected area with hands or a warm object treats this injury. Wind chill plays a factor in this injury; preventative measures include layers of dry clothing and protection against wetness and wind.
+Frostnip begins as firm, cold, white or gray areas on the face, ears, and extremities. They can blister or peel just like sunburn as late as 2 to 3 days after the injury. Frostnip, or chilblains as it is sometimes called, is the result of tissue exposure to freezing temperatures and is the beginning of frostbite. The water in and around the cells freezes, rupturing cell walls and thus damaging the tissue. Warming the affected area with hands or a warm object treats this injury. Wind chill plays a factor in this injury, preventative measures include layers of dry clothing and protection against wetness and wind.
 
 **TRENCH FOOT**
 
@@ -567,13 +567,13 @@ This injury results from frozen tissues. Frostbite extends to a depth below the 
 
 When with others, prevent frostbite by using the buddy system. Check your buddy's face often and make sure that he checks yours. If you are alone, periodically cover your nose and lower part of your face with your mittens.
 
-Do not try to thaw the affected areas by placing them close to an open flame. Frostbitten tissue may be immersed in 37 to 42 degrees C (99 to 109 degrees F) water until thawed. (Water temperature can be determined with the inside wrist or baby formula method.) Dry the part and place it next to your skin to warm it at body temperature.
+Do not try to thaw the affected areas by placing them close to an open flame. Frostbitten tissue may be immersed in 37 to 42 degrees C (99 to 109 degrees F) water until thawed. (Water temperature can be determined with the inside wrist or baby formula method). Dry the part and place it next to your skin to warm it at body temperature.
 
 **HYPOTHERMIA**
 
 It is defined as the body's failure to maintain an inner core temperature of 36 degrees C (97 degrees F). Exposure to cool or cold temperature over a short or long time can cause hypothermia. Dehydration and lack of food and rest predispose the survivor to hypothermia.
 
-Immediate treatment is the key. Move the victim to the best shelter possible away from wind, rain, and cold. Remove all wet clothes and get the victim into dry clothing. Replace lost fluids with warm fluids, and warm him in a sleeping bag using two people (if possible) providing skin-to-skin contact. If the victim is unable to drink warm fluids, rectal rehydration may be used.
+Immediate treatment is the key. Move the victim to the best shelter possible away from wind, rain, and cold. Remove all wet clothes and get the victim into dry clothing. Replace lost fluids with warm fluids, and warm him in a sleeping bag using two people (if possible), providing skin-to-skin contact. If the victim is unable to drink warm fluids, rectal rehydration may be used.
 
 **DIARRHEA**
 
@@ -589,7 +589,7 @@ You can usually avoid worm infestations and other intestinal parasites if you ta
 
 * _Salt water._ Dissolve 4 tablespoons of salt in 1 liter of water and drink. Do not repeat this treatment.
 * _Tobacco._ Eat 1 to 1 1/2 cigarettes or approximately 1 teaspoon (pinch) of smokeless tobacco. The nicotine in the tobacco will kill or stun the worms long enough for your system to pass them. If the infestation is severe, repeat the treatment in 24 to 48 hours, **but no sooner**.
-* _Kerosene._ Drink 2 tablespoons of kerosene, **but no more**. If necessary, you can repeat this treatment in 24 to 48 hours. Be careful not to inhale the fumes. They may cause lung irritation.
+* _Kerosene._ Drink 2 tablespoons of kerosene, **but no more**. If necessary, you can repeat this treatment in 24 to 48 hours. **Be careful not to inhale the fumes, they may cause lung irritation.**
 
 **NOTE:** Tobacco and kerosene treatment techniques are very dangerous, be careful.
 
@@ -598,7 +598,7 @@ You can usually avoid worm infestations and other intestinal parasites if you ta
 
 ### HERBAL MEDICINES
 
-Our modern wonder drugs, laboratories, and equipment have obscured more primitive types of medicine involving determination, common sense, and a few simple treatments. However, in many areas of the world the people still depend on local "witch doctors" or healers to cure their ailments. Many of the herbs (plants) and treatments they use are as effective as the most modern medications available. In fact, many modern medications come from refined herbs.
+Our modern wonder drugs, laboratories, and equipment have obscured more primitive types of medicine involving determination, common sense, and a few simple treatments. However, in many areas of the world the people still depend on local "witch doctors" or "healers" to cure their ailments. Many of the herbs (plants) and treatments they use are as effective as the most modern medications available. In fact, many modern medications come from refined herbs.
 
 > **WARNING**
 > 
