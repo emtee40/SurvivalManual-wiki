@@ -23,7 +23,7 @@ I just take the next clean trouser.
 This also makes washing easier and uses less cognitive resources.
 Knowing all the pockets all the time is also a big plus and the one I wear even has a nice mount-point for my MultiTool holster.
 So it is easier to change than it would with a belt.
-In a survival situation durable clothes are also a real plus as you might not be able to easily shop new ones.
+**In a survival situation durable clothes are also a real plus as you might not be able to easily shop new ones.**
 
 ### SHELTER SITE SELECTION
 
