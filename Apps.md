@@ -91,7 +91,7 @@ Install an offline working dictionary, along with the languages that you are mos
 
 Smartphones allow you to carry not just one book, but your entire library. So why not bringing a full encyclopedia, just in case.
 
-This is what [Aard](https://aarddict.org) allows you to do. It's a libre app available on F-Droid.org. You'll have to separately download the Wikipedia copies you want. They are available in many languages.
+This is what [Aard 2](https://aarddict.org) allows you to do. It's a libre app available on F-Droid.org. You'll have to separately download the Wikipedia copies you want. They are available in many languages.
 
 ### Radio
 
