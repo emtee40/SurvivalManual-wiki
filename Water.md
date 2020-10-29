@@ -20,15 +20,15 @@ Sea ice that is gray in color or opaque is salty. Do not use it without desaltin
     * **Remarks:** Do not drink seawater without desalting!
   * **Rain**
     * **Means of obtaining and/or making potable:** Catch rain in tarps or in other water-holding containers.
-    * **Remarks:** If tarp or water-holding material is coated with salt, wash it in the sea before using (very littler salt will remain on it).
+    * **Remarks:** If tarp or water-holding material is coated with salt, wash it in the sea before using (less salt will remain on it).
   * **Sea ice**
     * **Remarks:** See previous remarks for frigid areas.
 * **Beach**
   * **Ground**
     * **Means of obtaining and/or making potable:** Dig hole deep enough to allow water to seep in; obtain rocks, build fire, and heat rocks; drop hot rocks in water; hold cloth over hole to absorb steam; wring water from cloth.
-    * **Remarks:** Alternate method if a container or bark pot is available: Fill container or pot with seawater; build fire and boil water to produce steam; hold cloth over container to absorb steam; wring water from cloth.
+    * **Remarks:** Alternate method if a container or bark pot is available: Fill container or pot with seawater; build fire and boil water to produce steam; hold a cloth over the container to absorb steam; wring water from the cloth.
   * **Fresh**
-    * **Means of obtaining and/or making potable:** Dig behind first group of sand dunes. This will allow the collection of fresh water.
+    * **Means of obtaining and/or making potable:** Dig behind the first group of sand dunes. This will allow the collection of freshwater.
 * **Desert**
   * **Sources of water:**
     * In valleys and low areas
@@ -67,7 +67,7 @@ Fluid | Remarks
 Alcoholic beverages | Dehydrate the body and cloud judgement.
 Urine | Contains harmful body wastes. Is about 2 percent salt.
 Blood | Is salty and considered a food; therefore, requires additional body fluids to digest. May transmit disease.
-Seawater | Is about 4 percent salt. It takes about 2 liters of body fluids to rid the body of waster from 1 liter of seawater. Therefore, by drinking seawater you deplete your body's water supply, which can cause death.
+Seawater | Is about 4 percent salt. It takes about 2 liters of body fluids to rid the body of waster from 1 liter of seawater. Therefore, by drinking seawater, you deplete your body's water supply, which can cause death.
 
 Heavy dew can provide water. Tie rags or tufts of fine grass around your ankles and walk through dew-covered grass before sunrise. As the rags or grass tufts absorb the dew, wring the water into a container. Repeat the process until you have a supply of water or until the dew is gone. Australian natives sometimes mop up as much as 1 liter an hour this way.
 
