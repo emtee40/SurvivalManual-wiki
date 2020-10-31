@@ -66,7 +66,8 @@ The famous SOS distress signal is ubiquitous, and indicates that you need to be 
 
 This exchange could be achieved using a Morse signal generator app, like the libre [Androidomatic-Keyer (AKA)](https://github.com/sussman/androidomatic-keyer). Andromatic-Keyer allows you to type your message (English is the International Morse tradition, but broken English works fine, as well) and the app will play the corresponding sound using the loudspeaker of the phone. 
 
-I submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature request may need your help to gain traction.
+I submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature request may need your help to gain traction. This feature is available on [Trailsense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
+
 
 ### Music
 
@@ -119,3 +120,10 @@ In survival situations, as stated in the [Psycology](Psychology) chapter, you wi
 ### Tea app
 
 I recommend [Material Tea timer](https://github.com/ligi/MaterialTeaTimer) (Full disclosure: I am the developer of Material Tea Timer). Tea or infusions in general will be useful in many dire situations.
+
+### Trailsense
+Navigation - The compass can be used to determine the direction to North, and when combined with the GPS it can be used to navigate to predefined locations. The predefined locations, known as beacons, can be created while at a location and at any point you can use the compass to navigate back to where the beacon was placed.
+
+Weather - The barometer can be used to determine if the weather will change soon and if a storm is likely to occur. The barometric pressure history (last 48 hours) is displayed as a graph and an interpretation of the current reading is shown. If the pressure suddenly drops, a storm alert notification is sent.
+
+[Trail sense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
