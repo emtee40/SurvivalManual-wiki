@@ -29,7 +29,7 @@ You can also take pictures of the place you are, to help find your way back to i
 
 ### Compass
 
-Directions can be useful, learn how to read a compass and how to navigate using it. It may be easier to learn with a real compass and then reproduce it with your phone.
+Directions can be useful, learn how to read a compass and how to navigate using it. It may be easier to learn with a real compass and then reproduce it with your phone. A compass is included in [Trailsense](https://github.com/ligi/SurvivalManual/wiki/Apps#trailsense)
 
 ### Cryptocurrency 
 
@@ -47,7 +47,7 @@ I recommend [gobandroid](https://github.com/ligi/gobandroid) [full disclosure: I
 
 ### Light 
 
-A phone's flashlight can bring light into the dark when you do not have a real flashlight on you. There are many flashlight apps on f-droid.
+A phone's flashlight can bring light into the dark when you do not have a real flashlight on you. There are many flashlight apps on f-droid. Including [Trail Sense](https://github.com/ligi/SurvivalManual/wiki/Apps#trailsense)
 
 ### Maps / Navigation
 
