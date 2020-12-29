@@ -15,7 +15,7 @@ In a more day-to-day approach, one can stumble upon a fragment of barcode withou
 
 Barcodes are also used in their two dimensional form (like QR codes) to easily import cryptographic public keys or URLs into smartphones using the camera.
 
-[Barcode scanner](https://github.com/zxing/zxing) is a libre app available on F-Droid.org that will read barcodes.
+[Barcode scanner](https://github.com/zxing/zxing) or [Binary Eye](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/) are libre apps available on F-Droid.org that will read barcodes.
 
 ### Calculators
 
