@@ -43,6 +43,16 @@ I recommend [gobandroid](https://github.com/ligi/gobandroid) [full disclosure: I
 
 [Sokoban](https://github.com/mobilepearls/com.mobilepearls.sokoban) is an ancient Japanese puzzle game in which you push jewels into target zones through different maps. Be careful that you don't corner yourself or the jewels! The game provides 354 levels, sorted by difficulty, and may provide mental stimulation for years.
 
+[Shattered Pixel Dungeon](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon) is a mobile dungeon crawler roguelike with very good pixel art graphics. "Every game is unique, with four different playable characters, randomized levels
+and enemies, and over 150 items to collect and use." It's also updated frequently!
+
+[Minetest](https://f-droid.org/en/packages/net.minetest.minetest) is "a near infinite world block sandbox game and a game engine, inspired
+by InfiniMiner, Minecraft and the like." The default Minetest game that comes with Minetest is rather bland, be sure to download some mods (such as Mesecons, mobs, and hunger) and/or some games (such as [Mineclone 2](https://content.minetest.net/packages/Wuzzy/mineclone2/): a clone of Minecraft gameplay in the Minetest engine, with libre code and graphics, or [Nodecore](https://content.minetest.net/packages/Warr1024/nodecore/): a voxel sandbox game with no fancy GUI and a limited inventory, where crafting takes place in-world instead of on a crafting table in a menu, and furnaces have to be designed and constructed.)
+
+[Lichess](https://lichess.org/mobile) isn't on F-droid yet, but it's open source and the APK can be downloaded from their website. A lot of functionality is online, but when the app is in offline mode it can be used to play chess against the computer or against a friend by using your phone as a chess board.
+
+[Space Trader](https://f-droid.org/en/packages/com.brucelet.spacetrader/) is a game that's all about traveling to different star systems and making money trading stuff, in space. There's no 3D graphics, though, you just choose a star system and trade stuff. It hasn't been updated since 2019-02-05, but it's pretty fun.
+
 **Make sure that the games work offline. Also, be careful not to run out of battery when you really need it.**
 
 ### Light 
