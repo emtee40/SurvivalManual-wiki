@@ -80,7 +80,7 @@ I submitted a [feature request](https://github.com/sussman/androidomatic-keyer/i
 
 This feature is available on [Trailsense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) and on [Crazy Marvin's Morse app](https://github.com/Crazy-Marvin/Morse), which can play typed messages in Morse using the speaker, the flashlight, or by flashing the phone's screen white.
 
-[Trailsense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) has the limited Morse ability to flash an SOS signal with the flashlight or the whistle (Although to my {ElonSatoshi} experience the whistle goes BEEEEEP BEEEEEP BEEEEEP instead of BEEP BEEP BEEP BEEEEEP BEEEEEP BEEEEEP)
+[Trailsense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) has the limited Morse ability to flash an SOS signal with the flashlight or the whistle (Although in my {ElonSatoshi} experience the whistle goes BEEEEEP BEEEEEP BEEEEEP instead of BEEP BEEP BEEP BEEEEEP BEEEEEP BEEEEEP BEEP BEEP BEEP)
 
 ### Music
 
