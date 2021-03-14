@@ -74,10 +74,13 @@ You can broadcast a Morse signal farther than you can project your voice, and li
 
 The famous SOS distress signal is ubiquitous, and indicates that you need to be rescued: dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But beyond this knowledge, Morse code could be useful for exchanging further information about your situation. For instance, if you are trapped in a cave: what do you need first? Are there people in your group that need special assistance?
 
-This exchange could be achieved using a Morse signal generator app, like the libre [Androidomatic-Keyer (AKA)](https://github.com/sussman/androidomatic-keyer). Andromatic-Keyer allows you to type your message (English is the International Morse tradition, but broken English works fine, as well) and the app will play the corresponding sound using the loudspeaker of the phone. 
+This exchange could be achieved using a Morse signal generator app, like the libre [Androidomatic-Keyer (AKA)](https://github.com/sussman/androidomatic-keyer). Andromatic-Keyer allows you to type your message (English is the International Morse tradition, but broken English works fine, as well) and the app will play the corresponding sound using the loudspeaker of the phone.
 
-I submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature request may need your help to gain traction. This feature is available on [Trailsense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
+I submitted a [feature request](https://github.com/sussman/androidomatic-keyer/issues/31) to have AKA play the code using the flashlight, but this feature request may need your help to gain traction.
 
+This feature is available on [Trailsense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) and on [Crazy Marvin's Morse app](https://github.com/Crazy-Marvin/Morse), which can play typed messages in Morse using the speaker, the flashlight, or by flashing the phone's screen white.
+
+[Trailsense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) has the limited Morse ability to flash an SOS signal with the flashlight or the whistle (Although to my {ElonSatoshi} experience the whistle goes BEEEEEP BEEEEEP BEEEEEP instead of BEEP BEEP BEEP BEEEEEP BEEEEEP BEEEEEP)
 
 ### Music
 
