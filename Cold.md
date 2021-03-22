@@ -12,7 +12,7 @@ Within the cold weather regions, you may face two types of cold weather environm
 
 **WET COLD WEATHER ENVIRONMENTS**
 
- Wet cold weather conditions exist when the average temperature in a 24-hour period is -10 degrees C (14 degrees F) or above. Characteristics of this condition are freezing during the colder night hours and thawing during the day. Although the temperatures are warmer during this condition, the terrain is usually very sloppy due to slush and mud. You must concentrate on protecting yourself from the wet ground and from freezing rain or wet snow.
+ Wet cold weather conditions exist when the average temperature in a 24-hour period is -10 degrees C (14 degrees F) or below. Characteristics of this condition are freezing during the colder night hours and thawing during the day. Although the temperatures are warmer during this condition, the terrain is usually very sloppy due to slush and mud. You must concentrate on protecting yourself from the wet ground and from freezing rain or wet snow.
 
 **DRY COLD WEATHER ENVIRONMENTS**
 
