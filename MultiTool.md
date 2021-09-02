@@ -17,7 +17,7 @@ But there are also special tools like: bit-drivers, whistle, scissors, Ferroceri
 
 If you use a MultiTool in everyday life, then you will know how to use it in a survival situation. The seconds you are faster and the confidence you have in your tool can decide between life and death.
 
-## Which Multi-Tool should I use?
+## Which MultiTool should I use?
 
 ### Leatherman
 
