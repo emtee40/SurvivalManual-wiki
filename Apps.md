@@ -1,5 +1,5 @@
 > A phone can be a versatile tool when you install and use the right apps. 
-**Make sure you check that the apps work offline, since you probably won't have internet connection.**
+**Make sure you check that the apps work offline since you probably won't have an internet connection.**
 
 ### Angles
 
@@ -11,9 +11,9 @@ The Google Play store may not work. [F-Droid.org](https://f-droid.org) allows yo
 
 ### Barcode scanner
 
-In a more day-to-day approach, one can stumble upon a fragment of barcode without the human readable cipher part and can use a smartphone to get the information back.
+In a more day-to-day approach, one can stumble upon a fragment of barcode without the human-readable cipher part and can use a smartphone to get the information back.
 
-Barcodes are also used in their two dimensional form (like QR codes) to easily import cryptographic public keys or URLs into smartphones using the camera.
+Barcodes are also used in their two-dimensional form (like QR codes) to easily import cryptographic public keys or URLs into smartphones using the camera.
 
 [Barcode scanner](https://github.com/zxing/zxing) or [Binary Eye](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/) are libre apps available on F-Droid.org that will read barcodes.
 
@@ -33,7 +33,7 @@ Directions can be useful, learn how to read a compass and how to navigate using 
 
 ### Cryptocurrency 
 
-In a situation where fiat money/banks are no longer a viable option, it may be best to have a [cryptocurrency wallet like WallETH](https://walleth.org) or [Electrum](https://electrum.org/) already set up. Transfer a small amount onto it now and learn how to use it for later. For even better security, utilize a hardware wallet like the [TREZOR](https://shop.trezor.io?a=walleth.org). You can also use the TREZOR (including the new model T) together with WallETH on your phone. If you are concerned about the volatility of crypto-currencies, you may want to research stable coins like [DAI](https://dai.makerdao.com).
+In a situation where fiat money/banks are no longer a viable option, it may be best to have a [cryptocurrency wallet like WallETH](https://walleth.org) or [Electrum](https://electrum.org/) already set up. Transfer a small amount onto it now and learn how to use it for later. For even better security, utilize a hardware wallet like the [TREZOR](https://shop.trezor.io?a=walleth.org). You can also use the TREZOR (including the new model T) together with WallETH on your phone. If you are concerned about the volatility of cryptocurrencies, you may want to research stable coins like [DAI](https://dai.makerdao.com).
 
 ### Games
 
@@ -49,19 +49,21 @@ and enemies, and over 150 items to collect and use." It's also updated frequentl
 [Minetest](https://f-droid.org/en/packages/net.minetest.minetest) is "a near infinite world block sandbox game and a game engine, inspired
 by InfiniMiner, Minecraft and the like." The default Minetest game that comes with Minetest is rather bland, be sure to download some mods (such as Mesecons, mobs, and hunger) and/or some games (such as [Mineclone 2](https://content.minetest.net/packages/Wuzzy/mineclone2/): a clone of Minecraft gameplay in the Minetest engine, with libre code and graphics, or [Nodecore](https://content.minetest.net/packages/Warr1024/nodecore/): a voxel sandbox game with no fancy GUI and a limited inventory, where crafting takes place in-world instead of on a crafting table in a menu, and furnaces have to be designed and constructed.)
 
-[Lichess](https://lichess.org/mobile) isn't on F-droid yet, but it's open source and the APK can be downloaded from their website. A lot of functionality is online, but when the app is in offline mode it can be used to play chess against the computer or against a friend by using your phone as a chess board.
+[Lichess](https://lichess.org/mobile) isn't on F-Droid yet, but it's open-source and the APK can be downloaded from their website. A lot of functionality is online, but when the app is in offline mode it can be used to play chess against the computer or against a friend by using your phone as a chessboard.
 
 [Space Trader](https://f-droid.org/en/packages/com.brucelet.spacetrader/) is a game that's all about traveling to different star systems and making money trading stuff, in space. There's no 3D graphics, though, you just choose a star system and trade stuff. It hasn't been updated since 2019-02-05, but it's pretty fun.
+
+[Simon Tatham’s Portable Puzzle Collection](https://chris.boyle.name/projects/android-puzzles/) has 39 singleplayer puzzles including variations of popular games such as Mastermind, sudoku, and Minesweeper. The APK isn’t available on F-Droid – instead, it can be installed from Google Play or downloaded directly from Chris Boyle’s website, or the [GitHub repository](https://github.com/chrisboyle/sgtpuzzles).
 
 **Make sure that the games work offline. Also, be careful not to run out of battery when you really need it.**
 
 ### Light 
 
-A phone's flashlight can bring light into the dark when you do not have a real flashlight on you. There are many flashlight apps on f-droid. Including [Trail Sense](https://github.com/ligi/SurvivalManual/wiki/Apps#trailsense)
+A phone's flashlight can bring light into the dark when you do not have a real flashlight on you. There are many flashlight apps on F-Droid. Including [Trail Sense](https://github.com/ligi/SurvivalManual/wiki/Apps#trailsense)
 
 ### Maps / Navigation
 
-Have a mapping and navigation solution that can work offline like [OsmAnd](http://osmand.net). Download the data for your area and any other areas that you may need. Try it out offline (enable airplane mode). It may take a little longer to acquire GPS signal, but you want to make sure it works now, in advance of the need for it to work later.
+Have a mapping and navigation solution that can work offline like [OsmAnd](http://osmand.net). Download the data for your area and any other areas that you may need. Try it out offline (enable airplane mode). It may take a little longer to acquire a GPS signal, but you want to make sure it works now, in advance of the need for it to work later.
 
 ### Morse signal
 
@@ -72,7 +74,7 @@ Morse signal is easy to transmit, even without special gear. It can be transmitt
 
 You can broadcast a Morse signal farther than you can project your voice, and likely using less energy.
 
-The famous SOS distress signal is ubiquitous, and indicates that you need to be rescued: dot dot dot, dash, dash, dash, dot dot dot (... - - - ...). But beyond this knowledge, Morse code could be useful for exchanging further information about your situation. For instance, if you are trapped in a cave: what do you need first? Are there people in your group that need special assistance?
+The famous SOS distress signal is ubiquitous, and indicates that you need to be rescued: dot dot dot, dash, dash, dash, dot dot dot (**• • • — — — • • •**). But beyond this knowledge, Morse code could be useful for exchanging further information about your situation. For instance, if you are trapped in a cave: what do you need first? Are there people in your group that need special assistance?
 
 This exchange could be achieved using a Morse signal generator app, like the libre [Androidomatic-Keyer (AKA)](https://github.com/sussman/androidomatic-keyer). Andromatic-Keyer allows you to type your message (English is the International Morse tradition, but broken English works fine, as well) and the app will play the corresponding sound using the loudspeaker of the phone.
 
@@ -103,7 +105,7 @@ Install an offline working dictionary, along with the languages that you are mos
 
 ### Offline encyclopedia
 
-Smartphones allow you to carry not just one book, but your entire library. So why not bringing a full encyclopedia, just in case.
+Smartphones allow you to carry not just one book, but your entire library. So why not bring a full encyclopedia, just in case.
 
 This is what [Aard 2](https://aarddict.org) allows you to do. It's a libre app available on F-Droid.org. You'll have to separately download the Wikipedia copies you want. They are available in many languages.
 
@@ -124,19 +126,20 @@ Install PDF or eBook readers and download some books or manuals.
 
 [Document Viewer](https://github.com/PrivacyApps/document-viewer) is a libre app available from F-Droid.org for reading PDF documents, as well as OpenXPS, ComicBook CBZ, FictionBook FB, etc.
 
-Every phone is equipped with enough storage memory to hold thousands of text books, and many are already in the public domain. The [Gutenberg Project](https://www.gutenberg.org/) has gathered over 56,000 of them, and there's a top 100 selection to help you make your choice.
+Every phone is equipped with enough storage memory to hold thousands of textbooks, and many are already in the public domain. The [Gutenberg Project](https://www.gutenberg.org/) has gathered over 56,000 of them, and there's a top 100 selection to help you make your choice.
 
 ### Recorder
 
-In survival situations, as stated in the [Psycology](Psychology) chapter, you will get yourself in a stable situation more easily by keeping the willpower to fight on. To keep going, many people in a survival situation write diaries to combat loneliness and keep track of their life and its unexpected events. If you have a power source, your smartphone can be a reliable Dictaphone if you lack paper to write on. Be aware, however, that you should remove any password or lock codes from your phone if you want others to access it later.
+In survival situations, as stated in the [Psychology](Psychology) chapter, you will get yourself in a stable situation more easily by keeping the willpower to fight on. To keep going, many people in a survival situation write diaries to combat loneliness and keep track of their life and its unexpected events. If you have a power source, your smartphone can be a reliable Dictaphone if you lack paper to write on. Be aware, however, that you should remove any password or lock codes from your phone if you want others to access it later.
 
 ### Tea app
 
 I recommend [Material Tea timer](https://github.com/ligi/MaterialTeaTimer) (Full disclosure: I am the developer of Material Tea Timer). Tea or infusions in general will be useful in many dire situations.
 
 ### Trailsense
-Navigation - The compass can be used to determine the direction to North, and when combined with the GPS it can be used to navigate to predefined locations. The predefined locations, known as beacons, can be created while at a location and at any point you can use the compass to navigate back to where the beacon was placed.
 
-Weather - The barometer can be used to determine if the weather will change soon and if a storm is likely to occur. The barometric pressure history (last 48 hours) is displayed as a graph and an interpretation of the current reading is shown. If the pressure suddenly drops, a storm alert notification is sent.
+Navigation – The compass can be used to determine the direction to North, and when combined with the GPS it can be used to navigate to predefined locations. The predefined locations, known as beacons, can be created while at a location and at any point you can use the compass to navigate back to where the beacon was placed.
+
+Weather – The barometer can be used to determine if the weather will change soon and if a storm is likely to occur. The barometric pressure history (last 48 hours) is displayed as a graph and an interpretation of the current reading is shown. If the pressure suddenly drops, a storm alert notification is sent.
 
 [Trail sense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
