@@ -144,6 +144,51 @@
 *  In cold weather, keep the battery inside your clothing when not using the radio. Cold quickly drains the battery's power. Do not expose the battery to extreme heat such as desert sun. High heat may cause the battery to explode. The radio is designed to be waterproof, but always try to keep the radio and battery as dry as possible, as water may destroy the circuitry.
 *  A worldwide satellite monitoring system has been developed by international search and rescue agencies to assist in locating survivors. To activate this search and rescue satellite-aided tracking (SARSAT) system in peacetime, key the transmitter for a minimum of 30 seconds.
 
+To avoid confusion due to noise during transmission, for spelling use words beginning with letters you want to spell. There may be different lists of words to use in different languages and locations, but in case of Latin alphabet in most cases it is safe to use International Radiotelephony Spelling Alphabet as listed below.
+
+| Symbol | Code word | ICAO 2008 respelling |
+|---|---|---|
+| A                 | Alfa     | *AL* FAH       |
+| B                 | Bravo    | *BRAH* VOH     |
+| C                 | Charlie  | *CHAR* LEE     |
+| D                 | Delta    | *DELL( TAH     |
+| E                 | Echo     | *ECK* OH       |
+| F                 | Foxtrot  | *FOKS* TROT    |
+| G                 | Golf     | GOLF           |
+| H                 | Hotel    | HO *TELL*      |
+| I                 | India    | *IN* DEE AH    |
+| J                 | Juliett  | *JEW* LEE *ETT* |
+| K                 | Kilo     | *KEY* LOH      |
+| L                 | Lima     | *LEE* MAH      |
+| M                 | Mike     | MIKE           |
+| N                 | November | NO *VEM* BER   |
+| O                 | Oscar    | *OSS* CAH      |
+| P                 | Papa     | PAH *PAH*      |
+| Q                 | Quebec   | KEH *BECK*     |
+| R                 | Romeo    | *ROW* ME OH    |
+| S                 | Sierra   | SEE *AIR* RAH  |
+| T                 | Tango    | *TANG* GO      |
+| U                 | Uniform  | *YOU* NEE FORM |
+| V                 | Victor   | *VIK* TAH      |
+| W                 | Whiskey  | *WISS* KEY     |
+| X                 | X-ray    | *ECKS* RAY     |
+| Y                 | Yankee   | *YANG* KEY     |
+| Z                 | Zulu     | *ZOO* LOO      |
+| 0                 | Zero     | ZE-RO        |
+| 1                 | One      | WUN          |
+| 2                 | Two      | TOO          |
+| 3                 | Three    | TREE         |
+| 4                 | Four     | FOW-er       |
+| 5                 | Five     | FIFE         |
+| 6                 | Six      | SIX          |
+| 7                 | Seven    | SEV-en       |
+| 8                 | Eight    | AIT          |
+| 9                 | Nine     | NIN-er       |
+| . (decimal point) | Decimal  | DAY-SEE-MAL  |
+| 00                | Hundred  | HUN-dred     |
+| 000               | Thousand | TOU-SAND     |
+| . (full stop)     | Stop     | STOP         |
+
 **Whistles**
 
 19-35\. Whistles provide an excellent way for close-up signaling. In some documented cases, they have been heard up to 1.6 kilometers (3/4 mile) away. Manufactured whistles have more range than a human whistle.
