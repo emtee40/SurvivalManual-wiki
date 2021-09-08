@@ -151,7 +151,7 @@ To avoid confusion due to noise during transmission, for spelling use words begi
 | A                 | Alfa     | *AL* FAH       |
 | B                 | Bravo    | *BRAH* VOH     |
 | C                 | Charlie  | *CHAR* LEE     |
-| D                 | Delta    | *DELL( TAH     |
+| D                 | Delta    | *DELL* TAH     |
 | E                 | Echo     | *ECK* OH       |
 | F                 | Foxtrot  | *FOKS* TROT    |
 | G                 | Golf     | GOLF           |
