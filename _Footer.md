@@ -1,1 +1,3 @@
-Really appreciate it and I will probably have fun with this code for this is what I have been doing all of my life
+Really appreciate it and I will probably have fun with this code for this is what I have been doing all of my life.
+
+hutchisonjustin36@gmail.com-hey I see that you needed somebody to do illustrations I downloaded your app cuz I'm going to have to have a survival manual here in a minute I can do illustrations I can draw them up by hand and take pictures of them and download them to wherever you need or upload them to wherever you need I am not tech savvy I just got out of prison after serving 15 years so I don't know how to do all that I'm surprised I actually got this right here so you can reach me at that email right there and let me know if you need them anytime soon okay thank you
