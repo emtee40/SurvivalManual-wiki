@@ -7,13 +7,13 @@ The commonly available tools in a typical MultiTool are:
 
 * Knife
 * Can-Opener / Corkscrew
-* Screw-Driver
-* Pliers / Pinchers
+* Screwdriver
+* Pliers / Tweezers
 * Wire-Cutter
 * Wood-Saw
 * ...
 
-But there are also special tools like: bit-drivers, whistle, scissors, Ferrocerium Rod to spark a fire, Sharpener, ..
+But there are also special tools like: bit-drivers, whistle, scissors, Ferrocerium Rod to spark a fire, Sharpener, ...
 
 If you use a MultiTool in everyday life, then you will know how to use it in a survival situation. The seconds you are faster and the confidence you have in your tool can decide between life and death.
 
@@ -33,3 +33,5 @@ Also, I like the story behind the company. There is a nice video with the [inven
 Another option is Victorinox, the Swiss provider of the Swiss Army Knife (along with being a Swiss-owned Wenger company). 
 
 With less diversity in the model shapes – two in fact, straight or ergonomic. Victorinox offers a serious selection of embeddable tools. One recommendation is the SwissTool Spirit (the ergonomic one).
+
+Alternatively, there are credit card-sized MultiTools called _Swiss Cards_. These have many of the tools that their larger MultiTools have, but are lighter and can fit in your wallet.
