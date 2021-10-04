@@ -374,7 +374,7 @@ Relieve the itching and discomfort caused by insect bites by applying:
 
 **SPIDER BITES AND SCORPION STINGS**
 
-The black widow spider is identified by a red hourglass on it's abdomen. Only the female bites, and it has a neurotoxic venom. The initial pain is not severe, but severe local pain rapidly develops. The pain gradually spreads over the entire body and settles in the abdomen and legs. Abdominal cramps and progressive nausea, vomiting, and a rash may occur. Weakness, tremors, sweating, and salivation may occur. Anaphylactic reactions can occur. Symptoms may worsen for the next three days and then begin to subside for the next week. Treat for shock. Be ready to perform CPR. Clean and dress the bite area to reduce the risk of infection. An antivenin is available.
+The black widow spider is identified by a red hourglass on it's abdomen. Only the female bites, and it has a neurotoxic venom. The initial pain is not severe, but severe local pain rapidly develops. The pain gradually spreads over the entire body and settles in the abdomen and legs. Abdominal cramps and progressive nausea, vomiting, and a rash may occur. Weakness, tremors, sweating, and salivation may occur. Anaphylactic reactions can occur. Symptoms may worsen for the next three days and then begin to subside for the next week. Treat for shock. Be ready to perform CPR. Clean and dress the bite area to reduce the risk of infection. An antivenom is available.
 
 The funnel web spider is a large brown or gray spider found in Australia. The symptoms and the treatment for its bite are identical to the black widow spider.
 
