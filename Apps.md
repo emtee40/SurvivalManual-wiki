@@ -7,7 +7,7 @@ A majority of phones are fitted with a tilt sensor. The [Angulo](https://www.dom
 
 ### Appstore / F-Droid
 
-The Google Play store may not work. [F-Droid.org](https://f-droid.org) allows you to point to alternative repositories. While using the default repository, you can be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) - as are all apps mentioned here.  Also, learn how to "sideload", or install apps without going through an app store directly. Using F-Droid, for example, people can exchange their installed apps via Bluetooth.
+The Google Play store may not work. [F-Droid.org](https://f-droid.org) allows you to point to alternative repositories. While using the default repository, you can be pretty sure the app is libre/[FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) – as are all apps mentioned here.  Also, learn how to "sideload", or install apps without going through an app store directly. Using F-Droid, for example, people can exchange their installed apps via Bluetooth.
 
 ### Barcode scanner
 
@@ -23,7 +23,7 @@ Every Android phone comes standard with a calculator app. These calculator apps 
 
 ### Camera
 
-Your phone's camera can help you take quick pictures of signs, allowing you to capture large chunks of text in an instant. **Doing so with a camera rather than your mind will allow you access to true information that has not been altered by time and space in your brain - especially easily done under stressful conditions.** [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to processing pictures to improve the readability of text.
+Your phone's camera can help you take quick pictures of signs, allowing you to capture large chunks of text in an instant. **Doing so with a camera rather than your mind will allow you access to true information that has not been altered by time and space in your brain – especially easily done under stressful conditions.** [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) is a camera app dedicated to processing pictures to improve the readability of text.
 
 You can also take pictures of the place you are, to help find your way back to it later. Or you can take pictures of your findings far from a site, to help inform others about them.
 
@@ -86,9 +86,9 @@ This feature is available on [Trailsense](https://f-droid.org/en/packages/com.ky
 
 ### Music
 
-Have a Music app that is not a streaming solution, as well as some uplifting music. I suggest DUB or reggae - like [PANDA DUB / LION'S DEN](PandaDubLionsDen), but download whatever works best for you.
+Have a Music app that is not a streaming solution, as well as some uplifting music. I suggest DUB or reggae – like [PANDA DUB / LION'S DEN](PandaDubLionsDen), but download whatever works best for you.
 
-[VLC](https://www.videolan.org/vlc/download-android.html) is a libre media player supporting a wide variety of music and video formats (.MP3, .FLAC, .OGG, .MKV, MP4…).
+[VLC](https://www.videolan.org/vlc/download-android.html) is a libre media player supporting a wide variety of music and video formats (.MP3, .FLAC, .OGG, .MKV, .MP4…).
 
 [Dogmazic](http://www.dogmazic.net/?lang=en) (website, mobile app) provides archives of freely downloadable music.
 
@@ -102,7 +102,6 @@ Install an offline working dictionary, along with the languages that you are mos
 
 [QuickDic](https://github.com/rdoeffinger/Dictionary) is a libre offline translation dictionary available on F-Droid.org fitted with a wide variety of languages.
 
-
 ### Offline encyclopedia
 
 Smartphones allow you to carry not just one book, but your entire library. So why not bring a full encyclopedia, just in case.
@@ -111,7 +110,7 @@ This is what [Aard 2](https://aarddict.org) allows you to do. It's a libre app a
 
 ### Radio
 
-A lot of Android phones come stock with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive this information using a pair of headphones plugged in to the phone, as it typically uses the headphone cable as an antenna to receive the signal. You can also use any other 3.5mm jack component such as:
+A lot of Android phones come stock with an FM radio receiver. Many governments have broadcasting plans in case of emergency. Your phone can receive this information using a pair of headphones plugged into the phone, as it typically uses the headphone cable as an antenna to receive the signal. You can also use any other 3.5mm jack component such as:
 
 * A microphone
 * Computer loudspeakers
@@ -126,7 +125,11 @@ Install PDF or eBook readers and download some books or manuals.
 
 [Document Viewer](https://github.com/PrivacyApps/document-viewer) is a libre app available from F-Droid.org for reading PDF documents, as well as OpenXPS, ComicBook CBZ, FictionBook FB, etc.
 
-Every phone is equipped with enough storage memory to hold thousands of textbooks, and many are already in the public domain. The [Gutenberg Project](https://www.gutenberg.org/) has gathered over 56,000 of them, and there's a top 100 selection to help you make your choice.
+Every phone is equipped with enough storage memory to hold thousands of textbooks, as well as classic literature – many of these works are already in the public domain.
+
+The [Gutenberg Project](https://www.gutenberg.org/) has gathered over 56,000 of them, and there's a top 100 selection to help you make your choice. 
+
+There is also [Standard Ebooks](https://standardebooks.org/) which is an ambitious project to create free high-quality e-books with strict typesetting standards and elegant cover designs.
 
 ### Recorder
 
