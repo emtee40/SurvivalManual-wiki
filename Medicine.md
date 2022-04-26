@@ -324,12 +324,12 @@ To rehabilitate the dislocation, remove the splints after 7 to 14 days. Graduall
 
 The accidental overstretching of a tendon or ligament causes sprains. The signs and symptoms are pain, swelling, tenderness, and discoloration (black and blue).
 
-When treating sprains, you should follow the letters in RICE as defined below:
+When treating sprains, you should follow the letters in **RICE** as defined below:
 
-* R-Rest injured area.
-* I-Ice for 24 to 48 hours.
-* C-Compression-wrap or splint to help stabilize. If possible, leave the boot on a sprained ankle unless circulation is compromised.
-* E-Elevate the affected area.
+* **R**est injured area.
+* **I**ce for 24 to 48 hours.
+* **C**ompression-wrap or splint to help stabilize. If possible, leave the boot on a sprained ankle unless circulation is compromised.
+* **E**levate the affected area.
 
 **NOTE:** Ice is preferred for a sprain but cold spring water may be more easily obtained in a survival situation.
 
