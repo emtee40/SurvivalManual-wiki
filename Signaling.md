@@ -141,10 +141,10 @@
 *  If the radio has tone capability, place it upright on a flat, elevated surface so that you can perform other survival tasks.
 *  Never let any part of the antenna or its mounting lug touch your clothing, body, foliage, or the ground. Such contact greatly reduces the range of the signal.
 *  Conserve battery power. Turn the radio off when you are not using it. Do not transmit or receive constantly. In hostile territory, keep transmissions short to avoid enemy radio direction finding.
-*  In cold weather, keep the battery inside your clothing when not using the radio. Cold quickly drains the battery's power. Do not expose the battery to extreme heat such as desert sun. High heat may cause the battery to explode. The radio is designed to be waterproof, but always try to keep the radio and battery as dry as possible, as water may destroy the circuitry.
+*  In cold weather, keep the battery inside your clothing when not using the radio. Cold quickly drains the battery's power. Do not expose the battery to extreme heat such as the desert sun. High heat may cause the battery to explode. The radio is designed to be waterproof, but always try to keep the radio and battery as dry as possible, as water may destroy the circuitry.
 *  A worldwide satellite monitoring system has been developed by international search and rescue agencies to assist in locating survivors. To activate this search and rescue satellite-aided tracking (SARSAT) system in peacetime, key the transmitter for a minimum of 30 seconds.
 
-To avoid confusion due to noise during transmission, for spelling use words beginning with letters you want to spell. There may be different lists of words to use in different languages and locations, but in case of Latin alphabet in most cases it is safe to use International Radiotelephony Spelling Alphabet as listed below.
+To avoid confusion due to noise during transmission, for spelling use words beginning with the letters you want to spell. There may be different lists of words to use in different languages and locations, but in the case of the Latin alphabet in most cases, it is safe to use International Radiotelephony Spelling Alphabet as listed below.
 
 | Symbol | Code word | ICAO 2008 respelling |
 |---|---|---|
