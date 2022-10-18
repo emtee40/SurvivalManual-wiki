@@ -205,7 +205,7 @@ To avoid confusion due to noise during transmission, for spelling use words begi
 
 19-38\. You can use lights or flags to send an SOS—three dots, three dashes, three dots (• • • — — — • • •). The SOS is the internationally recognized distress signal in radio Morse code. A dot is a short, sharp pulse; a dash is a longer pulse. Keep repeating the signal. When using flags, hold flags on the left side for dashes and on the right side for dots.
 
-Morse code in general follows these rules:
+For sending other messages in Morse code, remember these rules:
 
 * The length of a dot is one unit.
 * A dash is three units.
