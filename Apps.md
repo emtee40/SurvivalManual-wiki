@@ -57,6 +57,12 @@ by InfiniMiner, Minecraft and the like." The default Minetest game that comes wi
 
 **Make sure that the games work offline. Also, be careful not to run out of battery when you really need it.**
 
+### Instant Messaging
+
+Most instant messaging apps (such as Telegram and WhatsApp) rely on centralized servers for facilitating communication between the participants. In a survival situation, it's likely that these servers would become unavailable rendering those apps useless.
+
+[Briar](https://briarproject.org/) is a decentralized instant messaging app which communicates directly between two or more Android smartphones or tablets using TOR, Wi-Fi or Bluetooth. Bluetooth pairs devices directly, though is limited to a range of just 10 meters (33 feet). Briar is available to download from [F-Droid](https://briarproject.org/installing-briar-via-f-droid/) and [Google Play](https://play.google.com/store/apps/details?id=org.briarproject.briar.android). If you are installing via F-Droid, you will need this link: fdroidrepos://briarproject.org/fdroid/repo?fingerprint=1FB874BEE7276D28ECB2C9B06E8A122EC4BCB4008161436CE474C257CBF49BD6
+
 ### Light 
 
 A phone's flashlight can bring light into the dark when you do not have a real flashlight on you. There are many flashlight apps on F-Droid. Including [Trail Sense](https://github.com/ligi/SurvivalManual/wiki/Apps#trailsense)
