@@ -61,7 +61,9 @@ by InfiniMiner, Minecraft and the like." The default Minetest game that comes wi
 
 Most instant messaging apps (such as Telegram and WhatsApp) rely on centralized servers for facilitating communication between the participants. In a survival situation, it's likely that these servers would become unavailable rendering those apps useless.
 
-[Briar](https://briarproject.org/) is a decentralized instant messaging app which communicates directly between two or more Android smartphones or tablets using TOR, Wi-Fi or Bluetooth. Bluetooth pairs devices directly, though is limited to a range of just 10 meters (33 feet). Briar is available to download from [F-Droid](https://briarproject.org/installing-briar-via-f-droid/) and [Google Play](https://play.google.com/store/apps/details?id=org.briarproject.briar.android). If you are installing via F-Droid, you will need this link: fdroidrepos://briarproject.org/fdroid/repo?fingerprint=1FB874BEE7276D28ECB2C9B06E8A122EC4BCB4008161436CE474C257CBF49BD6
+[Briar](https://briarproject.org/) is a decentralized instant messaging app which communicates directly between two or more Android smartphones or tablets using TOR, Wi-Fi or Bluetooth which pairs devices directly. Traditionally, Bluetooth devices have been limited to a range of just 10 meters (33 feet), however, some modern smartphones support Bluetooth 5.0 which can reach up to 400 meters (1312 feet). Check the specification of your smartphone and tablet to find the maximum theoretical distance for its Bluetooth connection.
+
+Briar is available to download from [F-Droid](https://briarproject.org/installing-briar-via-f-droid/) and [Google Play](https://play.google.com/store/apps/details?id=org.briarproject.briar.android). If you are installing via F-Droid, you will need this link: (fdroidrepos://briarproject.org/fdroid/repo?fingerprint=1FB874BEE7276D28ECB2C9B06E8A122EC4BCB4008161436CE474C257CBF49BD6)[fdroidrepos://briarproject.org/fdroid/repo?fingerprint=1FB874BEE7276D28ECB2C9B06E8A122EC4BCB4008161436CE474C257CBF49BD6]
 
 ### Light 
 
