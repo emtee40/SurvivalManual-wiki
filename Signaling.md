@@ -78,6 +78,13 @@
 
 <a name="fig19-3"></a>![Figure 19-3\. MK-3 Signal Mirror](fig19-03.png)
 
+**How To Use The MK-3 Signal Mirror**
+
+1. Reflect sunlight from mirror onto a nearby surface (raft, hand).
+2. Slowly bring up to eye level and look through sighting hole. You will see a bright spot or light. This is the aim indicator.
+3. Hold mirror near the eye and slowly turn and manipulate it so that the bright spot of light is on the target.
+4. In friendly areas where only rescue by friendly forces is anticipated, free use of the mirror is recommended. Even though no aircraft or ships are in sight, continue to sweep the horizon. Mirror ﬂashes may be seen for many miles, even in hazy weather. In hostile areas, the signal mirror must be used as an aimed signal only.
+
 **Figure 19-3\. MK-3 Signal Mirror**
 
 <a name="fig19-4"></a>![Figure 19-4\. Aiming an Improvised Signal Mirror](fig19-04.png)
