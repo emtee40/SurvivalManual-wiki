@@ -144,14 +144,6 @@
 *  In cold weather, keep the battery inside your clothing when not using the radio. Cold quickly drains the battery's power. Do not expose the battery to extreme heat such as the desert sun. High heat may cause the battery to explode. The radio is designed to be waterproof, but always try to keep the radio and battery as dry as possible, as water may destroy the circuitry.
 *  A worldwide satellite monitoring system has been developed by international search and rescue agencies to assist in locating survivors. To activate this search and rescue satellite-aided tracking (SARSAT) system in peacetime, key the transmitter for a minimum of 30 seconds.
 
-In situations where voice communication is not possible or impractical consider Morse code. As mentioned in the [Apps](https://github.com/ligi/SurvivalManual/wiki/Signaling/apps.xhtml) chapter, there is a standard SOS code (• • • — — — • • •) for communicating distress.
-
-* The length of a dot is one unit.
-* A dash is three units.
-* The space between parts of the same letter is one unit.
-* The space between letters is three units.
-* The space between words is seven units.
-
 To avoid confusion due to noise during transmission, for spelling use words beginning with the letters you want to spell. There may be different lists of words to use in different languages and locations, but in the case of the Latin alphabet in most cases, it is safe to use International Radiotelephony Spelling Alphabet as listed below.
 
 | Symbol | Code word | ICAO 2008 respelling | Morse code |
@@ -211,7 +203,15 @@ To avoid confusion due to noise during transmission, for spelling use words begi
 
 **SOS**
 
-19-38\. You can use lights or flags to send an SOS—three dots, three dashes, three dots. The SOS is the internationally recognized distress signal in radio Morse code. A dot is a short, sharp pulse; a dash is a longer pulse. Keep repeating the signal. When using flags, hold flags on the left side for dashes and on the right side for dots.
+19-38\. You can use lights or flags to send an SOS—three dots, three dashes, three dots (• • • — — — • • •). The SOS is the internationally recognized distress signal in radio Morse code. A dot is a short, sharp pulse; a dash is a longer pulse. Keep repeating the signal. When using flags, hold flags on the left side for dashes and on the right side for dots.
+
+Morse code in general follows these rules:
+
+* The length of a dot is one unit.
+* A dash is three units.
+* The space between parts of the same letter is one unit.
+* The space between letters is three units.
+* The space between words is seven units.
 
 **GROUND-TO-AIR EMERGENCY CODE**
 
