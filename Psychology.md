@@ -137,6 +137,8 @@ People under stress have a potential to panic if they are not well-trained and n
 
 ### BASIC STRESS MANAGEMENT TECHNIQUES
 
+These techniques have been adapted from "Super Reading Secrets" (ISBN: 978-0-446362993) by Howard Stephen Berg which are designed to improve learning efficiency:
+
 **Belly Breathing:** Instead of breathing by expanding your chest, breathe in while expanding your belly. This breathing technique is known for being very relaxing.
 
 **Double Inhale:** Breathe in twice. Breathe in as much as you can, wait for about a second, then try to breathe in some more before breathing out. Adding delay between the steps and inhaling/exhaling slowly might increase the effectiveness of the exercise. Some versions of the exercise suggest breathing in a third time. This breathing technique has a calming effect and is cited to be used by professionals in stressful working environments.
