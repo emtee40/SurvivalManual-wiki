@@ -38,7 +38,7 @@ Sea ice that is gray in color or opaque is salty. Do not use it without desaltin
     * Wherever you find damp sand surface sand
     * Wherever you find green vegetation
   * **Means of obtaining and/or making potable:** Dig holes deep enough to allow water to seep in.
-  * **Remarks:** In a sand dune belt, any available water will be found beneath the original valley floow at the edge of dunes.
+  * **Remarks:** In a sand dune belt, any available water will be found beneath the original valley floor at the edge of dunes.
 * **Desert (extended)**
   * **Cacti**
     * **Means of obtaining and/or making potable:** Cut off the top of a barrel cactus and mash or squeeze the pulp.
