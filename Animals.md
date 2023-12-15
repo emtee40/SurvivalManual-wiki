@@ -129,16 +129,6 @@ There are no infallible rules for expedient identification of venomous snakes in
 
 </tr>
 
-</tbody>
-
-</table>
-
-**Figure 11-1\. Venomous Snakes of the World**
-
-<table cellspacing="0" cellpadding="7" border="1" width="426">
-
-<tbody>
-
 <tr>
 
 <td valign="top" bgcolor="#000000">
@@ -197,7 +187,7 @@ There are no infallible rules for expedient identification of venomous snakes in
 
 </center>
 
-**Figure 11-1\. Venomous Snakes of the World (Continued)**
+**Figure 11-1\. Venomous Snakes of the World**
 
 ### SNAKE-FREE AREAS
 
