@@ -124,24 +124,6 @@ There are no infallible rules for expedient identification of venomous snakes in
 <td valign="top">
 *  Boomslang (_Dispholidus typus_)
 *  Cobra (_Naja_ species)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top" bgcolor="#000000">
-
-**<font color="#ffffff">Africa and Asia (Continued)</font>**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
 *  Gaboon viper (_Bitis gabonica_)
 *  Green tree pit viper (_Trimeresurus gramineus_)
 *  Habu pit viper (_Trimeresurus flavoviridis_)
@@ -175,7 +157,7 @@ There are no infallible rules for expedient identification of venomous snakes in
 *  Death adder (_Acanthophis antarcticus_)
 *  Taipan (_Oxyuranus scutellatus_)
 *  Tiger snake (_Notechis scutatus_)
-*  Yellow-bellied sea snake (_Pelamis platurus)_
+*  Yellow-bellied sea snake (_Pelamis platurus_)
 
 </td>
 
