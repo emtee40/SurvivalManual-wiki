@@ -48,7 +48,7 @@ The heat and light the nuclear fireball emits cause thermal injuries. First-, se
 
 **Radiation Injuries**
 
-Neutrons, gamma radiation, alpha radiation, and beta radiation cause radiation injuries. Neutrons are high-speed, extremely penetrating particles that actually smash cells within your body. Gamma radiation is similar to X rays and is also highly penetrating radiation. During the initial fireball stage of a nuclear detonation, initial gamma radiation and neutrons are the most serious threat. Beta and alpha radiation are radioactive particles normally associated with radioactive dust from fallout. They are short-range particles. You can easily protect yourself against them if you take precautions. See "Bodily Reactions to Radiation," below, for the symptoms of radiation injuries.
+Neutrons, gamma radiation, alpha radiation, and beta radiation cause radiation injuries. Neutrons are high-speed, extremely penetrating particles that actually smash cells within your body. Gamma radiation is similar to X rays and is also highly penetrating radiation. During the initial fireball stage of a nuclear detonation, initial gamma radiation and neutrons are the most serious threat. Beta and alpha radiation are radioactive particles normally associated with radioactive dust from fallout. They are short-range particles. You can easily protect yourself against them if you take precautions. See "Bodily Reactions to Radiation" below, for the symptoms of radiation injuries.
 
 **RESIDUAL RADIATION**
 
