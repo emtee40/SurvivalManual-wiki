@@ -33,7 +33,7 @@ Directions can be useful, learn how to read a compass and how to navigate using 
 
 ### Cryptocurrency 
 
-In a situation where fiat money/banks are no longer a viable option, it may be best to have a [cryptocurrency wallet like WallETH](https://bit.ly/3iI0lpK) or [Electrum](https://electrum.org/) already set up. Transfer a small amount onto it now and learn how to use it for later. For even better security, utilize a hardware wallet like the [TREZOR](https://shop.trezor.io?a=walleth.org). You can also use the TREZOR (including the new model T) together with WallETH on your phone. If you are concerned about the volatility of cryptocurrencies, you may want to research stable coins like [DAI](https://dai.makerdao.com).
+In a situation where currency or banks are no longer a viable option, it may be best to have a [cryptocurrency wallet like WallETH](https://bit.ly/3iI0lpK) or [Electrum](https://electrum.org/) already set up. Transfer a small amount onto it now and learn how to use it for later. For even better security, utilize a hardware wallet like the [TREZOR](https://shop.trezor.io?a=walleth.org). You can also use the TREZOR (including the new model T) together with WallETH on your phone. If you are concerned about the volatility of cryptocurrencies, you may want to research stable coins like [DAI](https://dai.makerdao.com).
 
 ### Games
 
