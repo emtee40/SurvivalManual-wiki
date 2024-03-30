@@ -68,6 +68,15 @@
 
 **Figure 18-4\. Southern Cross**
 
+**The Orion Method**
+
+18-14b\. In the tropics, identification of the celestial poles may be impossible because of the low latitude. The constellation of Orion rises due east and sets due west. A line joining the two northern stars of Orion runs east-west. ([Figure 18-4b](#fig18-4b)).
+
+<a name="fig18-4b"></a>![Figure 18-4b\. Orion Method](fig18-04b.png)
+
+**Figure 18-4b\. Orion Method**
+
+
 ### MAKING IMPROVISED COMPASSES
 
 18-15\. You can construct improvised compasses using a piece of ferrous metal that can be needleshaped or a flat double-edged razor blade and a piece of thread or long hair from which to suspend it. You can magnetize or polarize the metal by slowly stroking it in one direction on a piece of silk or carefully through your hair using deliberate strokes. You can also polarize metal by stroking it repeatedly at one end with a magnet. Always stroke in one direction only. If you have a battery and some electric wire, you can polarize the metal electrically. The wire should be insulated. If it is not insulated, wrap the metal object in a single, thin strip of paper or a leaf to prevent contact. The battery must be a minimum of 2 volts. Form a coil with the electric wire and touch its ends to the battery's terminals. Repeatedly insert one end of the metal object in and out of the coil. The needle will become an electromagnet. When suspended from a piece of nonmetallic string, or floated on a small piece of wood, cork or a leaf in water, it will align itself with a north-south line.
