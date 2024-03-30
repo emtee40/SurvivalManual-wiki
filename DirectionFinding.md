@@ -74,7 +74,6 @@
 
 
 ![figure18-4b\. Orion Method](https://github.com/ligi/SurvivalManual/assets/107297413/d2690c9c-2c52-4935-bc27-954e54fdcbc1)
-<a name="fig18-4b"></a>![Figure 18-4b\. Orion Method](fig18-04b.png)
 
 **Figure 18-4b\. Orion Method**
 
