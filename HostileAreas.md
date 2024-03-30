@@ -99,10 +99,10 @@ Be constantly on the alert for friendly patrols because these provide a means fo
 
 Because of the missions of combat and reconnaissance patrols and where they are operating, making contact can be dangerous. If you decide not to make contact, you can observe their route and approach friendly lines at about the same location. Such observation will enable you to avoid mines and booby traps.
 
-Once you have spotted a patrol, remain in position and, if possible, allow the patrol to move toward you. When the patrol is 25 to 50 meters (83 to 165 feet) from your position, signal them and call out a greeting that is clearly and unmistakably of American origin.
+Once you have spotted a patrol, remain in position and, if possible, allow the patrol to move toward you. When the patrol is 25 to 50 meters (83 to 165 feet) from your position, signal them and call out a greeting that is clearly and unmistakably of friendly origin.
 
 If you have nothing white, an article of clothing will suffice to draw attention. If the distance is greater than 50 meters (165 feet), a reconnaissance patrol may avoid contact and bypass your position. If the distance is less than 25 meters (83 feet), a patrol member may react instantly by firing a fatal shot.
 
-It is crucial, at the time of contact, that there is enough light for the patrol to identify you as an American.
+It is crucial, at the time of contact, that there is enough light for the patrol to identify you as a friendly.
 
 Whatever linkup technique you decide to use, use extreme caution. From the perspective of the friendly patrol or friendly personnel occupying a perimeter, you are hostile until they make positive identification.
