@@ -1,6 +1,6 @@
 *Q: Can you make this app work with the ultra power saving mode on Samsung devices?*
 
-A: It does not seem to be possible. As far as I was able to find out – apps have to be white-listed from Samsung. I have found no option to do this from the app-side. Would love to be able to do this – but it does not seem to be possible. If you know a way please let me know! Also if someone has contact with vendors like Samsung – I also would love if this app gets preinstalled on new phones.
+A: Yes it is quite possible. When you turn on ultra power saving mode, the home screen will have eight buttons shaped like a plus for adding apps to your home screen. If you press on the plus, you can scroll down to the Survival app, and add it. Let me know if someone has contact with vendors like Samsung – I also would love if this app gets preinstalled on new phones.
 
 *Q: I found a typo – do I have to live with it?*
 
