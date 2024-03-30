@@ -72,6 +72,8 @@
 
 18-14b\. In the tropics, identification of the celestial poles may be impossible because of the low latitude. The constellation of Orion rises due east and sets due west. A line joining the two northern stars of Orion runs east-west. ([Figure 18-4b](#fig18-4b)).
 
+
+![figure18-4b\. Orion Method](https://github.com/ligi/SurvivalManual/assets/107297413/d2690c9c-2c52-4935-bc27-954e54fdcbc1)
 <a name="fig18-4b"></a>![Figure 18-4b\. Orion Method](fig18-04b.png)
 
 **Figure 18-4b\. Orion Method**
