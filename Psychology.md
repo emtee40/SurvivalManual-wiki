@@ -24,7 +24,7 @@ We need to have *some* stress in our lives, but too much of anything can be bad.
 * Hiding from responsibilities
 * Carelessness
 
-As you can see, stress can be constructive or destructive. It can encourage or discourage, move us along or stop us dead in our tracks, make life meaningful or seemingly meaningless. Stress can inspire you to operate successfully and perform at your maximum efficiency in a survival situation. It can also cause you to panic and forget all your training. The key to survival is your ability to manage the inevitable stresses you will encounter. The person that survives is one who works with her stresses instead of letting her stresses work on her.
+As you can see, stress can be constructive or destructive. It can encourage or discourage, move us along or stop us dead in our tracks, make life meaningful or seemingly meaningless. Stress can inspire you to operate successfully and perform at your maximum efficiency in a survival situation. It can also cause you to panic and forget all your training. The key to survival is your ability to manage the inevitable stresses you will encounter. The people who survive are the ones who work with their stresses instead of letting their stresses work on them.
 
 ### SURVIVAL STRESSORS
 
