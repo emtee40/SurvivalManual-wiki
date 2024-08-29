@@ -1,3 +1,5 @@
+
+[23-08-682-leader-s-guide-to-maintenance-and-services-aug-23-public.pdf](https://github.com/user-attachments/files/16808137/23-08-682-leader-s-guide-to-maintenance-and-services-aug-23-public.pdf)
 # Basic Mechanical Skills
 
 In survival situations, having basic mechanical skills can make the difference between safety and danger. This section covers essential mechanical tasks and repair techniques for vehicles, aircraft, and boats.
