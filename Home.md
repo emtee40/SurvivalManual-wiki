@@ -26,7 +26,7 @@
 
 ### [Tools and Equipment](Tools)
 
-### [Car Repairs](CarRepairs)
+### [Car Repair](CarRepair)
 
 ### [Basic Mechanical Skills](BasicMechanicalSkills)
 
