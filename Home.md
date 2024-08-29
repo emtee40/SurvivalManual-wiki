@@ -34,7 +34,6 @@
 
 ### [Weapons](Weapons)
 
-
 ### [Desert](Desert)
 
 ### [Tropical](Tropical)
@@ -64,7 +63,6 @@
 ### [Dangerous Fish and Mollusks](FishAndMollusks)
 
 ### [Ropes and Knots](RopesAndKnots)
-
 
 Appendix
 ========
