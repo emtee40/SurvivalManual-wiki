@@ -26,6 +26,15 @@
 
 ### [Tools and Equipment](Tools)
 
+### [Car Repairs](CarRepairs)
+
+### [Basic Mechanical Skills](BasicMechanicalSkills)
+
+### [Blackout Driving](BlackoutDriving)
+
+### [Weapons](Weapons)
+
+
 ### [Desert](Desert)
 
 ### [Tropical](Tropical)
@@ -56,11 +65,6 @@
 
 ### [Ropes and Knots](RopesAndKnots)
 
-### [Basic Mechanical Skills](BasicMechanicalSkills)
-
-### [Blackout Driving](BlackoutDriving)
-
-### [Weapons](Weapons)
 
 Appendix
 ========
