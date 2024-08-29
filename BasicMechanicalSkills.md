@@ -28,7 +28,3 @@ In a survival situation, having basic mechanical skills can make the difference 
 #### **6. Practice and Resourcefulness**
    - **Regular Practice**: Like any skill, mechanical abilities improve with practice. Regularly work on small projects to hone your skills.
    - **Resourcefulness**: In a survival situation, think creatively. Use what’s available to solve problems, even if it means using materials or tools in unconventional ways.
-
----
-
-This addition should provide readers with a solid foundation in basic mechanical skills that are crucial for survival.
