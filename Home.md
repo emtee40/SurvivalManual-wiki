@@ -58,6 +58,10 @@
 
 ### [Basic Mechanical Skills](BasicMechanicalSkills)
 
+### [Blackout Driving](BlackoutDriving)
+
+### [Weapons](Weapons)
+
 Appendix
 ========
 
