@@ -56,6 +56,8 @@
 
 ### [Ropes and Knots](RopesAndKnots)
 
+### [Basic Mechanical Skills](BasicMechanicalSkills)
+
 Appendix
 ========
 
