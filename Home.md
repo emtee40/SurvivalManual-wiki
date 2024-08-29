@@ -26,11 +26,11 @@
 
 ### [Tools and Equipment](Tools)
 
-### [Car Repair](CarRepair)
+### [Car Repair](Car Repair)
 
-### [Basic Mechanical Skills](BasicMechanicalSkills)
+### [Basic Mechanical Skills](Basic Mechanical Skills)
 
-### [Blackout Driving](BlackoutDriving)
+### [Blackout Driving](Blackout Driving)
 
 ### [Weapons](Weapons)
 
