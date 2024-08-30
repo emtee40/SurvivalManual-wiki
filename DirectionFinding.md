@@ -66,7 +66,7 @@
 
 <a name="fig18-4"></a>![Figure 18-4\. Southern Cross](fig18-04.png)
 
-**Figure 18-4\. Southern Cross**
+**Figure 18-4a\. Southern Cross**
 
 **The Orion Method**
 
