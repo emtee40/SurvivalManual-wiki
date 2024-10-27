@@ -64,6 +64,8 @@
 
 ### [Ropes and Knots](RopesAndKnots)
 
+### [Poisonous Plants](Poisonous-Plants)
+
 Appendix
 ========
 
