@@ -72,7 +72,7 @@ A phone's flashlight can bring light into the dark when you do not have a real f
 
 ### Maps / Navigation
 
-Have a mapping and navigation solution that can work offline like [OsmAnd](http://osmand.net). Download the data for your area and any other areas that you may need. Try it out offline (enable airplane mode). It may take a little longer to acquire a GPS signal, but you want to make sure it works now, in advance of the need for it to work later.
+Have a mapping and navigation solution that can work offline like [Organic Maps](https://organicmaps.app) (or [OsmAnd](http://osmand.net) for more features in complex menus). Download the data for your area and any other areas that you may need. Try it out offline (enable airplane mode). It may take a little longer to acquire a GPS signal, but you want to make sure it works now, in advance of the need for it to work later.
 
 ### Morse signal
 
